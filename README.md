@@ -6,13 +6,13 @@
 
 After run this program, you will get:
 
-folder/
-├── colleges.list
-├── dnslist
-├── getAXFR.sh
-├── host.txt
-├── log.err
-└── log.txt
+	folder/
+	├── colleges.list
+	├── dnslist
+	├── getAXFR.sh
+	├── host.txt
+	├── log.err
+	└── log.txt
 
 - colleges.list : domain list to scan (start with prefix 'www.')
 - dnslist : this folder contains dns zone transfer list
