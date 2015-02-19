@@ -1,0 +1,120 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hsu.edu.cn @dns.hsu.edu.cn.
+;; global options: +cmd
+hsu.edu.cn.		3600	IN	SOA	ns.hsu.edu.cn. admin.hsu.edu.cn. 408 900 600 86400 3600
+hsu.edu.cn.		3600	IN	A	211.86.191.0
+hsu.edu.cn.		3600	IN	NS	dns.hsu.edu.cn.
+hsu.edu.cn.		3600	IN	NS	ns.hsu.edu.cn.
+hsu.edu.cn.		3600	IN	MX	5 mail.hsu.edu.cn.
+hsu.edu.cn.		3600	IN	MX	1 mail-wg.hsu.edu.cn.
+art.hsu.edu.cn.		3600	IN	A	218.22.218.180
+bbs.hsu.edu.cn.		3600	IN	A	172.18.30.22
+bgs.hsu.edu.cn.		3600	IN	A	218.22.218.180
+bwc.hsu.edu.cn.		3600	IN	A	218.22.218.180
+cie.hsu.edu.cn.		3600	IN	A	218.22.218.180
+cjc.hsu.edu.cn.		3600	IN	A	218.22.218.180
+cjx.hsu.edu.cn.		3600	IN	A	218.22.218.188
+cw.hsu.edu.cn.		3600	IN	A	218.22.218.180
+cz.hsu.edu.cn.		3600	IN	A	218.22.218.188
+ddh.hsu.edu.cn.		3600	IN	A	218.22.218.188
+dfhz.hsu.edu.cn.	3600	IN	A	218.22.218.188
+dns.hsu.edu.cn.		3600	IN	A	211.86.191.2
+dwb.hsu.edu.cn.		3600	IN	A	218.22.218.180
+ecard.hsu.edu.cn.	3600	IN	A	172.18.23.112
+edoas.hsu.edu.cn.	3600	IN	A	192.168.100.13
+en.hsu.edu.cn.		3600	IN	A	218.22.218.188
+eol.hsu.edu.cn.		3600	IN	A	192.168.0.28
+fld.hsu.edu.cn.		3600	IN	A	218.22.218.184
+fxzx.hsu.edu.cn.	3600	IN	A	218.22.218.188
+fyzx.hsu.edu.cn.	3600	IN	A	218.22.218.180
+gh.hsu.edu.cn.		3600	IN	A	218.22.218.180
+gw.hsu.edu.cn.		3600	IN	A	172.16.2.14
+gzc.hsu.edu.cn.		3600	IN	A	218.22.218.180
+hqjt.hsu.edu.cn.	3600	IN	A	218.22.218.180
+hsuvod.hsu.edu.cn.	3600	IN	A	211.86.191.16
+hwh.hsu.edu.cn.		3600	IN	A	218.22.218.180
+hx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+hzbx.hsu.edu.cn.	3600	IN	A	218.22.218.188
+iec.hsu.edu.cn.		3600	IN	A	218.22.218.188
+jdxy.hsu.edu.cn.	3600	IN	A	218.22.218.180
+jf.hsu.edu.cn.		3600	IN	A	172.16.2.14
+jg.hsu.edu.cn.		3600	IN	A	218.22.218.180
+jjjc.hsu.edu.cn.	3600	IN	A	218.22.218.180
+job.hsu.edu.cn.		3600	IN	A	218.22.218.190
+js.hsu.edu.cn.		3600	IN	A	218.22.218.179
+jsj.hsu.edu.cn.		3600	IN	A	211.86.191.15
+jswm.hsu.edu.cn.	3600	IN	A	218.22.218.188
+jw.hsu.edu.cn.		3600	IN	A	218.22.218.180
+jwc.hsu.edu.cn.		3600	IN	A	218.22.218.186
+jyx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+jzx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+kyc.hsu.edu.cn.		3600	IN	A	218.22.218.180
+book.lib.hsu.edu.cn.	3600	IN	CNAME	book1.3g.chaoxing.com.
+eng.lib.hsu.edu.cn.	3600	IN	CNAME	fqk.3g.chaoxing.com.
+jour.lib.hsu.edu.cn.	3600	IN	CNAME	qk.3g.chaoxing.com.
+m.lib.hsu.edu.cn.	3600	IN	CNAME	www.3g.chaoxing.com.
+mc.lib.hsu.edu.cn.	3600	IN	CNAME	mc.3g.chaoxing.com.
+ms.lib.hsu.edu.cn.	3600	IN	A	211.86.191.22
+newspaper.lib.hsu.edu.cn. 3600	IN	CNAME	newspaper1.3g.chaoxing.com.
+qw.lib.hsu.edu.cn.	3600	IN	CNAME	qw.3g.chaoxing.com.
+www.lib.hsu.edu.cn.	3600	IN	A	211.86.191.33
+ltx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+lzfk.hsu.edu.cn.	3600	IN	A	218.22.218.188
+mail.hsu.edu.cn.	3600	IN	A	211.86.191.19
+mail-wg.hsu.edu.cn.	3600	IN	A	211.86.191.18
+metc.hsu.edu.cn.	3600	IN	A	218.22.218.180
+move.hsu.edu.cn.	3600	IN	A	192.168.0.119
+music.hsu.edu.cn.	3600	IN	A	172.18.30.90
+mv.hsu.edu.cn.		3600	IN	A	218.22.218.178
+net.hsu.edu.cn.		3600	IN	A	218.22.218.188
+nic.hsu.edu.cn.		3600	IN	A	192.168.0.10
+ns.hsu.edu.cn.		3600	IN	A	211.86.191.1
+ntp.hsu.edu.cn.		3600	IN	A	192.168.100.39
+oa.hsu.edu.cn.		3600	IN	A	218.22.218.179
+pop.hsu.edu.cn.		3600	IN	A	211.86.191.18
+pop3.hsu.edu.cn.	3600	IN	A	211.86.191.18
+pt.hsu.edu.cn.		3600	IN	A	192.168.0.210
+qq.hsu.edu.cn.		3600	IN	A	192.168.100.22
+qzlx.hsu.edu.cn.	3600	IN	A	218.22.218.188
+rsc.hsu.edu.cn.		3600	IN	A	218.22.218.180
+shxy.hsu.edu.cn.	3600	IN	A	218.22.218.180
+skx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+slh.hsu.edu.cn.		3600	IN	A	218.22.218.180
+smtp.hsu.edu.cn.	3600	IN	A	211.86.191.18
+sxx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+tdyl.hsu.edu.cn.	3600	IN	A	218.22.218.188
+tour.hsu.edu.cn.	3600	IN	A	218.22.218.180
+tsg.hsu.edu.cn.		3600	IN	A	218.22.218.180
+tv.hsu.edu.cn.		3600	IN	A	192.168.0.52
+tw.hsu.edu.cn.		3600	IN	A	218.22.218.180
+tyx.hsu.edu.cn.		3600	IN	A	218.22.218.180
+vod.hsu.edu.cn.		3600	IN	A	192.168.0.119
+vpn.hsu.edu.cn.		3600	IN	A	218.22.218.185
+wbxy.hsu.edu.cn.	3600	IN	A	218.22.218.180
+wgy.hsu.edu.cn.		3600	IN	A	218.22.218.180
+whw.hsu.edu.cn.		3600	IN	A	218.22.218.180
+wnxj.hsu.edu.cn.	3600	IN	A	218.22.218.180
+wsus.hsu.edu.cn.	3600	IN	A	192.168.0.55
+www.hsu.edu.cn.		3600	IN	A	218.22.218.188
+wxy.hsu.edu.cn.		3600	IN	A	218.22.218.180
+xajx.hsu.edu.cn.	3600	IN	A	218.22.218.186
+xb.hsu.edu.cn.		3600	IN	A	218.22.218.180
+xcb.hsu.edu.cn.		3600	IN	A	218.22.218.180
+xfjs.hsu.edu.cn.	3600	IN	A	218.22.218.188
+xsc.hsu.edu.cn.		3600	IN	A	218.22.218.190
+xsh.hsu.edu.cn.		3600	IN	A	218.22.218.180
+xszx.hsu.edu.cn.	3600	IN	A	218.22.218.188
+xxgk.hsu.edu.cn.	3600	IN	A	218.22.218.188
+xyw.hsu.edu.cn.		3600	IN	A	218.22.218.188
+ysgzs.hsu.edu.cn.	3600	IN	A	218.22.218.180
+yy.hsu.edu.cn.		3600	IN	A	218.22.218.180
+zlgc.hsu.edu.cn.	3600	IN	A	211.86.191.16
+zsb.hsu.edu.cn.		3600	IN	A	218.22.218.188
+zwc.hsu.edu.cn.		3600	IN	A	218.22.218.180
+zzb.hsu.edu.cn.		3600	IN	A	218.22.218.180
+hsu.edu.cn.		3600	IN	SOA	ns.hsu.edu.cn. admin.hsu.edu.cn. 408 900 600 86400 3600
+;; Query time: 49 msec
+;; SERVER: 211.86.191.2#53(211.86.191.2)
+;; WHEN: Mon Feb 16 23:21:51 2015
+;; XFR size: 112 records (messages 112, bytes 5608)
+

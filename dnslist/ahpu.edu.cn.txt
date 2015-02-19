@@ -1,0 +1,70 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr ahpu.edu.cn @dns1.ahpu.edu.cn.
+;; global options: +cmd
+ahpu.edu.cn.		3600	IN	SOA	dns1.ahpu.edu.cn. net.ahpu.edu.cn. 2015012302 30 30 360 3600
+ahpu.edu.cn.		3600	IN	MX	5 gw.ahpu.edu.cn.
+ahpu.edu.cn.		3600	IN	MX	10 mail.ahpu.edu.cn.
+ahpu.edu.cn.		3600	IN	NS	dns1.ahpu.edu.cn.
+ahpu.edu.cn.		3600	IN	NS	dns2.ahpu.edu.cn.
+app.ahpu.edu.cn.	3600	IN	A	211.86.224.48
+atc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+auth.ahpu.edu.cn.	3600	IN	A	211.86.224.33
+bwc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+c.ahpu.edu.cn.		3600	IN	A	211.86.224.22
+card.ahpu.edu.cn.	3600	IN	A	211.86.226.162
+cwc.ahpu.edu.cn.	3600	IN	A	211.86.224.200
+cx.ahpu.edu.cn.		3600	IN	A	211.86.238.251
+data.ahpu.edu.cn.	3600	IN	A	211.86.224.57
+data2.ahpu.edu.cn.	3600	IN	A	211.86.224.21
+dns1.ahpu.edu.cn.	3600	IN	A	211.86.224.2
+dns2.ahpu.edu.cn.	3600	IN	A	211.86.224.4
+edoas.ahpu.edu.cn.	3600	IN	A	211.86.224.12
+en.ahpu.edu.cn.		3600	IN	A	211.86.224.29
+eol.ahpu.edu.cn.	3600	IN	A	211.86.224.50
+finance.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+fserm2015.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+gonghui.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+grs.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+gw.ahpu.edu.cn.		3600	IN	A	211.86.224.60
+gzc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+hqjt.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+im.ahpu.edu.cn.		3600	IN	A	211.86.224.47
+info.ahpu.edu.cn.	3600	IN	A	211.86.224.31
+jcxlb.ahpu.edu.cn.	3600	IN	CNAME	cx.ahpu.edu.cn.
+jdxy.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+jpkc.ahpu.edu.cn.	3600	IN	A	211.86.224.55
+jw2.ahpu.edu.cn.	3600	IN	A	211.86.224.13
+jw3.ahpu.edu.cn.	3600	IN	A	114.213.160.253
+jw3.ahpu.edu.cn.	3600	IN	A	211.86.224.14
+jwb.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+jwc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+kjc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+lib.ahpu.edu.cn.	3600	IN	A	211.86.225.47
+lib2.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+mail.ahpu.edu.cn.	3600	IN	A	211.86.224.58
+metc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+ms.ahpu.edu.cn.		3600	IN	A	211.86.224.46
+oa.ahpu.edu.cn.		3600	IN	A	211.86.224.11
+office.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+oiec.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+q.ahpu.edu.cn.		3600	IN	A	211.86.224.21
+rsc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+sce.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+sjc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+ss.ahpu.edu.cn.		3600	IN	A	211.86.224.59
+tmp.ahpu.edu.cn.	3600	IN	A	211.86.224.26
+tu.ahpu.edu.cn.		3600	IN	A	211.86.224.25
+tuanwei.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+v.ahpu.edu.cn.		3600	IN	A	211.86.224.7
+www.ahpu.edu.cn.	3600	IN	A	211.86.224.9
+www1.ahpu.edu.cn.	3600	IN	A	211.86.224.20
+xcb.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+xsc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+zwc.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+zzb.ahpu.edu.cn.	3600	IN	CNAME	www.ahpu.edu.cn.
+ahpu.edu.cn.		3600	IN	SOA	dns1.ahpu.edu.cn. net.ahpu.edu.cn. 2015012302 30 30 360 3600
+;; Query time: 20 msec
+;; SERVER: 211.86.224.2#53(211.86.224.2)
+;; WHEN: Mon Feb 16 23:21:51 2015
+;; XFR size: 62 records (messages 1, bytes 1258)
+

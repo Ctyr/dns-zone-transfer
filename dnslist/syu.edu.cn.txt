@@ -1,0 +1,64 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr syu.edu.cn @sdserver.syu.edu.cn.
+;; global options: +cmd
+syu.edu.cn.		3600	IN	SOA	sdserver.syu.edu.cn. root.syu.edu.cn. 2015012102 30 30 360 3600
+syu.edu.cn.		3600	IN	MX	10 mail.syu.edu.cn.
+syu.edu.cn.		3600	IN	NS	sdserver.syu.edu.cn.
+*.syu.edu.cn.		3600	IN	A	218.61.67.172
+accounting.syu.edu.cn.	3600	IN	A	59.46.76.153
+ava01.syu.edu.cn.	3600	IN	A	172.16.253.41
+ava01repl.syu.edu.cn.	3600	IN	A	172.16.252.41
+ava02.syu.edu.cn.	3600	IN	A	172.16.253.42
+ava02repl.syu.edu.cn.	3600	IN	A	172.16.252.42
+bb.syu.edu.cn.		3600	IN	A	59.46.76.155
+college.syu.edu.cn.	3600	IN	A	218.25.103.72
+cw.syu.edu.cn.		3600	IN	A	218.25.103.73
+dangan.syu.edu.cn.	3600	IN	A	172.16.22.249
+dns.syu.edu.cn.		3600	IN	A	202.199.32.2
+eportal.syu.edu.cn.	3600	IN	A	172.16.32.247
+gccrc.syu.edu.cn.	3600	IN	A	218.25.103.83
+gzxsgl.syu.edu.cn.	3600	IN	A	59.46.76.152
+hjxy.syu.edu.cn.	3600	IN	A	222.33.46.107
+infor.syu.edu.cn.	3600	IN	A	172.16.32.4
+jsjbm.syu.edu.cn.	3600	IN	A	218.25.103.82
+jw.syu.edu.cn.		3600	IN	A	192.168.31.12
+jw2.syu.edu.cn.		3600	IN	A	192.168.31.19
+kszx.syu.edu.cn.	3600	IN	A	222.33.46.98
+kygl.syu.edu.cn.	3600	IN	A	222.33.46.102
+kyzx.syu.edu.cn.	3600	IN	A	218.25.103.72
+lib.syu.edu.cn.		3600	IN	A	218.25.103.80
+lshzt.syu.edu.cn.	3600	IN	A	59.46.76.154
+mail.syu.edu.cn.	3600	IN	A	222.33.46.104
+mba.syu.edu.cn.		3600	IN	A	218.25.103.72
+ms.syu.edu.cn.		3600	IN	A	218.61.67.182
+netkuu.syu.edu.cn.	3600	IN	A	172.16.32.6
+news.syu.edu.cn.	3600	IN	A	218.25.103.69
+oa.syu.edu.cn.		3600	IN	A	222.33.46.106
+sam.syu.edu.cn.		3600	IN	A	172.16.32.253
+sdjw.syu.edu.cn.	3600	IN	A	218.25.103.79
+sdjw2.syu.edu.cn.	3600	IN	A	218.25.103.68
+sdserver.syu.edu.cn.	3600	IN	A	202.199.32.2
+slog.syu.edu.cn.	3600	IN	A	222.33.46.100
+studyatsyu.syu.edu.cn.	3600	IN	A	59.46.76.151
+vpn.syu.edu.cn.		3600	IN	A	218.25.103.74
+wap.syu.edu.cn.		3600	IN	A	218.61.67.176
+weishao.syu.edu.cn.	3600	IN	A	218.61.67.184
+welcome.syu.edu.cn.	3600	IN	A	218.25.103.69
+wsim.syu.edu.cn.	3600	IN	A	218.61.67.183
+www.syu.edu.cn.		3600	IN	A	218.61.67.172
+www1.syu.edu.cn.	3600	IN	A	218.25.103.75
+www2.syu.edu.cn.	3600	IN	A	218.25.103.69
+xiaobao.syu.edu.cn.	3600	IN	A	218.61.67.179
+xlcs.syu.edu.cn.	3600	IN	A	192.168.254.29
+xyw.syu.edu.cn.		3600	IN	A	59.46.76.154
+yjs.syu.edu.cn.		3600	IN	A	218.25.103.67
+yjsxk.syu.edu.cn.	3600	IN	A	218.25.103.89
+zcgl.syu.edu.cn.	3600	IN	A	172.16.252.18
+zhaoshengjiuye.syu.edu.cn. 3600	IN	A	222.33.46.109
+zsjy.syu.edu.cn.	3600	IN	A	218.25.103.71
+syu.edu.cn.		3600	IN	SOA	sdserver.syu.edu.cn. root.syu.edu.cn. 2015012102 30 30 360 3600
+;; Query time: 45 msec
+;; SERVER: 202.199.32.2#53(202.199.32.2)
+;; WHEN: Mon Feb 16 23:21:44 2015
+;; XFR size: 56 records (messages 1, bytes 1269)
+

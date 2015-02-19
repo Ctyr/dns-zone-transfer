@@ -1,0 +1,115 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr smu.edu.cn @grid2.smu.edu.cn.
+;; global options: +cmd
+smu.edu.cn.		86400	IN	SOA	grid2.fimmu.edu.cn.edu.cn. root.grid2.fimmu.edu.cn. 1997022703 28800 14400 3600000 86400
+smu.edu.cn.		86400	IN	NS	grid2.smu.edu.cn.
+smu.edu.cn.		86400	IN	MX	10 mail.smu.edu.cn.
+account.smu.edu.cn.	86400	IN	CNAME	fake.smu.edu.cn.
+aemployment.smu.edu.cn.	86400	IN	A	59.36.99.114
+app.smu.edu.cn.		86400	IN	A	218.19.163.104
+bipes.smu.edu.cn.	86400	IN	A	202.192.1.64
+bme.smu.edu.cn.		86400	IN	A	218.19.163.100
+cebook.smu.edu.cn.	86400	IN	A	202.192.1.51
+chjcana.smu.edu.cn.	86400	IN	A	202.192.1.27
+ci.smu.edu.cn.		86400	IN	A	202.192.1.54
+cmip.smu.edu.cn.	86400	IN	A	202.192.1.241
+course.smu.edu.cn.	86400	IN	A	61.144.24.72
+crxw.smu.edu.cn.	86400	IN	A	218.19.163.111
+crxwgl.smu.edu.cn.	86400	IN	A	218.19.163.113
+dangan.smu.edu.cn.	86400	IN	A	202.192.1.90
+dns.smu.edu.cn.		86400	IN	CNAME	grid2.smu.edu.cn.
+dspace.smu.edu.cn.	86400	IN	A	202.192.1.91
+duba1.smu.edu.cn.	86400	IN	CNAME	fake.smu.edu.cn.
+duba2.smu.edu.cn.	86400	IN	CNAME	fake.smu.edu.cn.
+duba3.smu.edu.cn.	86400	IN	CNAME	fake.smu.edu.cn.
+employment.smu.edu.cn.	86400	IN	A	202.192.1.39
+fake.smu.edu.cn.	86400	IN	A	202.192.1.201
+fao.smu.edu.cn.		86400	IN	A	61.144.24.74
+grid2.smu.edu.cn.	86400	IN	A	202.192.1.10
+gw.smu.edu.cn.		86400	IN	A	202.192.1.42
+hljzw.smu.edu.cn.	86400	IN	A	202.192.1.36
+hlks.smu.edu.cn.	86400	IN	A	121.8.170.81
+hospital.smu.edu.cn.	86400	IN	A	121.8.170.81
+hwzhoulab.smu.edu.cn.	86400	IN	A	202.192.1.50
+idp.smu.edu.cn.		86400	IN	A	202.192.1.45
+ir.smu.edu.cn.		86400	IN	A	202.192.1.82
+itil2.smu.edu.cn.	86400	IN	A	121.8.170.73
+jjgl.smu.edu.cn.	86400	IN	A	202.192.1.48
+jpkc.smu.edu.cn.	86400	IN	A	218.19.163.106
+jwxt11.smu.edu.cn.	86400	IN	A	202.192.1.24
+jxgl.smu.edu.cn.	86400	IN	A	218.19.163.99
+jxzy.smu.edu.cn.	86400	IN	A	202.192.1.7
+jxzy.smu.edu.cn.	86400	IN	A	218.19.163.101
+jyd81.smu.edu.cn.	86400	IN	CNAME	web3.smu.edu.cn.
+kao-e.smu.edu.cn.	86400	IN	A	202.192.1.23
+kf.smu.edu.cn.		86400	IN	A	218.19.163.115
+admin.kf.smu.edu.cn.	86400	IN	A	218.19.163.115
+exam.kf.smu.edu.cn.	86400	IN	A	218.19.163.115
+image.kf.smu.edu.cn.	86400	IN	A	218.19.163.115
+static.kf.smu.edu.cn.	86400	IN	A	218.19.163.115
+lib.smu.edu.cn.		86400	IN	A	202.192.1.16
+live.smu.edu.cn.	86400	IN	A	121.8.170.74
+lncRNA.smu.edu.cn.	86400	IN	A	202.192.1.65
+mail.smu.edu.cn.	86400	IN	A	202.192.1.4
+metrc.smu.edu.cn.	86400	IN	A	202.192.1.15
+mhjk.smu.edu.cn.	86400	IN	A	202.192.1.51
+migrid.smu.edu.cn.	86400	IN	A	202.192.1.31
+mobile.smu.edu.cn.	86400	IN	A	202.192.1.40
+moss.smu.edu.cn.	86400	IN	A	218.19.163.102
+mrc.smu.edu.cn.		86400	IN	A	202.192.1.28
+news.smu.edu.cn.	86400	IN	A	61.144.24.67
+nfdx.smu.edu.cn.	86400	IN	A	114.80.209.199
+nfdx.smu.edu.cn.	86400	IN	A	218.19.163.100
+nfyh.smu.edu.cn.	86400	IN	A	61.144.24.75
+nydwfy.smu.edu.cn.	86400	IN	A	218.19.93.78
+nyyxlm.smu.edu.cn.	86400	IN	A	121.8.170.82
+oa.smu.edu.cn.		86400	IN	A	218.19.163.109
+omida.smu.edu.cn.	86400	IN	A	202.192.1.3
+opac.smu.edu.cn.	86400	IN	A	202.192.1.40
+otu.smu.edu.cn.		86400	IN	A	202.192.1.3
+paper.smu.edu.cn.	86400	IN	A	202.192.1.17
+portal.smu.edu.cn.	86400	IN	A	61.144.24.67
+portal1.smu.edu.cn.	86400	IN	A	61.144.24.77
+pxkszx.smu.edu.cn.	86400	IN	A	121.8.170.94
+rczp.smu.edu.cn.	86400	IN	A	218.19.163.121
+res.smu.edu.cn.		86400	IN	A	202.192.1.91
+rstp.smu.edu.cn.	86400	IN	A	202.192.1.31
+sbc.smu.edu.cn.		86400	IN	A	202.192.1.13
+shigao.smu.edu.cn.	86400	IN	A	218.19.163.123
+shs.smu.edu.cn.		86400	IN	A	202.192.1.123
+slsc.smu.edu.cn.	86400	IN	A	202.192.1.43
+syjxzx.smu.edu.cn.	86400	IN	A	202.192.1.243
+szyy.smu.edu.cn.	86400	IN	A	218.19.163.107
+tc.smu.edu.cn.		86400	IN	CNAME	web4.smu.edu.cn.
+tuanwei.smu.edu.cn.	86400	IN	A	202.192.1.43
+tv.smu.edu.cn.		86400	IN	CNAME	fake.smu.edu.cn.
+viewsecsvr.smu.edu.cn.	86400	IN	A	202.192.1.126
+vpn.smu.edu.cn.		86400	IN	A	61.144.24.70
+vpn.smu.edu.cn.		86400	IN	A	218.19.163.114
+web1.smu.edu.cn.	86400	IN	A	61.144.24.76
+web2.smu.edu.cn.	86400	IN	A	218.19.163.107
+web3.smu.edu.cn.	86400	IN	A	218.19.163.100
+web4.smu.edu.cn.	86400	IN	A	202.192.1.36
+web5.smu.edu.cn.	86400	IN	A	218.19.163.103
+web6.smu.edu.cn.	86400	IN	A	202.192.1.35
+webexweb.smu.edu.cn.	86400	IN	A	183.63.89.12
+wlbx.smu.edu.cn.	86400	IN	A	218.19.163.117
+www.smu.edu.cn.		86400	IN	CNAME	web1.smu.edu.cn.
+xlpg.smu.edu.cn.	86400	IN	A	202.192.1.227
+xsc.smu.edu.cn.		86400	IN	A	202.192.1.35
+xwgk.smu.edu.cn.	86400	IN	CNAME	fake.smu.edu.cn.
+yjs.smu.edu.cn.		86400	IN	A	218.19.163.104
+yjs2.smu.edu.cn.	86400	IN	A	218.19.163.104
+yjscfs.smu.edu.cn.	86400	IN	A	218.19.163.107
+yjsgl.smu.edu.cn.	86400	IN	A	202.192.1.41
+yxfz.smu.edu.cn.	86400	IN	A	121.8.170.69
+zhjw.smu.edu.cn.	86400	IN	A	202.192.1.14
+zkbm.smu.edu.cn.	86400	IN	A	121.8.170.93
+zyk.smu.edu.cn.		86400	IN	A	202.192.1.8
+zykf.smu.edu.cn.	86400	IN	A	121.8.170.81
+smu.edu.cn.		86400	IN	SOA	grid2.fimmu.edu.cn.edu.cn. root.grid2.fimmu.edu.cn. 1997022703 28800 14400 3600000 86400
+;; Query time: 31 msec
+;; SERVER: 202.192.1.10#53(202.192.1.10)
+;; WHEN: Mon Feb 16 23:22:02 2015
+;; XFR size: 107 records (messages 1, bytes 2357)
+

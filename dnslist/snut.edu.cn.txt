@@ -1,0 +1,88 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr snut.edu.cn @dns.snut.edu.cn.
+;; global options: +cmd
+snut.edu.cn.		86400	IN	SOA	snut.edu.cn. dns.snut.edu.cn. 2001080801 21600 3600 604800 86400
+snut.edu.cn.		86400	IN	NS	dns.snut.edu.cn.
+snut.edu.cn.		86400	IN	MX	10 mail.snut.edu.cn.
+snut.edu.cn.		86400	IN	MX	20 mails.snut.edu.cn.
+snut.edu.cn.		86400	IN	A	218.195.96.2
+sunny.snut.edu.cn.	86400	IN	A	218.195.96.22
+zs.snut.edu.cn.		86400	IN	A	218.195.103.11
+www1.snut.edu.cn.	86400	IN	A	218.195.96.22
+noc.snut.edu.cn.	86400	IN	A	218.195.96.22
+dwxcb.snut.edu.cn.	86400	IN	A	218.195.96.61
+pinggu.snut.edu.cn.	86400	IN	A	218.195.96.22
+yjs.snut.edu.cn.	86400	IN	A	218.195.96.61
+gac.snut.edu.cn.	86400	IN	A	218.195.96.61
+news.snut.edu.cn.	86400	IN	A	218.195.96.61
+xsgzz.snut.edu.cn.	86400	IN	A	218.195.96.61
+jwjc.snut.edu.cn.	86400	IN	A	218.195.96.61
+gyzdh.snut.edu.cn.	86400	IN	A	218.195.96.61
+hgxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+tjxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+mail.snut.edu.cn.	86400	IN	A	218.195.96.9
+testtest.snut.edu.cn.	86400	IN	A	218.195.96.61
+ltc.snut.edu.cn.	86400	IN	A	218.195.96.61
+photo.snut.edu.cn.	86400	IN	A	218.195.96.61
+info.snut.edu.cn.	86400	IN	A	218.195.96.61
+db.snut.edu.cn.		86400	IN	A	218.195.96.61
+clxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+jwc.snut.edu.cn.	86400	IN	A	218.195.98.228
+vitamin.snut.edu.cn.	86400	IN	A	218.195.96.61
+xljk.snut.edu.cn.	86400	IN	A	218.195.96.61
+cwc.snut.edu.cn.	86400	IN	A	218.195.96.61
+xkb.snut.edu.cn.	86400	IN	A	218.195.96.61
+jjc.snut.edu.cn.	86400	IN	A	218.195.96.61
+wdxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+dag.snut.edu.cn.	86400	IN	A	218.195.96.61
+rcb.snut.edu.cn.	86400	IN	A	218.195.96.61
+dns.snut.edu.cn.	86400	IN	A	218.195.96.2
+glxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+lib.snut.edu.cn.	86400	IN	A	218.195.96.61
+jkxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+fzgh.snut.edu.cn.	86400	IN	A	218.195.96.61
+sjc.snut.edu.cn.	86400	IN	A	218.195.96.61
+zsjy.snut.edu.cn.	86400	IN	A	218.195.103.11
+zysw.snut.edu.cn.	86400	IN	A	218.195.96.61
+vod.snut.edu.cn.	86400	IN	A	218.195.96.61
+gh.snut.edu.cn.		86400	IN	A	218.195.96.61
+rsc.snut.edu.cn.	86400	IN	A	218.195.96.61
+nic.snut.edu.cn.	86400	IN	A	218.195.96.61
+jfxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+tccl.snut.edu.cn.	86400	IN	A	218.195.96.61
+news1.snut.edu.cn.	86400	IN	A	218.195.96.17
+sjxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+dqxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+wf.snut.edu.cn.		86400	IN	A	218.195.96.6
+tyxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+gjc.snut.edu.cn.	86400	IN	A	218.195.96.61
+wlzxtest.snut.edu.cn.	86400	IN	A	218.195.96.61
+hswh.snut.edu.cn.	86400	IN	A	218.195.96.61
+jsfz.snut.edu.cn.	86400	IN	A	218.195.96.61
+kcspzy.snut.edu.cn.	86400	IN	A	218.195.96.61
+xuebao.snut.edu.cn.	86400	IN	A	218.195.96.61
+dwzzb.snut.edu.cn.	86400	IN	A	218.195.96.61
+yb.snut.edu.cn.		86400	IN	A	218.195.96.61
+jxxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+xcb.snut.edu.cn.	86400	IN	A	218.195.96.61
+gzc.snut.edu.cn.	86400	IN	A	218.195.96.61
+jxjy.snut.edu.cn.	86400	IN	A	218.195.96.61
+xsgzb.snut.edu.cn.	86400	IN	A	218.195.96.61
+www.snut.edu.cn.	86400	IN	A	218.195.96.61
+mails.snut.edu.cn.	86400	IN	A	218.195.96.9
+jw.snut.edu.cn.		86400	IN	A	218.195.96.24
+fgc.snut.edu.cn.	86400	IN	A	218.195.96.61
+jy.snut.edu.cn.		86400	IN	A	218.195.103.11
+wlxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+tuanwei.snut.edu.cn.	86400	IN	A	218.195.96.61
+wxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+jxzx.snut.edu.cn.	86400	IN	A	218.195.96.61
+ysxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+kjc.snut.edu.cn.	86400	IN	A	218.195.96.61
+sgxy.snut.edu.cn.	86400	IN	A	218.195.96.61
+snut.edu.cn.		86400	IN	SOA	snut.edu.cn. dns.snut.edu.cn. 2001080801 21600 3600 604800 86400
+;; Query time: 111 msec
+;; SERVER: 218.195.96.2#53(218.195.96.2)
+;; WHEN: Mon Feb 16 23:22:09 2015
+;; XFR size: 80 records (messages 80, bytes 3549)
+

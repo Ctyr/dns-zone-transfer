@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr nwupl.edu.cn @dns.nwupl.edu.cn.
+;; global options: +cmd
+nwupl.edu.cn.		3600	IN	SOA	dns.nwupl.edu.cn. admin.nwupl.edu.cn. 2014010101 3600 3600 604800 300
+nwupl.edu.cn.		3600	IN	NS	dns.nwupl.edu.cn.
+nwupl.edu.cn.		3600	IN	MX	10 mailg.nwupl.edu.cn.
+nwupl.edu.cn.		3600	IN	A	202.200.168.99
+dns.nwupl.edu.cn.	3600	IN	A	202.200.168.100
+lang.nwupl.edu.cn.	3600	IN	A	123.138.101.198
+lib.nwupl.edu.cn.	3600	IN	A	202.200.174.10
+localhost.nwupl.edu.cn.	3600	IN	A	127.0.0.1
+login.nwupl.edu.cn.	3600	IN	A	202.200.168.2
+mail.nwupl.edu.cn.	3600	IN	A	202.200.168.98
+mailg.nwupl.edu.cn.	3600	IN	A	202.200.168.97
+nic.nwupl.edu.cn.	3600	IN	A	202.200.170.163
+nt.nwupl.edu.cn.	3600	IN	A	123.138.101.197
+www.nwupl.edu.cn.	3600	IN	A	221.11.16.89
+nwupl.edu.cn.		3600	IN	SOA	dns.nwupl.edu.cn. admin.nwupl.edu.cn. 2014010101 3600 3600 604800 300
+;; Query time: 48 msec
+;; SERVER: 202.200.168.100#53(202.200.168.100)
+;; WHEN: Mon Feb 16 23:22:10 2015
+;; XFR size: 15 records (messages 1, bytes 365)
+

@@ -1,0 +1,21 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr nttvu.edu.cn @dd-server1.nttvu.edu.cn.
+;; global options: +cmd
+nttvu.edu.cn.		3600	IN	SOA	dd-server1.nttvu.edu.cn. root.dd-server1.nttvu.edu.cn. 20060428 3600 900 3600000 3600
+nttvu.edu.cn.		3600	IN	MX	5 mail2.nttvu.edu.cn.
+nttvu.edu.cn.		3600	IN	MX	20 mail.nttvu.edu.cn.
+nttvu.edu.cn.		3600	IN	NS	dd-server1.nttvu.edu.cn.
+1.nttvu.edu.cn.		3600	IN	A	211.65.160.6
+dd-server1.nttvu.edu.cn. 3600	IN	A	211.65.160.1
+ftp.nttvu.edu.cn.	3600	IN	CNAME	vod.nttvu.edu.cn.
+mail.nttvu.edu.cn.	3600	IN	A	211.65.160.6
+mail2.nttvu.edu.cn.	3600	IN	A	211.65.160.6
+vod.nttvu.edu.cn.	3600	IN	A	222.184.252.4
+www.nttvu.edu.cn.	3600	IN	A	211.65.160.20
+www1.nttvu.edu.cn.	3600	IN	CNAME	www.nttvu.edu.cn.
+nttvu.edu.cn.		3600	IN	SOA	dd-server1.nttvu.edu.cn. root.dd-server1.nttvu.edu.cn. 20060428 3600 900 3600000 3600
+;; Query time: 17 msec
+;; SERVER: 211.65.160.1#53(211.65.160.1)
+;; WHEN: Mon Feb 16 23:21:48 2015
+;; XFR size: 13 records (messages 1, bytes 318)
+

@@ -1,0 +1,76 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr qttc.edu.cn @DNS1.qttc.edu.cn.
+;; global options: +cmd
+qttc.edu.cn.		864000	IN	SOA	DNS1.qttc.edu.cn. root.qttc.edu.cn. 1997022700 10800 900 604800 86400
+qttc.edu.cn.		864000	IN	TXT	"v=spf1 include:spf.mxhichina.com -all"
+qttc.edu.cn.		864000	IN	NS	DNS1.qttc.edu.cn.
+qttc.edu.cn.		864000	IN	MX	5 mxn.mxhichina.com.
+qttc.edu.cn.		864000	IN	MX	10 mxw.mxhichina.com.
+cwc.qttc.edu.cn.	864000	IN	A	202.100.206.7
+czj.qttc.edu.cn.	864000	IN	A	202.100.206.7
+dc1.qttc.edu.cn.	864000	IN	A	202.100.206.9
+dept.qttc.edu.cn.	864000	IN	A	202.100.206.8
+DNS1.qttc.edu.cn.	864000	IN	A	222.17.192.32
+dw.qttc.edu.cn.		864000	IN	A	202.100.206.8
+ee.qttc.edu.cn.		864000	IN	A	202.100.206.13
+gaozhao.qttc.edu.cn.	864000	IN	A	202.100.206.12
+gh.qttc.edu.cn.		864000	IN	A	202.100.206.8
+guilinyang.qttc.edu.cn.	864000	IN	A	202.100.206.30
+hangkong.qttc.edu.cn.	864000	IN	A	202.100.206.7
+hb.qttc.edu.cn.		864000	IN	A	202.100.206.7
+hqc.qttc.edu.cn.	864000	IN	A	202.100.206.8
+hqfwzx.qttc.edu.cn.	864000	IN	A	202.100.206.7
+ir.qttc.edu.cn.		864000	IN	A	202.100.206.28
+jpkc.qttc.edu.cn.	864000	IN	A	202.100.206.8
+jwc.qttc.edu.cn.	864000	IN	A	202.100.206.7
+jwgl.qttc.edu.cn.	864000	IN	A	202.100.206.16
+jxjyb.qttc.edu.cn.	864000	IN	A	202.100.206.8
+keyan.qttc.edu.cn.	864000	IN	A	202.100.206.7
+lib.qttc.edu.cn.	864000	IN	A	202.100.206.10
+m.lib.qttc.edu.cn.	864000	IN	A	202.100.206.26
+lyglx.qttc.edu.cn.	864000	IN	A	202.100.206.7
+m.qttc.edu.cn.		864000	IN	CNAME	siteapp.baidu.com.
+mail.qttc.edu.cn.	864000	IN	CNAME	mail.mxhichina.com.
+meishu.qttc.edu.cn.	864000	IN	A	202.100.206.8
+mishu.qttc.edu.cn.	864000	IN	A	202.100.206.7
+nic.qttc.edu.cn.	864000	IN	A	202.100.206.8
+online.qttc.edu.cn.	864000	IN	A	202.100.206.8
+person.qttc.edu.cn.	864000	IN	A	202.100.206.18
+pgddb.qttc.edu.cn.	864000	IN	A	202.100.206.7
+pop3.qttc.edu.cn.	864000	IN	CNAME	pop3.mxhichina.com.
+portal.qttc.edu.cn.	864000	IN	A	222.17.192.11
+rsc.qttc.edu.cn.	864000	IN	A	202.100.206.8
+sheke.qttc.edu.cn.	864000	IN	A	202.100.206.7
+shuli.qttc.edu.cn.	864000	IN	A	202.100.206.7
+smtp.qttc.edu.cn.	864000	IN	CNAME	smtp.mxhichina.com.
+sz.qttc.edu.cn.		864000	IN	A	202.100.206.7
+tiyu.qttc.edu.cn.	864000	IN	A	202.100.206.8
+tw.qttc.edu.cn.		864000	IN	A	202.100.206.8
+vpn.qttc.edu.cn.	864000	IN	A	202.100.206.27
+waiyu.qttc.edu.cn.	864000	IN	A	202.100.206.7
+weixin.qttc.edu.cn.	864000	IN	A	202.100.206.7
+www.qttc.edu.cn.	864000	IN	A	202.100.206.6
+xctzb.qttc.edu.cn.	864000	IN	A	202.100.206.7
+xiezuo.qttc.edu.cn.	864000	IN	A	202.100.206.7
+xinxi.qttc.edu.cn.	864000	IN	A	202.100.206.9
+xsc.qttc.edu.cn.	864000	IN	A	202.100.206.8
+xueqian.qttc.edu.cn.	864000	IN	A	202.100.206.8
+xxyw.qttc.edu.cn.	864000	IN	A	202.100.206.7
+xxzj.qttc.edu.cn.	864000	IN	A	202.100.206.7
+xzbgs.qttc.edu.cn.	864000	IN	A	202.100.206.8
+yeyjy.qttc.edu.cn.	864000	IN	A	202.100.206.7
+yinyue.qttc.edu.cn.	864000	IN	A	202.100.206.7
+yz.qttc.edu.cn.		864000	IN	A	202.100.206.7
+zfjw.qttc.edu.cn.	864000	IN	A	202.100.206.14
+zhaosheng.qttc.edu.cn.	864000	IN	A	202.100.206.8
+zhengwu.qttc.edu.cn.	864000	IN	A	202.100.206.15
+zhongwen.qttc.edu.cn.	864000	IN	A	202.100.206.8
+zs.qttc.edu.cn.		864000	IN	A	202.100.206.7
+zyzyk.qttc.edu.cn.	864000	IN	A	202.100.206.23
+zzb.qttc.edu.cn.	864000	IN	A	202.100.206.8
+qttc.edu.cn.		864000	IN	SOA	DNS1.qttc.edu.cn. root.qttc.edu.cn. 1997022700 10800 900 604800 86400
+;; Query time: 40 msec
+;; SERVER: 222.17.192.32#53(222.17.192.32)
+;; WHEN: Mon Feb 16 23:22:04 2015
+;; XFR size: 68 records (messages 1, bytes 1567)
+

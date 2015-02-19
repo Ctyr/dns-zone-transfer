@@ -1,0 +1,72 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr sgu.edu.cn @dns.sgu.edu.cn.
+;; global options: +cmd
+sgu.edu.cn.		86400	IN	SOA	dns.sgu.edu.cn. root.localhost. 3 28800 7200 604800 86400
+sgu.edu.cn.		86400	IN	A	210.38.192.42
+sgu.edu.cn.		86400	IN	MX	5 mtrx014.sgu.edu.cn.
+sgu.edu.cn.		86400	IN	NS	dns.sgu.edu.cn.
+#cs.sgu.edu.cn.		86400	IN	A	210.38.205.11
+#job.sgu.edu.cn.	86400	IN	A	210.38.192.38
+#mail.sgu.edu.cn.	86400	IN	MX	20 mail.sgu.edu.cn.
+#mail.sgu.edu.cn.	86400	IN	A	210.38.192.30
+#sgii.sgu.edu.cn.	86400	IN	A	210.38.192.38
+#tv1.sgu.edu.cn.	86400	IN	A	210.38.202.11
+#youth.sgu.edu.cn.	86400	IN	A	210.38.196.44
+bbs.sgu.edu.cn.		86400	IN	A	192.168.212.253
+cc.sgu.edu.cn.		86400	IN	A	210.38.201.228
+cc.sgu.edu.cn.		86400	IN	A	210.38.201.237
+cj.sgu.edu.cn.		86400	IN	A	210.38.192.26
+control.sgu.edu.cn.	86400	IN	A	210.38.202.100
+control1.sgu.edu.cn.	86400	IN	A	210.38.202.100
+cs.sgu.edu.cn.		86400	IN	A	210.38.192.105
+www.cw.sgu.edu.cn.	86400	IN	A	210.38.192.200
+cwccx.sgu.edu.cn.	86400	IN	A	210.38.198.57
+dns.sgu.edu.cn.		86400	IN	A	210.38.192.33
+dns1.sgu.edu.cn.	86400	IN	A	210.38.192.34
+domain1.sgu.edu.cn.	86400	IN	A	210.38.194.58
+english.sgu.edu.cn.	86400	IN	A	210.38.202.15
+ftp.sgu.edu.cn.		86400	IN	A	192.168.212.252
+ftp1.sgu.edu.cn.	86400	IN	A	210.38.202.18
+hqjt.sgu.edu.cn.	86400	IN	A	210.38.192.37
+job.sgu.edu.cn.		86400	IN	A	210.38.192.37
+jpkc.sgu.edu.cn.	86400	IN	A	210.38.192.10
+jwc.sgu.edu.cn.		86400	IN	A	210.38.192.25
+jyzx.sgu.edu.cn.	86400	IN	A	210.38.192.39
+lib.sgu.edu.cn.		86400	IN	A	210.38.207.14
+mail.sgu.edu.cn.	86400	IN	A	210.38.192.40
+mis.sgu.edu.cn.		86400	IN	A	210.38.192.51
+mismail.sgu.edu.cn.	86400	IN	A	210.38.192.52
+moodle.sgu.edu.cn.	86400	IN	A	210.38.192.11
+msx.sgu.edu.cn.		86400	IN	A	210.38.207.17
+mtrx.sgu.edu.cn.	86400	IN	A	210.38.192.40
+mtrx014.sgu.edu.cn.	86400	IN	A	210.38.192.42
+net.sgu.edu.cn.		86400	IN	A	210.38.192.103
+oa.sgu.edu.cn.		86400	IN	A	210.38.202.9
+pgb.sgu.edu.cn.		86400	IN	A	210.38.192.106
+pop3.sgu.edu.cn.	86400	IN	A	210.38.192.40
+proxy.sgu.edu.cn.	86400	IN	A	210.38.192.100
+radius.sgu.edu.cn.	86400	IN	A	192.168.213.254
+savserver.sgu.edu.cn.	86400	IN	A	210.38.192.23
+sgii.sgu.edu.cn.	86400	IN	A	210.38.192.37
+site.sgu.edu.cn.	86400	IN	A	210.38.192.37
+smtp.sgu.edu.cn.	86400	IN	A	210.38.192.40
+suaa.sgu.edu.cn.	86400	IN	A	210.38.192.13
+swfw.sgu.edu.cn.	86400	IN	A	192.168.212.250
+top.sgu.edu.cn.		86400	IN	A	210.38.192.37
+trend.sgu.edu.cn.	86400	IN	A	210.38.192.25
+tv2.sgu.edu.cn.		86400	IN	A	210.38.202.12
+tv3.sgu.edu.cn.		86400	IN	A	210.38.202.13
+tv4.sgu.edu.cn.		86400	IN	A	210.38.202.14
+wapcj.sgu.edu.cn.	86400	IN	A	210.38.192.26
+www.sgu.edu.cn.		86400	IN	A	210.38.192.38
+wyxy.sgu.edu.cn.	86400	IN	A	210.38.192.31
+xb.sgu.edu.cn.		86400	IN	A	210.38.192.61
+yjcg.sgu.edu.cn.	86400	IN	A	210.38.192.64
+youth.sgu.edu.cn.	86400	IN	A	210.38.196.44
+zs.sgu.edu.cn.		86400	IN	A	210.38.192.41
+sgu.edu.cn.		86400	IN	SOA	dns.sgu.edu.cn. root.localhost. 3 28800 7200 604800 86400
+;; Query time: 36 msec
+;; SERVER: 210.38.192.33#53(210.38.192.33)
+;; WHEN: Mon Feb 16 23:22:01 2015
+;; XFR size: 64 records (messages 1, bytes 1400)
+

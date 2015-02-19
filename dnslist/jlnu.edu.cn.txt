@@ -1,0 +1,59 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr jlnu.edu.cn @jlnu-dns.jlnu.edu.cn.
+;; global options: +cmd
+jlnu.edu.cn.		86400	IN	SOA	jlnu-dns.jlnu.edu.cn. root.jlnu.edu.cn. 1997022700 28800 14400 3600000 86400
+jlnu.edu.cn.		86400	IN	NS	jlnu-dns.jlnu.edu.cn.
+jlnu.edu.cn.		86400	IN	MX	10 mail.jlnu.edu.cn.
+clouds.jlnu.edu.cn.	86400	IN	A	218.27.6.106
+cst.jlnu.edu.cn.	86400	IN	A	218.27.6.134
+cst2.jlnu.edu.cn.	86400	IN	A	218.27.6.151
+ea.jlnu.edu.cn.		86400	IN	A	218.27.6.143
+ftp.jlnu.edu.cn.	86400	IN	A	218.27.6.137
+google.jlnu.edu.cn.	86400	IN	A	218.27.6.153
+gsw.jlnu.edu.cn.	86400	IN	A	218.27.6.101
+jczy.jlnu.edu.cn.	86400	IN	A	218.27.6.182
+jlnu-dns.jlnu.edu.cn.	86400	IN	A	210.47.56.8
+jlsdbsbm.jlnu.edu.cn.	86400	IN	A	218.27.6.154
+jpk.jlnu.edu.cn.	86400	IN	A	218.27.6.138
+jwc.jlnu.edu.cn.	86400	IN	A	218.27.6.102
+jwcjpk.jlnu.edu.cn.	86400	IN	A	218.27.6.147
+jyc.jlnu.edu.cn.	86400	IN	A	218.27.6.148
+lib.jlnu.edu.cn.	86400	IN	A	218.27.6.135
+mail.jlnu.edu.cn.	86400	IN	A	218.27.6.131
+mails.jlnu.edu.cn.	86400	IN	A	218.27.6.131
+mails.jlnu.edu.cn.	86400	IN	MX	10 mails.jlnu.edu.cn.
+mon.jlnu.edu.cn.	86400	IN	A	218.27.6.159
+monitor.jlnu.edu.cn.	86400	IN	A	218.27.6.156
+mp.jlnu.edu.cn.		86400	IN	A	218.27.6.163
+oa.jlnu.edu.cn.		86400	IN	A	218.27.6.144
+opac.jlnu.edu.cn.	86400	IN	A	218.27.6.149
+portal.jlnu.edu.cn.	86400	IN	A	218.27.6.141
+portal2.jlnu.edu.cn.	86400	IN	A	218.27.6.162
+portal3.jlnu.edu.cn.	86400	IN	A	218.27.6.140
+sjp.jlnu.edu.cn.	86400	IN	A	218.27.6.165
+skpt.jlnu.edu.cn.	86400	IN	A	218.27.6.183
+stu.jlnu.edu.cn.	86400	IN	A	218.27.6.142
+sxjk.jlnu.edu.cn.	86400	IN	A	218.27.6.150
+tanlearn.jlnu.edu.cn.	86400	IN	A	218.27.6.187
+temp.jlnu.edu.cn.	86400	IN	A	218.27.6.155
+tuanwei.jlnu.edu.cn.	86400	IN	A	218.27.6.167
+tv.jlnu.edu.cn.		86400	IN	CNAME	www.jlnu.edu.cn.
+vpn.jlnu.edu.cn.	86400	IN	A	218.27.6.160
+web.jlnu.edu.cn.	86400	IN	A	218.27.6.132
+wlsy.jlnu.edu.cn.	86400	IN	A	218.27.6.152
+www.jlnu.edu.cn.	86400	IN	A	218.27.6.130
+xk.jlnu.edu.cn.		86400	IN	A	218.27.6.104
+xk1.jlnu.edu.cn.	86400	IN	A	218.27.6.105
+xsc.jlnu.edu.cn.	86400	IN	A	218.27.6.133
+xxdzjs.jlnu.edu.cn.	86400	IN	A	218.27.6.154
+xyk.jlnu.edu.cn.	86400	IN	A	218.27.6.176
+xykd.jlnu.edu.cn.	86400	IN	A	218.27.6.153
+yjs.jlnu.edu.cn.	86400	IN	A	218.27.6.161
+yzal.jlnu.edu.cn.	86400	IN	A	218.27.6.133
+zsb.jlnu.edu.cn.	86400	IN	A	218.27.6.136
+jlnu.edu.cn.		86400	IN	SOA	jlnu-dns.jlnu.edu.cn. root.jlnu.edu.cn. 1997022700 28800 14400 3600000 86400
+;; Query time: 53 msec
+;; SERVER: 210.47.56.8#53(210.47.56.8)
+;; WHEN: Mon Feb 16 23:21:45 2015
+;; XFR size: 51 records (messages 1, bytes 1123)
+

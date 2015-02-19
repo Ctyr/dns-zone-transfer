@@ -1,0 +1,82 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr ift.edu.mo @ntserver1.ift.edu.mo.
+;; global options: +cmd
+ift.edu.mo.		3600	IN	SOA	ntserver1.ift.edu.mo. administrator.ift.edu.mo. 2003033089 3600 600 86400 3600
+ift.edu.mo.		3600	IN	A	202.175.17.131
+ift.edu.mo.		3600	IN	NS	ntserver1.ift.edu.mo.
+ift.edu.mo.		3600	IN	MX	30 mailgw2.ift.edu.mo.
+ift.edu.mo.		3600	IN	MX	10 mailgw.ift.edu.mo.
+ift.edu.mo.		3600	IN	TXT	"MS=ms40127973"
+_sipfederationtls._tcp.ift.edu.mo. 3600	IN SRV	100 1 5061 sipfed.online.lync.com.
+_sip._tls.ift.edu.mo.	3600	IN	SRV	100 1 443 sipdir.online.lync.com.
+admission.ift.edu.mo.	3600	IN	A	202.175.17.152
+airpac.ift.edu.mo.	3600	IN	CNAME	library.ift.edu.mo.
+alumni.ift.edu.mo.	3600	IN	MX	10 mail.alumni.ift.edu.mo.
+mail.alumni.ift.edu.mo.	3600	IN	A	202.175.17.144
+test.alumni.ift.edu.mo.	3600	IN	MX	2 1161782358.mail.outlook.com.
+1161782358.test.alumni.ift.edu.mo. 3600	IN CNAME domains.live.com.
+apps.ift.edu.mo.	3600	IN	A	202.175.17.161
+career.ift.edu.mo.	3600	IN	A	202.175.17.129
+careeruat.ift.edu.mo.	3600	IN	A	202.175.17.143
+clearance.ift.edu.mo.	3600	IN	A	202.175.17.129
+crm.ift.edu.mo.		3600	IN	A	202.175.17.134
+crm2.ift.edu.mo.	3600	IN	A	202.175.17.165
+dms.ift.edu.mo.		3600	IN	A	202.175.17.131
+email.ift.edu.mo.	3600	IN	CNAME	emailweb.ift.edu.mo.
+emailweb.ift.edu.mo.	3600	IN	A	202.175.17.139
+eportal.ift.edu.mo.	3600	IN	A	202.175.17.162
+eposvr.ift.edu.mo.	3600	IN	A	172.16.16.229
+eservice.ift.edu.mo.	3600	IN	CNAME	ntserver1.ift.edu.mo.
+eservices.ift.edu.mo.	3600	IN	CNAME	ntserver1.ift.edu.mo.
+eservicesuat.ift.edu.mo. 3600	IN	A	202.175.17.143
+exchange.ift.edu.mo.	3600	IN	A	202.175.17.131
+ftp.ift.edu.mo.		3600	IN	CNAME	web.ift.edu.mo.
+iftexchange.ift.edu.mo.	3600	IN	A	202.175.17.139
+iftexs03.ift.edu.mo.	3600	IN	A	202.175.17.137
+iftmoodle.ift.edu.mo.	3600	IN	A	202.175.17.156
+iftportal.ift.edu.mo.	3600	IN	A	202.175.17.144
+image.ift.edu.mo.	3600	IN	A	202.175.17.163
+intranet.ift.edu.mo.	3600	IN	CNAME	web.ift.edu.mo.
+kms-pc.ift.edu.mo.	3600	IN	A	202.175.17.157
+libproxy.ift.edu.mo.	3600	IN	A	202.175.17.150
+library.ift.edu.mo.	3600	IN	A	202.175.17.160
+lyncdiscover.ift.edu.mo. 3600	IN	CNAME	webdir.online.lync.com.
+m.ift.edu.mo.		3600	IN	A	202.175.17.138
+mailgw.ift.edu.mo.	3600	IN	A	202.175.17.146
+mailgw2.ift.edu.mo.	3600	IN	A	202.175.17.147
+mcp.ift.edu.mo.		3600	IN	A	202.175.17.126
+millennium.ift.edu.mo.	3600	IN	A	202.175.17.160
+msoid.ift.edu.mo.	3600	IN	CNAME	clientconfig.microsoftonline-p.net.
+news.ift.edu.mo.	3600	IN	CNAME	ntserver1.ift.edu.mo.
+ntserver1.ift.edu.mo.	3600	IN	A	202.175.17.129
+panopto.ift.edu.mo.	3600	IN	A	202.175.17.164
+panotpo.ift.edu.mo.	3600	IN	A	202.175.17.164
+pcs.ift.edu.mo.		3600	IN	A	202.175.17.129
+portal.ift.edu.mo.	3600	IN	A	202.175.17.138
+pushmail.ift.edu.mo.	3600	IN	A	202.175.104.188
+scsicc.ift.edu.mo.	3600	IN	A	202.175.17.152
+scsiweb.ift.edu.mo.	3600	IN	A	202.175.17.152
+sip.ift.edu.mo.		3600	IN	CNAME	sipdir.online.lync.com.
+siweb.ift.edu.mo.	3600	IN	A	202.175.17.152
+smtp.ift.edu.mo.	3600	IN	A	202.175.17.139
+smtp1.ift.edu.mo.	3600	IN	A	202.175.17.147
+smtp2.ift.edu.mo.	3600	IN	A	202.175.17.148
+survey.ift.edu.mo.	3600	IN	A	202.175.17.150
+sys1.ift.edu.mo.	3600	IN	A	202.175.17.146
+testiis.ift.edu.mo.	3600	IN	A	202.175.17.132
+testpay.ift.edu.mo.	3600	IN	A	202.175.17.143
+uat08.ift.edu.mo.	3600	IN	A	202.175.17.149
+video.ift.edu.mo.	3600	IN	A	202.175.17.164
+vpn.ift.edu.mo.		3600	IN	A	202.175.17.135
+web.ift.edu.mo.		3600	IN	A	202.175.17.130
+webmail.ift.edu.mo.	3600	IN	CNAME	emailweb.ift.edu.mo.
+website.ift.edu.mo.	3600	IN	A	202.175.17.138
+wifi.ift.edu.mo.	3600	IN	A	202.175.17.142
+www.ift.edu.mo.		3600	IN	A	202.175.17.138
+www2.ift.edu.mo.	3600	IN	A	202.175.17.161
+ift.edu.mo.		3600	IN	SOA	ntserver1.ift.edu.mo. administrator.ift.edu.mo. 2003033089 3600 600 86400 3600
+;; Query time: 87 msec
+;; SERVER: 202.175.17.129#53(202.175.17.129)
+;; WHEN: Mon Feb 16 23:22:12 2015
+;; XFR size: 74 records (messages 1, bytes 2084)
+

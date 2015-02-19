@@ -1,0 +1,85 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr bwu.edu.cn @ns2.bwu.edu.cn.
+;; global options: +cmd
+bwu.edu.cn.		86400	IN	SOA	ns.bwu.edu.cn. root.ns.bwu.edu.cn. 2014112502 10800 900 604800 86400
+bwu.edu.cn.		86400	IN	TXT	"v=spf1 mx ~all"
+bwu.edu.cn.		86400	IN	MX	10 mail.bwu.edu.cn.
+bwu.edu.cn.		86400	IN	NS	ns.bwu.edu.cn.
+bwu.edu.cn.		86400	IN	NS	ns2.bwu.edu.cn.
+3dmap.bwu.edu.cn.	86400	IN	A	114.247.111.74
+apache.bwu.edu.cn.	86400	IN	A	222.199.145.27
+bwc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+cwc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+cwccx.bwu.edu.cn.	86400	IN	A	114.247.111.73
+dag.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+ec.bwu.edu.cn.		86400	IN	A	192.168.0.193
+extimetabling.bwu.edu.cn. 86400	IN	A	114.247.111.92
+extimetablingbeta.bwu.edu.cn. 86400 IN	A	114.247.111.92
+fgb.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+gh.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+gjc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+hqglc.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+iis.bwu.edu.cn.		86400	IN	A	114.247.111.100
+iis2.bwu.edu.cn.	86400	IN	A	192.168.0.11
+is.bwu.edu.cn.		86400	IN	CNAME	iis.bwu.edu.cn.
+jifei.bwu.edu.cn.	86400	IN	A	1.1.1.5
+jiuye.bwu.edu.cn.	86400	IN	A	222.199.145.40
+jjb.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+jjs.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+jjxy.bwu.edu.cn.	86400	IN	A	113.11.197.153
+jwc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+jwcbeta.bwu.edu.cn.	86400	IN	A	114.247.111.92
+jwcmedia.bwu.edu.cn.	86400	IN	A	192.168.41.40
+jwgl.bwu.edu.cn.	86400	IN	A	114.247.111.92
+jwmh.bwu.edu.cn.	86400	IN	A	114.247.111.92
+jwzy.bwu.edu.cn.	86400	IN	A	114.247.111.92
+jxcgj.bwu.edu.cn.	86400	IN	CNAME	iis.bwu.edu.cn.
+jxjy.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+jxpt.bwu.edu.cn.	86400	IN	A	114.247.111.77
+kyc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+lfxy.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+lib.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+lxc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+mail.bwu.edu.cn.	86400	IN	TXT	"v=spf1 a -all"
+mail.bwu.edu.cn.	86400	IN	A	211.103.154.114
+mba.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+nc.bwu.edu.cn.		86400	IN	CNAME	iis2.bwu.edu.cn.
+news.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+nic.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+ns.bwu.edu.cn.		86400	IN	A	222.199.145.1
+ns2.bwu.edu.cn.		86400	IN	A	222.199.145.2
+pop3.bwu.edu.cn.	86400	IN	CNAME	mail.bwu.edu.cn.
+rsc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+saas.bwu.edu.cn.	86400	IN	A	114.247.111.92
+saasbeta.bwu.edu.cn.	86400	IN	A	114.247.111.92
+saashelp.bwu.edu.cn.	86400	IN	A	114.247.111.92
+saastest.bwu.edu.cn.	86400	IN	A	114.247.111.92
+sav9.bwu.edu.cn.	86400	IN	CNAME	iis2.bwu.edu.cn.
+scs.bwu.edu.cn.		86400	IN	CNAME	iis2.bwu.edu.cn.
+smtp.bwu.edu.cn.	86400	IN	CNAME	mail.bwu.edu.cn.
+sxy.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+szb.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+tw.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+tyb.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+uss.bwu.edu.cn.		86400	IN	A	192.168.0.3
+vpn.bwu.edu.cn.		86400	IN	A	114.247.111.97
+wap.bwu.edu.cn.		86400	IN	CNAME	iis.bwu.edu.cn.
+web.bwu.edu.cn.		86400	IN	A	114.247.111.102
+wlsyjxzx.bwu.edu.cn.	86400	IN	A	222.199.145.45
+wlxy.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+www.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+wyxy.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+xcb.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+xiaobao.bwu.edu.cn.	86400	IN	A	192.168.0.138
+xsc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+xxxy.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+yjsb.bwu.edu.cn.	86400	IN	CNAME	web.bwu.edu.cn.
+zcc.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+zzb.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+zzs.bwu.edu.cn.		86400	IN	CNAME	web.bwu.edu.cn.
+bwu.edu.cn.		86400	IN	SOA	ns.bwu.edu.cn. root.ns.bwu.edu.cn. 2014112502 10800 900 604800 86400
+;; Query time: 35 msec
+;; SERVER: 222.199.145.2#53(222.199.145.2)
+;; WHEN: Mon Feb 16 23:21:42 2015
+;; XFR size: 77 records (messages 1, bytes 1604)
+

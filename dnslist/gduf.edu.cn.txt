@@ -1,0 +1,105 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr gduf.edu.cn @dns.gduf.edu.cn.
+;; global options: +cmd
+gduf.edu.cn.		3600	IN	SOA	dns.gduf.edu.cn. root.gduf.edu.cn. 2014122404 30 30 360 3600
+gduf.edu.cn.		3600	IN	NS	dns.gduf.edu.cn.
+gduf.edu.cn.		3600	IN	MX	10 mail.gduf.edu.cn.
+bbs.gduf.edu.cn.	3600	IN	A	218.192.12.16
+bm.gduf.edu.cn.		3600	IN	A	218.192.12.13
+bm1.gduf.edu.cn.	3600	IN	A	218.192.12.9
+bxx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+card.gduf.edu.cn.	3600	IN	A	172.18.2.33
+cjcm.gduf.edu.cn.	3600	IN	A	218.192.12.108
+cjxt.gduf.edu.cn.	3600	IN	A	172.18.1.114
+cwc.gduf.edu.cn.	3600	IN	A	218.192.12.108
+dag.gduf.edu.cn.	3600	IN	A	218.192.12.108
+dep.gduf.edu.cn.	3600	IN	A	218.192.12.8
+dkcx.gduf.edu.cn.	3600	IN	A	172.18.2.40
+dns.gduf.edu.cn.	3600	IN	A	218.192.12.6
+download.gduf.edu.cn.	3600	IN	A	218.192.12.14
+dtone1.gduf.edu.cn.	3600	IN	A	218.192.12.233
+dwzzb.gduf.edu.cn.	3600	IN	A	218.192.12.108
+flx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+ftp.gduf.edu.cn.	3600	IN	A	218.192.12.30
+ftp2.gduf.edu.cn.	3600	IN	A	172.18.1.252
+ftp3.gduf.edu.cn.	3600	IN	A	218.192.12.33
+ftp4.gduf.edu.cn.	3600	IN	A	172.18.1.123
+ftp5.gduf.edu.cn.	3600	IN	A	172.18.1.124
+ftp6.gduf.edu.cn.	3600	IN	A	172.18.1.127
+ftp7.gduf.edu.cn.	3600	IN	A	172.18.1.126
+ftp9.gduf.edu.cn.	3600	IN	A	172.16.29.135
+ggk.gduf.edu.cn.	3600	IN	A	218.192.12.108
+gjbs.gduf.edu.cn.	3600	IN	A	218.192.12.114
+goldenlight.gduf.edu.cn. 3600	IN	A	218.192.12.53
+gsgl.gduf.edu.cn.	3600	IN	A	218.192.12.108
+hbg.gduf.edu.cn.	3600	IN	A	218.192.12.55
+home.gduf.edu.cn.	3600	IN	A	218.192.12.7
+ids.gduf.edu.cn.	3600	IN	A	172.18.1.192
+ids.gduf.edu.cn.	3600	IN	A	172.18.1.194
+ids1.gduf.edu.cn.	3600	IN	A	172.18.1.192
+ids2.gduf.edu.cn.	3600	IN	A	172.18.1.194
+jcc.gduf.edu.cn.	3600	IN	A	218.192.12.108
+jfe.gduf.edu.cn.	3600	IN	A	218.192.12.95
+jkx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+jmx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+jpkc.gduf.edu.cn.	3600	IN	A	218.192.12.5
+jrf.gduf.edu.cn.	3600	IN	A	218.192.12.80
+jrfx.gduf.edu.cn.	3600	IN	A	218.192.12.97
+jrsys.gduf.edu.cn.	3600	IN	A	218.192.12.108
+jrx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+jw.gduf.edu.cn.		3600	IN	A	218.192.12.108
+jwc.gduf.edu.cn.	3600	IN	A	218.192.12.41
+jwc.gduf.edu.cn.	3600	IN	A	218.192.12.87
+jwc.gduf.edu.cn.	3600	IN	A	218.192.12.98
+jwc.gduf.edu.cn.	3600	IN	A	218.192.12.99
+jxjyxy.gduf.edu.cn.	3600	IN	A	218.192.12.96
+jxpt.gduf.edu.cn.	3600	IN	A	218.192.12.111
+jzzg.gduf.edu.cn.	3600	IN	A	218.192.12.53
+kas.gduf.edu.cn.	3600	IN	A	172.18.1.245
+kjx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+ljx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+mail.gduf.edu.cn.	3600	IN	A	218.192.12.49
+mail2.gduf.edu.cn.	3600	IN	A	218.192.12.19
+media.gduf.edu.cn.	3600	IN	A	218.192.12.56
+my.gduf.edu.cn.		3600	IN	A	218.192.12.103
+oa.gduf.edu.cn.		3600	IN	A	218.192.12.81
+pb.gduf.edu.cn.		3600	IN	A	218.192.12.57
+pctv.gduf.edu.cn.	3600	IN	A	10.10.14.98
+pjxt.gduf.edu.cn.	3600	IN	A	192.168.0.49
+pop3.gduf.edu.cn.	3600	IN	A	218.192.12.49
+rms.gduf.edu.cn.	3600	IN	A	172.18.1.179
+rsc.gduf.edu.cn.	3600	IN	A	218.192.12.108
+s4506.gduf.edu.cn.	3600	IN	A	172.18.1.251
+service.gduf.edu.cn.	3600	IN	A	172.18.1.99
+shelian.gduf.edu.cn.	3600	IN	A	218.192.12.51
+skb.gduf.edu.cn.	3600	IN	A	218.192.12.108
+smtp.gduf.edu.cn.	3600	IN	A	218.192.12.49
+ssreader.gduf.edu.cn.	3600	IN	A	218.192.12.9
+thesis.gduf.edu.cn.	3600	IN	A	218.192.12.118
+trip.gduf.edu.cn.	3600	IN	A	218.192.12.59
+tsg.gduf.edu.cn.	3600	IN	A	218.192.12.92
+tw.gduf.edu.cn.		3600	IN	A	218.192.12.102
+tyb.gduf.edu.cn.	3600	IN	A	218.192.12.108
+vod.gduf.edu.cn.	3600	IN	A	218.192.12.52
+www.gduf.edu.cn.	3600	IN	A	218.192.12.3
+www.gduf.edu.cn.	3600	IN	A	218.192.12.4
+www.gduf.edu.cn.	3600	IN	A	218.192.12.10
+wyx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+xc.gduf.edu.cn.		3600	IN	A	218.192.12.33
+xctz.gduf.edu.cn.	3600	IN	A	218.192.12.8
+xg.gduf.edu.cn.		3600	IN	A	218.192.12.103
+xsc.gduf.edu.cn.	3600	IN	A	218.192.12.108
+xww.gduf.edu.cn.	3600	IN	A	218.192.12.108
+xyw.gduf.edu.cn.	3600	IN	A	218.192.12.53
+ycjy.gduf.edu.cn.	3600	IN	A	218.192.12.12
+youth.gduf.edu.cn.	3600	IN	A	218.192.12.11
+yxt.gduf.edu.cn.	3600	IN	A	172.18.1.147
+yysx.gduf.edu.cn.	3600	IN	A	218.192.12.108
+zc.gduf.edu.cn.		3600	IN	A	218.192.12.44
+zsjy.gduf.edu.cn.	3600	IN	A	218.192.12.34
+gduf.edu.cn.		3600	IN	SOA	dns.gduf.edu.cn. root.gduf.edu.cn. 2014122404 30 30 360 3600
+;; Query time: 30 msec
+;; SERVER: 218.192.12.6#53(218.192.12.6)
+;; WHEN: Mon Feb 16 23:22:03 2015
+;; XFR size: 97 records (messages 1, bytes 2040)
+

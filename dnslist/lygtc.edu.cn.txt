@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr lygtc.edu.cn @dns1.lygtc.edu.cn.
+;; global options: +cmd
+lygtc.edu.cn.		86400	IN	SOA	lygtc.edu.cn. root.lygtc.edu.cn. 2008041413 10800 900 604800 86400
+lygtc.edu.cn.		86400	IN	NS	dns1.lygtc.edu.cn.
+lygtc.edu.cn.		86400	IN	NS	dns2.lygtc.edu.cn.
+lygtc.edu.cn.		86400	IN	MX	10 mail.lygtc.edu.cn.
+dns1.lygtc.edu.cn.	86400	IN	A	121.248.112.1
+dns2.lygtc.edu.cn.	86400	IN	A	121.248.112.2
+mail.lygtc.edu.cn.	86400	IN	A	218.92.23.105
+www.lygtc.edu.cn.	86400	IN	A	218.92.23.108
+lygtc.edu.cn.		86400	IN	SOA	lygtc.edu.cn. root.lygtc.edu.cn. 2008041413 10800 900 604800 86400
+;; Query time: 20 msec
+;; SERVER: 121.248.112.1#53(121.248.112.1)
+;; WHEN: Mon Feb 16 23:21:50 2015
+;; XFR size: 9 records (messages 1, bytes 234)
+

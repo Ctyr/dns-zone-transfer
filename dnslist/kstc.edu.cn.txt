@@ -1,0 +1,65 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr kstc.edu.cn @sync.kstc.edu.cn.
+;; global options: +cmd
+kstc.edu.cn.		86400	IN	SOA	sync.kstc.edu.cn. root.kstc.edu.cn. 7 28800 7200 604800 86400
+kstc.edu.cn.		86400	IN	A	218.195.192.76
+kstc.edu.cn.		86400	IN	NS	syic.kstc.edu.cn.
+kstc.edu.cn.		86400	IN	NS	sync.kstc.edu.cn.
+kstc.edu.cn.		86400	IN	MX	10 mail.kstc.edu.cn.
+bwc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+cjy.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+disk.kstc.edu.cn.	86400	IN	A	218.195.192.67
+dzb.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+fzx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+hhx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+hqc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+ie.kstc.edu.cn.		86400	IN	CNAME	www4.kstc.edu.cn.
+jcc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+jjw.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+jwc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+jwgl.kstc.edu.cn.	86400	IN	A	218.195.192.104
+jyx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+kyc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+mail.kstc.edu.cn.	86400	IN	A	218.195.192.77
+nic.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+njjy.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+oa.kstc.edu.cn.		86400	IN	A	218.195.192.101
+phpweb.kstc.edu.cn.	86400	IN	A	218.195.192.110
+rwx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+sbc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+sdx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+shyj.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+sjc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+sxx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+syic.kstc.edu.cn.	86400	IN	A	218.195.192.74
+sync.kstc.edu.cn.	86400	IN	A	218.195.192.73
+szb.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+test1.kstc.edu.cn.	86400	IN	A	218.195.192.70
+test2.kstc.edu.cn.	86400	IN	A	218.195.192.70
+test3.kstc.edu.cn.	86400	IN	A	218.195.192.75
+test4.kstc.edu.cn.	86400	IN	A	218.195.192.75
+tmgc.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+tw.kstc.edu.cn.		86400	IN	CNAME	www3.kstc.edu.cn.
+tyx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+wlx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+www.kstc.edu.cn.	86400	IN	A	218.195.192.76
+www2.kstc.edu.cn.	86400	IN	A	218.195.192.75
+www3.kstc.edu.cn.	86400	IN	A	218.195.192.81
+www4.kstc.edu.cn.	86400	IN	A	218.195.192.82
+wyx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+xcb.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+xgb.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+xlzx.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+ygh.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+yjsc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+ysx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+zcc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+zcglc.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+zyx.kstc.edu.cn.	86400	IN	CNAME	www4.kstc.edu.cn.
+zzb.kstc.edu.cn.	86400	IN	CNAME	www3.kstc.edu.cn.
+kstc.edu.cn.		86400	IN	SOA	sync.kstc.edu.cn. root.kstc.edu.cn. 7 28800 7200 604800 86400
+;; Query time: 370 msec
+;; SERVER: 218.195.192.73#53(218.195.192.73)
+;; WHEN: Mon Feb 16 23:22:15 2015
+;; XFR size: 57 records (messages 1, bytes 1137)
+

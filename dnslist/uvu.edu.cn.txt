@@ -1,0 +1,91 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr uvu.edu.cn @dns.uvu.edu.cn.
+;; global options: +cmd
+uvu.edu.cn.		21600	IN	SOA	dns.uvu.edu.cn. root.uvu.edu.cn. 2014090401 10800 3600 604800 86400
+uvu.edu.cn.		21600	IN	MX	0 mail.uvu.edu.cn.
+uvu.edu.cn.		21600	IN	NS	dns.uvu.edu.cn.
+bwc.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+cmxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+cwc.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+dgsx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+dns.uvu.edu.cn.		21600	IN	A	210.26.144.1
+dzb.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+elearning.uvu.edu.cn.	21600	IN	CNAME	www.ablesky.com.
+ftp.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+gh.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+gsglxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+hjb.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+hq.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+ilas.uvu.edu.cn.	21600	IN	A	60.13.176.206
+jcb.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+jgdw.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jjjc.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jmxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jpkc.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jpkc1.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jspx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jsyx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jwc.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+jwgl.uvu.edu.cn.	21600	IN	A	60.13.176.205
+jwweb.uvu.edu.cn.	21600	IN	A	60.13.176.204
+jxddc.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jxjy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+jxzy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+kyc.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+lib.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+libby.uvu.edu.cn.	21600	IN	CNAME	ilas.uvu.edu.cn.
+libvod.uvu.edu.cn.	21600	IN	CNAME	ilas.uvu.edu.cn.
+lyxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+mail.uvu.edu.cn.	21600	IN	A	210.26.144.120
+oa.uvu.edu.cn.		21600	IN	A	60.13.176.202
+printcloud.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+psb.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+rlweb.uvu.edu.cn.	21600	IN	CNAME	jwweb.uvu.edu.cn.
+rzweb.uvu.edu.cn.	21600	IN	A	60.13.176.203
+scc.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+sczjyq.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+sfxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+skb.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+skzlpj.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+softdown.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+special.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+stumyd.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+sxzx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+tgc.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+tour.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+trip.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+tw.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+tyx.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+wap.uvu.edu.cn.		21600	IN	A	221.7.12.106
+wgyxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+wlzx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+wsb.uvu.edu.cn.		21600	IN	CNAME	www.uvu.edu.cn.
+wsbgt.uvu.edu.cn.	21600	IN	CNAME	jwgl.uvu.edu.cn.
+www.uvu.edu.cn.		21600	IN	A	60.13.176.201
+xctzb.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xdjy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xjhz.uvu.edu.cn.	21600	IN	CNAME	ilas.uvu.edu.cn.
+xlts.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xlzx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xnfw.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xsgzb.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xsweb.uvu.edu.cn.	21600	IN	CNAME	jwweb.uvu.edu.cn.
+xxgcxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+xzpx.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+ysxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+yxweb.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+yygcxy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+zdzy.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+zsjyc.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+ztsjcj.uvu.edu.cn.	21600	IN	CNAME	jwgl.uvu.edu.cn.
+zygl.uvu.edu.cn.	21600	IN	CNAME	jwgl.uvu.edu.cn.
+zyglcmxy.uvu.edu.cn.	21600	IN	CNAME	ilas.uvu.edu.cn.
+zygllyxy.uvu.edu.cn.	21600	IN	CNAME	ilas.uvu.edu.cn.
+zyglysxy.uvu.edu.cn.	21600	IN	CNAME	ilas.uvu.edu.cn.
+zzrs.uvu.edu.cn.	21600	IN	CNAME	www.uvu.edu.cn.
+uvu.edu.cn.		21600	IN	SOA	dns.uvu.edu.cn. root.uvu.edu.cn. 2014090401 10800 3600 604800 86400
+;; Query time: 87 msec
+;; SERVER: 210.26.144.1#53(210.26.144.1)
+;; WHEN: Mon Feb 16 23:22:11 2015
+;; XFR size: 83 records (messages 1, bytes 1702)
+

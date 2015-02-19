@@ -1,0 +1,81 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr mastc.edu.cn @dns1.mastc.edu.cn.
+;; global options: +cmd
+mastc.edu.cn.		600	IN	SOA	dns1.mastc.edu.cn. root.mastc.edu.cn. 84 3600 900 604800 86400
+mastc.edu.cn.		600	IN	MX	10 mail.mastc.edu.cn.
+mastc.edu.cn.		600	IN	NS	dns1.mastc.edu.cn.
+antivirus.mastc.edu.cn.	600	IN	A	220.178.251.158
+bgs.mastc.edu.cn.	600	IN	A	121.251.56.22
+bm.mastc.edu.cn.	600	IN	A	220.178.251.158
+bwk.mastc.edu.cn.	600	IN	A	121.251.56.22
+card.mastc.edu.cn.	600	IN	A	121.251.56.108
+cw.mastc.edu.cn.	600	IN	A	121.251.56.22
+cwc.mastc.edu.cn.	600	IN	A	220.178.251.158
+cxcy.mastc.edu.cn.	600	IN	A	121.251.56.22
+dflz.mastc.edu.cn.	600	IN	A	121.251.56.22
+djsz.mastc.edu.cn.	600	IN	A	220.178.251.158
+dns1.mastc.edu.cn.	600	IN	A	220.178.251.157
+dqsb.mastc.edu.cn.	600	IN	A	220.178.251.158
+enableq.mastc.edu.cn.	600	IN	A	121.251.56.19
+fzg.mastc.edu.cn.	600	IN	A	121.251.56.22
+glgc.mastc.edu.cn.	600	IN	A	220.178.251.158
+gxsf.mastc.edu.cn.	600	IN	A	121.251.56.23
+jcb.mastc.edu.cn.	600	IN	A	121.251.56.22
+jgx.mastc.edu.cn.	600	IN	A	121.251.56.22
+jp.mastc.edu.cn.	600	IN	A	121.251.56.16
+jsj.mastc.edu.cn.	600	IN	A	121.251.56.22
+jsj1.mastc.edu.cn.	600	IN	A	220.178.251.158
+jsjsx.mastc.edu.cn.	600	IN	A	220.178.251.158
+jwc.mastc.edu.cn.	600	IN	A	220.178.251.149
+jwgl.mastc.edu.cn.	600	IN	A	220.178.251.154
+jxgc.mastc.edu.cn.	600	IN	A	220.178.251.158
+jxjy.mastc.edu.cn.	600	IN	A	220.178.251.158
+kyc.mastc.edu.cn.	600	IN	A	220.178.251.158
+lib.mastc.edu.cn.	600	IN	A	220.178.251.158
+ly.mastc.edu.cn.	600	IN	A	121.251.56.19
+ly1.mastc.edu.cn.	600	IN	A	121.251.56.19
+mail.mastc.edu.cn.	600	IN	A	220.178.251.150
+map.mastc.edu.cn.	600	IN	A	211.141.227.8
+mrtg.mastc.edu.cn.	600	IN	A	121.251.56.14
+nic.mastc.edu.cn.	600	IN	A	121.251.56.22
+oa.mastc.edu.cn.	600	IN	A	220.178.251.155
+php.mastc.edu.cn.	600	IN	A	220.178.251.154
+pj.mastc.edu.cn.	600	IN	A	220.178.251.158
+plc.mastc.edu.cn.	600	IN	A	121.251.56.22
+pop.mastc.edu.cn.	600	IN	A	220.178.251.150
+pxjd.mastc.edu.cn.	600	IN	A	220.178.251.158
+qzlx.mastc.edu.cn.	600	IN	A	121.251.56.22
+rc.mastc.edu.cn.	600	IN	A	121.251.56.37
+sfjs.mastc.edu.cn.	600	IN	A	121.251.56.32
+sfjsread.mastc.edu.cn.	600	IN	A	121.251.56.32
+smtp.mastc.edu.cn.	600	IN	A	220.178.251.150
+sxc.mastc.edu.cn.	600	IN	A	121.251.56.22
+szb.mastc.edu.cn.	600	IN	A	220.178.251.158
+szpt.mastc.edu.cn.	600	IN	A	121.251.56.26
+tw.mastc.edu.cn.	600	IN	A	121.251.56.22
+vote.mastc.edu.cn.	600	IN	A	220.178.251.158
+wap.mastc.edu.cn.	600	IN	A	220.178.251.149
+wq.mastc.edu.cn.	600	IN	A	121.251.56.22
+www.mastc.edu.cn.	600	IN	A	220.178.251.149
+wyx.mastc.edu.cn.	600	IN	A	121.251.56.22
+xljk.mastc.edu.cn.	600	IN	A	121.251.56.22
+xsc.mastc.edu.cn.	600	IN	A	220.178.251.158
+xufei.mastc.edu.cn.	600	IN	A	121.251.56.18
+ylb.mastc.edu.cn.	600	IN	A	121.251.56.27
+zdh.mastc.edu.cn.	600	IN	A	121.251.56.22
+zdhsx.mastc.edu.cn.	600	IN	A	220.178.251.158
+zlgc.mastc.edu.cn.	600	IN	A	220.178.251.158
+zly.mastc.edu.cn.	600	IN	A	121.251.56.22
+zsb.mastc.edu.cn.	600	IN	A	220.178.251.149
+zwc.mastc.edu.cn.	600	IN	A	121.251.56.22
+zxxx.mastc.edu.cn.	600	IN	A	121.251.56.22
+zyk.mastc.edu.cn.	600	IN	A	121.251.56.13
+zzkc.mastc.edu.cn.	600	IN	A	121.251.56.32
+zzrs.mastc.edu.cn.	600	IN	A	220.178.251.158
+zzzs.mastc.edu.cn.	600	IN	A	220.178.251.149
+mastc.edu.cn.		600	IN	SOA	dns1.mastc.edu.cn. root.mastc.edu.cn. 84 3600 900 604800 86400
+;; Query time: 15 msec
+;; SERVER: 220.178.251.157#53(220.178.251.157)
+;; WHEN: Mon Feb 16 23:21:51 2015
+;; XFR size: 73 records (messages 1, bytes 1555)
+

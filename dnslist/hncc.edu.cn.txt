@@ -1,0 +1,91 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hncc.edu.cn @dns.hncc.edu.cn.
+;; global options: +cmd
+hncc.edu.cn.		86400	IN	SOA	dns.hncc.edu.cn. root.dns.hncc.edu.cn. 2008111500 28800 14400 3600000 86400
+hncc.edu.cn.		86400	IN	NS	dns.hncc.edu.cn.
+hncc.edu.cn.		86400	IN	MX	10 mail.hncc.edu.cn.
+2014jxms.hncc.edu.cn.	86400	IN	A	218.28.186.194
+auto.hncc.edu.cn.	86400	IN	A	218.28.186.194
+bwc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+cwc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+db.hncc.edu.cn.		86400	IN	A	218.28.186.194
+db.hncc.edu.cn.		86400	IN	A	218.28.186.202
+dgsx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+dns.hncc.edu.cn.	86400	IN	A	125.219.124.8
+dpstar.hncc.edu.cn.	86400	IN	A	218.28.186.199
+edf.hncc.edu.cn.	86400	IN	A	218.28.186.194
+ftp.hncc.edu.cn.	86400	IN	A	218.28.186.196
+gcjxfdj.hncc.edu.cn.	86400	IN	A	218.28.186.198
+ggjcb.hncc.edu.cn.	86400	IN	A	218.28.186.194
+ggjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+gh.hncc.edu.cn.		86400	IN	A	218.28.186.194
+gzsb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+hq.hncc.edu.cn.		86400	IN	A	218.28.186.194
+ids.hncc.edu.cn.	86400	IN	A	218.28.186.196
+ietc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+imp.hncc.edu.cn.	86400	IN	A	218.28.186.199
+jd.hncc.edu.cn.		86400	IN	A	218.28.186.194
+jgy.hncc.edu.cn.	86400	IN	A	218.28.186.194
+job.hncc.edu.cn.	86400	IN	A	218.29.140.102
+jpkc.hncc.edu.cn.	86400	IN	A	218.28.186.198
+jpzygxkc.hncc.edu.cn.	86400	IN	A	218.28.186.198
+jsb.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jw.hncc.edu.cn.		86400	IN	A	218.28.186.194
+jwc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jxjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jxjyxy.hncc.edu.cn.	86400	IN	A	218.28.186.202
+jy.hncc.edu.cn.		86400	IN	A	218.29.140.102
+jypz.hncc.edu.cn.	86400	IN	A	218.28.186.202
+kyc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+library.hncc.edu.cn.	86400	IN	A	218.28.186.202
+logistics.hncc.edu.cn.	86400	IN	A	218.28.186.194
+mail.hncc.edu.cn.	86400	IN	A	218.28.186.195
+meta.hncc.edu.cn.	86400	IN	A	218.28.186.202
+my.hncc.edu.cn.		86400	IN	A	218.28.186.199
+nav.hncc.edu.cn.	86400	IN	A	218.28.186.194
+nbw.hncc.edu.cn.	86400	IN	A	218.28.186.202
+oa.hncc.edu.cn.		86400	IN	A	218.28.186.201
+oab.hncc.edu.cn.	86400	IN	A	218.28.186.198
+pop3.hncc.edu.cn.	86400	IN	A	218.28.186.195
+pxc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+qzlx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+road.hncc.edu.cn.	86400	IN	A	218.28.186.194
+rs.hncc.edu.cn.		86400	IN	A	218.28.186.199
+rsc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+rsp.hncc.edu.cn.	86400	IN	A	218.28.186.202
+sfjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+slx.hncc.edu.cn.	86400	IN	A	218.28.186.194
+smtp.hncc.edu.cn.	86400	IN	A	218.28.186.195
+spgk.hncc.edu.cn.	86400	IN	A	218.28.186.198
+szb.hncc.edu.cn.	86400	IN	A	218.28.186.194
+tw.hncc.edu.cn.		86400	IN	A	218.28.186.202
+wlxxjs.hncc.edu.cn.	86400	IN	A	218.28.186.198
+wlzs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+wspj.hncc.edu.cn.	86400	IN	A	218.28.186.202
+www.hncc.edu.cn.	86400	IN	A	218.28.186.194
+wytyb.hncc.edu.cn.	86400	IN	A	218.28.186.194
+xcb.hncc.edu.cn.	86400	IN	A	218.28.186.194
+xfjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xg.hncc.edu.cn.		86400	IN	A	218.28.186.199
+xgc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+xqhzc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xqjs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xxgczs.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xygh.hncc.edu.cn.	86400	IN	A	218.28.186.202
+xyjhxt.hncc.edu.cn.	86400	IN	A	218.28.186.202
+yb.hncc.edu.cn.		86400	IN	A	218.28.186.202
+zcc.hncc.edu.cn.	86400	IN	A	218.28.186.194
+zfsoft.hncc.edu.cn.	86400	IN	A	218.28.186.203
+zjjt.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zsjyc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zsxc.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zszx.hncc.edu.cn.	86400	IN	A	218.28.186.194
+zszx.hncc.edu.cn.	86400	IN	A	218.28.186.202
+zyk.hncc.edu.cn.	86400	IN	A	218.28.186.198
+zzb.hncc.edu.cn.	86400	IN	A	218.28.186.194
+hncc.edu.cn.		86400	IN	SOA	dns.hncc.edu.cn. root.dns.hncc.edu.cn. 2008111500 28800 14400 3600000 86400
+;; Query time: 38 msec
+;; SERVER: 125.219.124.8#53(125.219.124.8)
+;; WHEN: Mon Feb 16 23:22:01 2015
+;; XFR size: 83 records (messages 1, bytes 1770)
+

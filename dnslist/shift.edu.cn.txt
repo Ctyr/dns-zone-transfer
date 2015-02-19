@@ -1,0 +1,23 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr shift.edu.cn @spring.shift.edu.cn.
+;; global options: +cmd
+shift.edu.cn.		86400	IN	SOA	ns.shift.edu.cn. gujzh.shift.edu.cn. 2009010901 10800 900 604800 86400
+shift.edu.cn.		86400	IN	NS	spring.shift.edu.cn.
+shift.edu.cn.		86400	IN	NS	summer.shift.edu.cn.
+shift.edu.cn.		86400	IN	MX	10 mail.shift.edu.cn.
+app.shift.edu.cn.	86400	IN	A	210.35.72.27
+eng.shift.edu.cn.	86400	IN	A	210.35.74.100
+mail.shift.edu.cn.	86400	IN	A	210.35.72.91
+ns.shift.edu.cn.	86400	IN	A	210.35.72.1
+oa.shift.edu.cn.	86400	IN	A	210.35.74.121
+spring.shift.edu.cn.	86400	IN	A	210.35.72.1
+summer.shift.edu.cn.	86400	IN	A	210.35.72.1
+uia.shift.edu.cn.	86400	IN	A	210.35.72.12
+uia1.shift.edu.cn.	86400	IN	A	210.35.72.14
+www.shift.edu.cn.	86400	IN	A	210.35.74.2
+shift.edu.cn.		86400	IN	SOA	ns.shift.edu.cn. gujzh.shift.edu.cn. 2009010901 10800 900 604800 86400
+;; Query time: 9 msec
+;; SERVER: 210.35.72.1#53(210.35.72.1)
+;; WHEN: Mon Feb 16 23:21:54 2015
+;; XFR size: 15 records (messages 1, bytes 358)
+

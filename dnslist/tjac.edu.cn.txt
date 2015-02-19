@@ -1,0 +1,67 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr tjac.edu.cn @dns.tjac.edu.cn.
+;; global options: +cmd
+tjac.edu.cn.		3600	IN	SOA	dns.tjac.edu.cn. root.tjac.edu.cn. 2015010410 30 30 360 3600
+tjac.edu.cn.		3600	IN	MX	10 mail.tjac.edu.cn.
+tjac.edu.cn.		3600	IN	NS	dns.tjac.edu.cn.
+tjac.edu.cn.		3600	IN	NS	dns2.tjac.edu.cn.
+adult.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+agri.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+benkebu.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+bingdu.tjac.edu.cn.	3600	IN	A	211.68.250.22
+cecs.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+cem.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+course.tjac.edu.cn.	3600	IN	CNAME	web2.tjac.edu.cn.
+course2.tjac.edu.cn.	3600	IN	CNAME	web3.tjau.edu.cn.
+cs.tjac.edu.cn.		3600	IN	CNAME	web.tjac.edu.cn.
+dean.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+dkx.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+dns.tjac.edu.cn.	3600	IN	A	211.68.250.11
+dns2.tjac.edu.cn.	3600	IN	A	211.68.250.14
+em.tjac.edu.cn.		3600	IN	CNAME	web.tjac.edu.cn.
+english.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+enong.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+food.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+horticulture.tjac.edu.cn. 3600	IN	CNAME	web1.tjac.edu.cn.
+huss.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+hxes.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+jckb.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+journal.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+jwmis.tjac.edu.cn.	3600	IN	A	211.68.250.18
+kjch.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+lvyuan.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+mail.tjac.edu.cn.	3600	IN	A	211.68.250.12
+netsky.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+news.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+nic.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+oa.tjac.edu.cn.		3600	IN	CNAME	bingdu.tjac.edu.cn.
+pj.tjac.edu.cn.		3600	IN	CNAME	web1.tjac.edu.cn.
+science.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+sec.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+shgk.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+shuguang1.tjac.edu.cn.	3600	IN	A	211.68.250.24
+shuguang3.tjac.edu.cn.	3600	IN	A	211.68.250.30
+shuichan.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+sl.tjac.edu.cn.		3600	IN	CNAME	web1.tjau.edu.cn.
+sql.tjac.edu.cn.	3600	IN	A	211.68.250.13
+stu.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+tbrc.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+tiyu.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+tjrs.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+vtc.tjac.edu.cn.	3600	IN	CNAME	web.tjac.edu.cn.
+web.tjac.edu.cn.	3600	IN	A	211.68.250.40
+web1.tjac.edu.cn.	3600	IN	A	211.68.250.41
+web2.tjac.edu.cn.	3600	IN	A	211.68.250.43
+web3.tjac.edu.cn.	3600	IN	A	211.68.250.44
+web5.tjac.edu.cn.	3600	IN	A	211.68.250.29
+www.tjac.edu.cn.	3600	IN	CNAME	web5.tjac.edu.cn.
+www1.tjac.edu.cn.	3600	IN	A	211.68.250.16
+yjs.tjac.edu.cn.	3600	IN	CNAME	web5.tjau.edu.cn.
+youth.tjac.edu.cn.	3600	IN	CNAME	web1.tjac.edu.cn.
+zjb.tjac.edu.cn.	3600	IN	CNAME	web5.tjac.edu.cn.
+tjac.edu.cn.		3600	IN	SOA	dns.tjac.edu.cn. root.tjac.edu.cn. 2015010410 30 30 360 3600
+;; Query time: 32 msec
+;; SERVER: 211.68.250.11#53(211.68.250.11)
+;; WHEN: Mon Feb 16 23:21:41 2015
+;; XFR size: 59 records (messages 1, bytes 1251)
+

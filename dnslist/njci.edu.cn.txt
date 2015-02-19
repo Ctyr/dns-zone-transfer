@@ -1,0 +1,83 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr njci.edu.cn @dns1.njci.edu.cn.
+;; global options: +cmd
+njci.edu.cn.		3600	IN	SOA	njci.edu.cn. root.njci.edu.cn. 2014060601 604800 86400 2419200 604800
+njci.edu.cn.		3600	IN	TXT	"A text string"
+njci.edu.cn.		3600	IN	NS	dns1.njci.edu.cn.
+njci.edu.cn.		3600	IN	MX	10 mail2.njci.edu.cn.
+admin.njci.edu.cn.	3600	IN	A	222.190.124.20
+art.njci.edu.cn.	3600	IN	A	222.190.124.20
+bsgl.njci.edu.cn.	3600	IN	A	222.190.124.20
+bwc.njci.edu.cn.	3600	IN	A	222.190.124.20
+cggl.njci.edu.cn.	3600	IN	A	222.190.124.20
+cowork.njci.edu.cn.	3600	IN	A	222.190.124.20
+cwc.njci.edu.cn.	3600	IN	A	222.190.124.20
+cwcx.njci.edu.cn.	3600	IN	A	222.190.124.20
+db.njci.edu.cn.		3600	IN	A	222.190.124.20
+dd.njci.edu.cn.		3600	IN	A	222.190.124.20
+dns1.njci.edu.cn.	3600	IN	TXT	"A text string"
+dns1.njci.edu.cn.	3600	IN	A	58.192.248.1
+dwzxb.njci.edu.cn.	3600	IN	A	222.190.124.20
+elearning.njci.edu.cn.	3600	IN	A	222.190.124.20
+ggw.njci.edu.cn.	3600	IN	A	222.190.124.20
+gh.njci.edu.cn.		3600	IN	A	222.190.124.20
+gjjyxy.njci.edu.cn.	3600	IN	A	222.190.124.20
+gjy.njci.edu.cn.	3600	IN	A	222.190.124.20
+go.njci.edu.cn.		3600	IN	A	222.190.124.20
+guanli.njci.edu.cn.	3600	IN	A	222.190.124.20
+gzyjs.njci.edu.cn.	3600	IN	A	222.190.124.20
+hqfwzx.njci.edu.cn.	3600	IN	A	222.190.124.20
+jianzhu.njci.edu.cn.	3600	IN	A	222.190.124.20
+jidian.njci.edu.cn.	3600	IN	A	222.190.124.20
+jjb.njci.edu.cn.	3600	IN	A	222.190.124.20
+jjy.njci.edu.cn.	3600	IN	A	222.190.124.20
+jnds.njci.edu.cn.	3600	IN	A	222.190.124.20
+jtys.njci.edu.cn.	3600	IN	A	222.190.124.20
+jwch.njci.edu.cn.	3600	IN	A	222.190.124.20
+jwgl.njci.edu.cn.	3600	IN	A	222.190.124.20
+jwjc.njci.edu.cn.	3600	IN	A	222.190.124.20
+jxjyxy.njci.edu.cn.	3600	IN	A	222.190.124.20
+jxzy.njci.edu.cn.	3600	IN	A	222.190.124.20
+jy.njci.edu.cn.		3600	IN	A	222.190.124.20
+kycy.njci.edu.cn.	3600	IN	A	222.190.124.20
+lq.njci.edu.cn.		3600	IN	A	222.190.124.20
+lqgcx.njci.edu.cn.	3600	IN	A	222.190.124.20
+lqgcxy.njci.edu.cn.	3600	IN	A	222.190.124.20
+mail2.njci.edu.cn.	3600	IN	A	222.190.124.19
+metc.njci.edu.cn.	3600	IN	A	222.190.124.20
+my.njci.edu.cn.		3600	IN	A	222.190.124.20
+oa.njci.edu.cn.		3600	IN	A	222.190.124.20
+qiche.njci.edu.cn.	3600	IN	A	222.190.124.20
+rcpy.njci.edu.cn.	3600	IN	A	222.190.124.20
+renwen.njci.edu.cn.	3600	IN	A	222.190.124.20
+report.njci.edu.cn.	3600	IN	A	222.190.124.20
+rsc.njci.edu.cn.	3600	IN	A	222.190.124.20
+service.njci.edu.cn.	3600	IN	A	222.190.124.20
+sjcj2013.njci.edu.cn.	3600	IN	A	222.190.124.20
+szb.njci.edu.cn.	3600	IN	A	222.190.124.20
+teach.njci.edu.cn.	3600	IN	A	222.190.124.20
+tsg.njci.edu.cn.	3600	IN	A	222.190.124.20
+tw.njci.edu.cn.		3600	IN	A	222.190.124.20
+tyb.njci.edu.cn.	3600	IN	A	222.190.124.20
+welcome.njci.edu.cn.	3600	IN	A	222.190.124.20
+wj.njci.edu.cn.		3600	IN	A	222.190.124.20
+wss.njci.edu.cn.	3600	IN	A	222.190.124.20
+www.njci.edu.cn.	3600	IN	A	222.190.124.20
+www2.njci.edu.cn.	3600	IN	A	222.190.124.20
+www3.njci.edu.cn.	3600	IN	A	222.190.124.20
+www4.njci.edu.cn.	3600	IN	A	222.190.124.20
+wyb.njci.edu.cn.	3600	IN	A	222.190.124.20
+xg.njci.edu.cn.		3600	IN	A	222.190.124.20
+xgc.njci.edu.cn.	3600	IN	A	222.190.124.20
+xinxi.njci.edu.cn.	3600	IN	A	222.190.124.20
+xqhz.njci.edu.cn.	3600	IN	A	222.190.124.20
+yb.njci.edu.cn.		3600	IN	A	222.190.124.20
+yzb.njci.edu.cn.	3600	IN	A	222.190.124.20
+zbw.njci.edu.cn.	3600	IN	A	222.190.124.20
+zs.njci.edu.cn.		3600	IN	A	222.190.124.20
+njci.edu.cn.		3600	IN	SOA	njci.edu.cn. root.njci.edu.cn. 2014060601 604800 86400 2419200 604800
+;; Query time: 15 msec
+;; SERVER: 58.192.248.1#53(58.192.248.1)
+;; WHEN: Mon Feb 16 23:21:48 2015
+;; XFR size: 75 records (messages 1, bytes 1638)
+

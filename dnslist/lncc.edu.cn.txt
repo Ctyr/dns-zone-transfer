@@ -1,0 +1,37 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr lncc.edu.cn @ns2.lncc.edu.cn.
+;; global options: +cmd
+lncc.edu.cn.		86400	IN	SOA	ns.lncc.edu.cn. cw.lncc.edu.cn. 2014122801 10800 900 604800 86400
+lncc.edu.cn.		86400	IN	MX	10 mail.lncc.edu.cn.
+lncc.edu.cn.		86400	IN	NS	ns.lncc.edu.cn.
+lncc.edu.cn.		86400	IN	NS	ns2.lncc.edu.cn.
+book.lncc.edu.cn.	86400	IN	A	202.199.184.161
+branch.lncc.edu.cn.	86400	IN	A	202.199.184.11
+dnscache1.lncc.edu.cn.	86400	IN	A	202.199.184.3
+dnscache2.lncc.edu.cn.	86400	IN	A	202.199.184.4
+dq.lncc.edu.cn.		86400	IN	A	202.199.184.19
+ebook.lncc.edu.cn.	86400	IN	A	202.199.184.153
+jpk.lncc.edu.cn.	86400	IN	A	202.199.184.10
+jtbz.lncc.edu.cn.	86400	IN	A	202.199.184.130
+jxjy.lncc.edu.cn.	86400	IN	A	202.199.184.18
+jy.lncc.edu.cn.		86400	IN	A	202.199.184.16
+lnjzpxzx.lncc.edu.cn.	86400	IN	A	202.199.184.17
+mail.lncc.edu.cn.	86400	IN	A	202.199.184.6
+ns.lncc.edu.cn.		86400	IN	A	202.199.184.1
+ns2.lncc.edu.cn.	86400	IN	A	202.199.184.2
+oa.lncc.edu.cn.		86400	IN	A	202.199.184.9
+pop3.lncc.edu.cn.	86400	IN	CNAME	mail.lncc.edu.cn.
+smtp.lncc.edu.cn.	86400	IN	CNAME	mail.lncc.edu.cn.
+tgwgzfh.lncc.edu.cn.	86400	IN	A	202.199.184.131
+tsg.lncc.edu.cn.	86400	IN	A	202.199.184.129
+video.lncc.edu.cn.	86400	IN	A	202.199.184.20
+vpn.lncc.edu.cn.	86400	IN	A	59.46.66.56
+www.lncc.edu.cn.	86400	IN	A	202.199.184.12
+xq60.lncc.edu.cn.	86400	IN	A	202.199.184.13
+zsjy.lncc.edu.cn.	86400	IN	A	202.199.184.15
+lncc.edu.cn.		86400	IN	SOA	ns.lncc.edu.cn. cw.lncc.edu.cn. 2014122801 10800 900 604800 86400
+;; Query time: 45 msec
+;; SERVER: 202.199.184.2#53(202.199.184.2)
+;; WHEN: Mon Feb 16 23:21:45 2015
+;; XFR size: 29 records (messages 1, bytes 656)
+

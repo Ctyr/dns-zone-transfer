@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr sxjztc.edu.cn @dns2.sxjztc.edu.cn.
+;; global options: +cmd
+sxjztc.edu.cn.		3600	IN	SOA	dns2.sxjztc.edu.cn. root.sxjztc.edu.cn. 2014121102 30 30 360 3600
+sxjztc.edu.cn.		3600	IN	MX	5 mxbiz1.qq.com.
+sxjztc.edu.cn.		3600	IN	MX	10 mxbiz2.qq.com.
+sxjztc.edu.cn.		3600	IN	TXT	"v=spf1 include:spf.mail.qq.com ~all"
+sxjztc.edu.cn.		3600	IN	NS	dns2.sxjztc.edu.cn.
+dns2.sxjztc.edu.cn.	3600	IN	A	211.82.56.67
+mail.sxjztc.edu.cn.	3600	IN	CNAME	exmail.qq.com.
+www.sxjztc.edu.cn.	3600	IN	A	211.82.56.66
+sxjztc.edu.cn.		3600	IN	SOA	dns2.sxjztc.edu.cn. root.sxjztc.edu.cn. 2014121102 30 30 360 3600
+;; Query time: 41 msec
+;; SERVER: 211.82.56.67#53(211.82.56.67)
+;; WHEN: Mon Feb 16 23:21:43 2015
+;; XFR size: 9 records (messages 1, bytes 289)
+

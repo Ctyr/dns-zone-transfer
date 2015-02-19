@@ -1,0 +1,86 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hbtcm.edu.cn @dns.hbtcm.edu.cn.
+;; global options: +cmd
+hbtcm.edu.cn.		172800	IN	SOA	dns. root.dns. 20110117 21600 10800 604800 172800
+hbtcm.edu.cn.		172800	IN	NS	dns.hbtcm.edu.cn.
+hbtcm.edu.cn.		172800	IN	MX	10 mail2.hbtcm.edu.cn.
+smtp.hbtcm.edu.cn.	172800	IN	CNAME	mail2.hbtcm.edu.cn.
+wyx.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+www1.hbtcm.edu.cn.	172800	IN	A	218.197.176.10
+noc.hbtcm.edu.cn.	172800	IN	A	218.197.189.10
+zyyfzzx.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+yjs.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+gly.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+yxy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+jcy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+npe.hbtcm.edu.cn.	172800	IN	A	218.197.176.51
+xgc.hbtcm.edu.cn.	172800	IN	A	218.197.176.6
+tyb.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+yjsxt.hbtcm.edu.cn.	172800	IN	A	218.197.176.25
+jpkc.hbtcm.edu.cn.	172800	IN	A	218.197.176.51
+zycc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+mail.hbtcm.edu.cn.	172800	IN	CNAME	mail2.hbtcm.edu.cn.
+lcy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+hqbz.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+pop.hbtcm.edu.cn.	172800	IN	CNAME	mail2.hbtcm.edu.cn.
+zydc.hbtcm.edu.cn.	172800	IN	A	218.197.176.100
+pop3.hbtcm.edu.cn.	172800	IN	CNAME	mail2.hbtcm.edu.cn.
+syzx.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+jwc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+amihucm.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+cwc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+old.hbtcm.edu.cn.	172800	IN	A	218.197.176.18
+xkb.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+wsc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+jjc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+ltx.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+dns.hbtcm.edu.cn.	172800	IN	A	218.197.176.8
+zgx.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+bbs.hbtcm.edu.cn.	172800	IN	A	218.197.176.230
+zgy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+zyff.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+dw.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+sjc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+kxjsc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+post.hbtcm.edu.cn.	172800	IN	CNAME	mail2.hbtcm.edu.cn.
+xxy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+vod.hbtcm.edu.cn.	172800	IN	A	218.197.176.60
+gh.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+rsc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+qks.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+xb.qks.hbtcm.edu.cn.	172800	IN	A	218.197.176.62
+zz.qks.hbtcm.edu.cn.	172800	IN	A	218.197.176.62
+zzb.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+xyy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+nic.hbtcm.edu.cn.	172800	IN	A	218.197.176.10
+jjy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+hly.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+tw.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+50.hbtcm.edu.cn.	172800	IN	A	218.197.176.18
+jyy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+wfy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+vpn.hbtcm.edu.cn.	172800	IN	A	218.197.176.61
+res.hbtcm.edu.cn.	172800	IN	A	218.197.176.51
+tsg.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+sxzx.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+hqjt.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+bwc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+yb.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+xcb.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+zylc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+gjs.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+www.hbtcm.edu.cn.	172800	IN	A	218.197.176.10
+mail2.hbtcm.edu.cn.	172800	IN	A	218.197.176.14
+gyt.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+jw.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+sbc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+ftp.hbtcm.edu.cn.	172800	IN	CNAME	www.hbtcm.edu.cn.
+yygc.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+lcxy.hbtcm.edu.cn.	172800	IN	A	218.197.176.17
+mh.hbtcm.edu.cn.	172800	IN	A	218.197.176.28
+hbtcm.edu.cn.		172800	IN	SOA	dns. root.dns. 20110117 21600 10800 604800 172800
+;; Query time: 50 msec
+;; SERVER: 218.197.176.8#53(218.197.176.8)
+;; WHEN: Mon Feb 16 23:21:58 2015
+;; XFR size: 78 records (messages 78, bytes 3537)
+

@@ -1,0 +1,108 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr wtc.edu.cn @dns.wtc.edu.cn.
+;; global options: +cmd
+wtc.edu.cn.		86400	IN	SOA	wtc.edu.cn. root.wtc.edu.cn. 20081209 8640 8640 36000 1800
+wtc.edu.cn.		86400	IN	NS	dns.wtc.edu.cn.
+wtc.edu.cn.		86400	IN	MX	10 mail.wtc.edu.cn.
+bm.wtc.edu.cn.		86400	IN	A	58.49.110.244
+bm.wtc.edu.cn.		86400	IN	A	211.67.66.202
+ca.wtc.edu.cn.		86400	IN	A	10.10.13.102
+cj.wtc.edu.cn.		86400	IN	A	61.183.207.195
+cwc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+cxzy.wtc.edu.cn.	86400	IN	A	61.183.207.203
+daode.wtc.edu.cn.	86400	IN	A	61.183.207.203
+djzc.wtc.edu.cn.	86400	IN	A	61.183.207.203
+dns.wtc.edu.cn.		86400	IN	A	125.220.160.8
+dp7.wtc.edu.cn.		86400	IN	A	10.10.13.50
+drcx.wtc.edu.cn.	86400	IN	A	10.10.20.1
+drweb.wtc.edu.cn.	86400	IN	A	172.16.1.2
+dx.wtc.edu.cn.		86400	IN	A	61.183.207.203
+fy.wtc.edu.cn.		86400	IN	A	119.97.244.28
+fzc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+gzcx.wtc.edu.cn.	86400	IN	A	10.10.10.84
+hxjzg.wtc.edu.cn.	86400	IN	A	61.183.207.203
+int.wtc.edu.cn.		86400	IN	A	119.97.244.28
+it.wtc.edu.cn.		86400	IN	A	119.97.244.28
+jd.wtc.edu.cn.		86400	IN	A	61.183.207.202
+jdjy.wtc.edu.cn.	86400	IN	A	61.183.207.203
+jpkc.wtc.edu.cn.	86400	IN	A	61.183.207.201
+jsc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+jwc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+jwc1.wtc.edu.cn.	86400	IN	A	119.97.244.22
+jwc1.wtc.edu.cn.	86400	IN	A	119.97.244.27
+jwc2.wtc.edu.cn.	86400	IN	A	119.97.244.25
+jwc3.wtc.edu.cn.	86400	IN	A	61.183.207.203
+jwc4.wtc.edu.cn.	86400	IN	A	61.183.207.203
+jxcg.wtc.edu.cn.	86400	IN	A	61.183.207.203
+jxjy.wtc.edu.cn.	86400	IN	A	119.97.244.28
+jz.wtc.edu.cn.		86400	IN	A	61.183.207.203
+ky.wtc.edu.cn.		86400	IN	A	125.220.161.11
+kyc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+ltb.wtc.edu.cn.		86400	IN	A	61.183.207.203
+lx.wtc.edu.cn.		86400	IN	A	119.97.244.30
+ly.wtc.edu.cn.		86400	IN	A	119.97.244.28
+lyyjy.wtc.edu.cn.	86400	IN	A	119.97.244.28
+ncre.wtc.edu.cn.	86400	IN	A	221.234.43.133
+net.wtc.edu.cn.		86400	IN	A	61.183.207.200
+oa.wtc.edu.cn.		86400	IN	A	119.97.244.30
+portal.wtc.edu.cn.	86400	IN	A	10.10.13.103
+qg.wtc.edu.cn.		86400	IN	A	61.183.207.195
+qzlx.wtc.edu.cn.	86400	IN	A	61.183.207.203
+rs.wtc.edu.cn.		86400	IN	A	119.97.244.30
+rsc.wtc.edu.cn.		86400	IN	A	61.183.207.195
+rw.wtc.edu.cn.		86400	IN	A	61.183.207.203
+sfcg.wtc.edu.cn.	86400	IN	A	61.183.207.203
+sfx.wtc.edu.cn.		86400	IN	A	61.183.207.201
+sjc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+sw.wtc.edu.cn.		86400	IN	A	119.97.244.28
+sy.wtc.edu.cn.		86400	IN	A	119.97.244.28
+sz.wtc.edu.cn.		86400	IN	A	61.183.207.203
+szedu.wtc.edu.cn.	86400	IN	A	61.183.207.203
+szhdl.wtc.edu.cn.	86400	IN	A	61.183.207.203
+tron.wtc.edu.cn.	86400	IN	A	61.183.207.203
+tsg.wtc.edu.cn.		86400	IN	A	61.183.207.198
+tw.wtc.edu.cn.		86400	IN	A	119.97.244.24
+txxmk.wtc.edu.cn.	86400	IN	A	61.183.207.203
+txzyk.wtc.edu.cn.	86400	IN	A	61.183.207.203
+tyb.wtc.edu.cn.		86400	IN	A	119.97.244.24
+video.wtc.edu.cn.	86400	IN	A	10.10.10.12
+vpn.wtc.edu.cn.		86400	IN	A	61.183.226.130
+vpn.wtc.edu.cn.		86400	IN	A	61.183.226.134
+vpndl.wtc.edu.cn.	86400	IN	A	61.183.207.203
+vpnsource.wtc.edu.cn.	86400	IN	A	61.183.207.203
+web.wtc.edu.cn.		86400	IN	A	10.10.13.50
+wmjs.wtc.edu.cn.	86400	IN	A	61.183.207.203
+www.wtc.edu.cn.		86400	IN	A	61.183.207.200
+wy.wtc.edu.cn.		86400	IN	A	119.97.244.28
+xb.wtc.edu.cn.		86400	IN	A	119.97.244.23
+xbw.wtc.edu.cn.		86400	IN	A	61.183.207.195
+xcb.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xcc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xdb.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xg.wtc.edu.cn.		86400	IN	A	119.97.244.30
+xgb.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xgh.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xhq.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xky.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xq.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xqc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xxb.wtc.edu.cn.		86400	IN	A	61.183.207.200
+xxgk.wtc.edu.cn.	86400	IN	A	61.183.207.203
+xyy.wtc.edu.cn.		86400	IN	A	61.183.207.203
+xzc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+ycjd.wtc.edu.cn.	86400	IN	A	61.183.207.203
+yctx.wtc.edu.cn.	86400	IN	A	61.183.207.203
+ys.wtc.edu.cn.		86400	IN	A	61.183.207.195
+zgc.wtc.edu.cn.		86400	IN	A	61.183.207.203
+zgc1.wtc.edu.cn.	86400	IN	A	10.10.13.85
+zjc.wtc.edu.cn.		86400	IN	A	61.183.207.205
+zjy.wtc.edu.cn.		86400	IN	A	119.97.244.28
+zyk.wtc.edu.cn.		86400	IN	A	61.183.207.199
+zyktest.wtc.edu.cn.	86400	IN	A	10.10.10.179
+zzbm.wtc.edu.cn.	86400	IN	A	61.183.207.203
+wtc.edu.cn.		86400	IN	SOA	wtc.edu.cn. root.wtc.edu.cn. 20081209 8640 8640 36000 1800
+;; Query time: 26 msec
+;; SERVER: 125.220.160.8#53(125.220.160.8)
+;; WHEN: Mon Feb 16 23:21:58 2015
+;; XFR size: 100 records (messages 1, bytes 2079)
+

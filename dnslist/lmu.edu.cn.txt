@@ -1,0 +1,104 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr lmu.edu.cn @dns2.lmu.edu.cn.
+;; global options: +cmd
+lmu.edu.cn.		3600	IN	SOA	dns1.lmu.edu.cn,dns2.lmu.edu.cn. linsq. 201 900 600 86400 3600
+lmu.edu.cn.		3600	IN	A	59.61.16.12
+lmu.edu.cn.		3600	IN	NS	dns1.lmu.edu.cn.
+lmu.edu.cn.		3600	IN	NS	dns2.lmu.edu.cn.
+lmu.edu.cn.		3600	IN	MX	10 mail.lmu.edu.cn.
+lmu.edu.cn.		3600	IN	TXT	"v=spf1 mx -all"
+aixin.lmu.edu.cn.	3600	IN	A	59.61.216.12
+bbs.lmu.edu.cn.		3600	IN	A	59.61.216.12
+bkxd.lmu.edu.cn.	3600	IN	A	59.61.216.12
+bwc.lmu.edu.cn.		3600	IN	A	59.61.216.12
+caiwu.lmu.edu.cn.	3600	IN	A	59.61.216.12
+cjb.lmu.edu.cn.		3600	IN	A	219.220.118.10
+cjzx.lmu.edu.cn.	3600	IN	A	219.220.112.101
+course.lmu.edu.cn.	3600	IN	A	59.61.216.12
+dns1.lmu.edu.cn.	3600	IN	A	219.220.112.70
+dns2.lmu.edu.cn.	3600	IN	A	219.220.112.71
+down.lmu.edu.cn.	3600	IN	A	219.220.112.130
+dwb.lmu.edu.cn.		3600	IN	A	59.61.216.12
+dy.lmu.edu.cn.		3600	IN	A	59.61.216.12
+dzb.lmu.edu.cn.		3600	IN	A	59.61.216.12
+dzgcx.lmu.edu.cn.	3600	IN	A	59.61.216.12
+e.lmu.edu.cn.		3600	IN	A	61.131.48.40
+ftp.lmu.edu.cn.		3600	IN	A	219.220.112.73
+gbt.lmu.edu.cn.		3600	IN	A	59.61.216.12
+ggjxb.lmu.edu.cn.	3600	IN	A	59.61.216.12
+gh.lmu.edu.cn.		3600	IN	A	59.61.216.12
+gsgl.lmu.edu.cn.	3600	IN	NS	gsgldns.lmu.edu.cn.
+gsgldns.lmu.edu.cn.	3600	IN	A	219.220.112.69
+gsx.lmu.edu.cn.		3600	IN	A	59.61.216.12
+h1n1.lmu.edu.cn.	3600	IN	A	59.61.216.12
+hhh.lmu.edu.cn.		3600	IN	A	59.61.216.12
+hotsky.lmu.edu.cn.	3600	IN	A	219.220.112.123
+hq.lmu.edu.cn.		3600	IN	A	59.61.216.12
+hqc.lmu.edu.cn.		3600	IN	A	59.61.216.12
+hqglc.lmu.edu.cn.	3600	IN	A	59.61.216.12
+ipgw.lmu.edu.cn.	3600	IN	A	219.220.112.93
+jdgcx.lmu.edu.cn.	3600	IN	A	59.61.216.12
+jdgcxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+jdxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+jjglxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+jjs.lmu.edu.cn.		3600	IN	A	59.61.216.12
+jmx.lmu.edu.cn.		3600	IN	A	59.61.216.12
+jn.lmu.edu.cn.		3600	IN	A	59.61.216.12
+jp.lmu.edu.cn.		3600	IN	A	219.220.112.68
+jsjx.lmu.edu.cn.	3600	IN	A	59.61.216.12
+junxun.lmu.edu.cn.	3600	IN	A	59.61.216.12
+jwc.lmu.edu.cn.		3600	IN	A	59.61.216.12
+jyzd.lmu.edu.cn.	3600	IN	A	219.220.112.72
+kxfz.lmu.edu.cn.	3600	IN	A	59.61.216.12
+kyc.lmu.edu.cn.		3600	IN	A	219.220.118.10
+lib.lmu.edu.cn.		3600	IN	NS	libdns.lmu.edu.cn.
+libdns.lmu.edu.cn.	3600	IN	A	219.220.118.5
+lmpg.lmu.edu.cn.	3600	IN	A	59.61.216.12
+lpx.lmu.edu.cn.		3600	IN	A	59.61.216.12
+lpy.lmu.edu.cn.		3600	IN	A	59.61.216.12
+mail.lmu.edu.cn.	3600	IN	A	59.61.216.10
+movie.lmu.edu.cn.	3600	IN	A	219.220.112.73
+nic.lmu.edu.cn.		3600	IN	A	59.61.216.12
+oa.lmu.edu.cn.		3600	IN	A	59.61.216.12
+pjzc.lmu.edu.cn.	3600	IN	A	59.61.216.12
+qfgcx.lmu.edu.cn.	3600	IN	A	59.61.216.12
+qfgcxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+rsc.lmu.edu.cn.		3600	IN	A	59.61.216.12
+rwx.lmu.edu.cn.		3600	IN	A	59.61.216.12
+shifan.lmu.edu.cn.	3600	IN	A	59.61.216.12
+soft.lmu.edu.cn.	3600	IN	A	219.220.112.123
+sqzx.lmu.edu.cn.	3600	IN	A	59.61.216.12
+sxb.lmu.edu.cn.		3600	IN	A	219.220.112.69
+sysxb.lmu.edu.cn.	3600	IN	A	59.61.216.12
+szjxb.lmu.edu.cn.	3600	IN	A	59.61.216.12
+time.lmu.edu.cn.	3600	IN	A	192.168.10.2
+tjx.lmu.edu.cn.		3600	IN	A	59.61.216.12
+tmgcxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+tw.lmu.edu.cn.		3600	IN	A	59.61.216.12
+vpn.lmu.edu.cn.		3600	IN	A	59.61.216.7
+wsus.lmu.edu.cn.	3600	IN	A	219.220.112.120
+www.lmu.edu.cn.		3600	IN	A	59.61.216.12
+wycbxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+wywmxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+wyx.lmu.edu.cn.		3600	IN	A	59.61.216.12
+xb.lmu.edu.cn.		3600	IN	A	59.61.216.12
+xbbjb.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xcc.lmu.edu.cn.		3600	IN	A	59.61.216.12
+xinli.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xq30.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xsc.lmu.edu.cn.		3600	IN	A	59.61.216.12
+xtw.lmu.edu.cn.		3600	IN	A	59.61.216.12
+xtw2.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xwgk.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xxgk.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xxxy.lmu.edu.cn.	3600	IN	A	59.61.216.12
+xyl.lmu.edu.cn.		3600	IN	A	61.131.48.62
+xyzh.lmu.edu.cn.	3600	IN	A	59.61.216.12
+zqjy.lmu.edu.cn.	3600	IN	A	219.220.112.75
+zsb.lmu.edu.cn.		3600	IN	A	59.61.216.12
+lmu.edu.cn.		3600	IN	SOA	dns1.lmu.edu.cn,dns2.lmu.edu.cn. linsq. 201 900 600 86400 3600
+;; Query time: 62 msec
+;; SERVER: 219.220.112.71#53(219.220.112.71)
+;; WHEN: Mon Feb 16 23:22:02 2015
+;; XFR size: 96 records (messages 96, bytes 4782)
+

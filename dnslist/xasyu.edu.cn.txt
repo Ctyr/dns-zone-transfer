@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr xasyu.edu.cn @dns1.xasyu.edu.cn.
+;; global options: +cmd
+xasyu.edu.cn.		86400	IN	SOA	dns1.xasyu.edu.cn. master.dns1.xasyu.edu.cn. 2010120400 10800 3600 360000 86400
+xasyu.edu.cn.		86400	IN	NS	dns1.xasyu.edu.cn.
+xasyu.edu.cn.		86400	IN	NS	dns2.xasyu.edu.cn.
+dns1.xasyu.edu.cn.	86400	IN	A	59.75.72.20
+dns2.xasyu.edu.cn.	86400	IN	A	59.75.72.21
+jpkc.xasyu.edu.cn.	86400	IN	A	59.75.72.23
+www.xasyu.edu.cn.	86400	IN	A	219.144.162.162
+xnjp.xasyu.edu.cn.	86400	IN	A	59.75.72.22
+xasyu.edu.cn.		86400	IN	SOA	dns1.xasyu.edu.cn. master.dns1.xasyu.edu.cn. 2010120400 10800 3600 360000 86400
+;; Query time: 49 msec
+;; SERVER: 59.75.72.20#53(59.75.72.20)
+;; WHEN: Mon Feb 16 23:22:11 2015
+;; XFR size: 9 records (messages 1, bytes 241)
+

@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr smc.edu.cn @smc.edu.cn.
+;; global options: +cmd
+smc.edu.cn.		604800	IN	SOA	smc.edu.cn. root.smc.edu.cn. 2 604800 86400 2419200 604800
+smc.edu.cn.		604800	IN	MX	0 mail.smc.edu.cn.smc.edu.cn.
+smc.edu.cn.		604800	IN	NS	smc.edu.cn.
+smc.edu.cn.		604800	IN	A	218.193.98.96
+dns2.smc.edu.cn.	604800	IN	A	218.193.98.96
+jjs.smc.edu.cn.		604800	IN	A	218.193.98.11
+mail.smc.edu.cn.	604800	IN	A	218.5.241.25
+www.smc.edu.cn.		604800	IN	A	218.193.98.96
+smc.edu.cn.		604800	IN	SOA	smc.edu.cn. root.smc.edu.cn. 2 604800 86400 2419200 604800
+;; Query time: 110 msec
+;; SERVER: 218.193.98.96#53(218.193.98.96)
+;; WHEN: Mon Feb 16 23:21:57 2015
+;; XFR size: 9 records (messages 1, bytes 249)
+

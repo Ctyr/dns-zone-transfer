@@ -1,0 +1,30 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr bbmc.edu.cn @ns.bbmc.edu.cn.
+;; global options: +cmd
+bbmc.edu.cn.		86400	IN	SOA	ns.bbmc.edu.cn. root.bbmc.edu.cn. 20140520 86400 3600 604800 10800
+bbmc.edu.cn.		86400	IN	NS	ns.bbmc.edu.cn.
+bbmc.edu.cn.		86400	IN	MX	10 mail.bbmc.edu.cn.
+*.bbmc.edu.cn.		86400	IN	A	211.70.128.7
+ftp1.bbmc.edu.cn.	86400	IN	A	211.70.128.20
+ftp2.bbmc.edu.cn.	86400	IN	A	211.70.128.21
+lib.bbmc.edu.cn.	86400	IN	A	211.70.128.13
+mail.bbmc.edu.cn.	86400	IN	A	211.70.128.18
+mastermis.bbmc.edu.cn.	86400	IN	A	211.70.128.47
+nic.bbmc.edu.cn.	86400	IN	A	10.20.20.10
+nic.bbmc.edu.cn.	86400	IN	NS	ns.nic.bbmc.edu.cn.
+ns.nic.bbmc.edu.cn.	86400	IN	A	10.20.20.10
+ns.bbmc.edu.cn.		86400	IN	A	211.70.128.1
+ntp.bbmc.edu.cn.	86400	IN	CNAME	ns.bbmc.edu.cn.
+vod.bbmc.edu.cn.	86400	IN	A	211.70.128.33
+www.bbmc.edu.cn.	86400	IN	A	211.70.128.15
+www1.bbmc.edu.cn.	86400	IN	CNAME	www.bbmc.edu.cn.
+www2.bbmc.edu.cn.	86400	IN	A	211.70.128.7
+www3.bbmc.edu.cn.	86400	IN	A	211.70.128.166
+xsc.bbmc.edu.cn.	86400	IN	A	211.70.132.17
+xuebao.bbmc.edu.cn.	86400	IN	A	61.235.37.203
+bbmc.edu.cn.		86400	IN	SOA	ns.bbmc.edu.cn. root.bbmc.edu.cn. 20140520 86400 3600 604800 10800
+;; Query time: 22 msec
+;; SERVER: 211.70.128.1#53(211.70.128.1)
+;; WHEN: Mon Feb 16 23:21:50 2015
+;; XFR size: 22 records (messages 1, bytes 497)
+

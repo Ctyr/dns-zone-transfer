@@ -1,0 +1,112 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr scfai.edu.cn @server-lh3.scfai.edu.cn.
+;; global options: +cmd
+scfai.edu.cn.		86400	IN	SOA	server-lh3.scfai.edu.cn. root.server-lh3.scfai.edu.cn. 2011110401 28800 14400 3600000 86400
+scfai.edu.cn.		86400	IN	NS	server-lh3.scfai.edu.cn.
+scfai.edu.cn.		86400	IN	MX	9 scfai-new-email.scfai.edu.cn.
+scfai.edu.cn.		86400	IN	MX	10 x-mail.scfai.edu.cn.
+admin.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+arts.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+bak.scfai.edu.cn.	86400	IN	CNAME	scfai-bak.scfai.edu.cn.
+bhsyzx.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+bhx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+blog.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+bwc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+cad.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+card.scfai.edu.cn.	86400	IN	CNAME	syn-web.scfai.edu.cn.
+cca.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+cmhq.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+cmzk.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+cpstsj.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+cva.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+cwc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+czky.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+dangwei.scfai.edu.cn.	86400	IN	CNAME	scfai-net-128-56.scfai.edu.cn.
+data.scfai.edu.cn.	86400	IN	CNAME	scfai-data.scfai.edu.cn.
+dc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+dept.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+dns1.scfai.edu.cn.	86400	IN	CNAME	server-lh3.scfai.edu.cn.
+dns2.scfai.edu.cn.	86400	IN	CNAME	server-lc3.scfai.edu.cn.
+dsx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+dwjl.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+dz.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+folkart.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+fz.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+gallery.scfai.edu.cn.	86400	IN	CNAME	scfai-gallery.scfai.edu.cn.
+ggk.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+gh.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+ghx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+ginkgoawards.scfai.edu.cn. 86400 IN	CNAME	scfai-web-sub.scfai.edu.cn.
+greendesign.scfai.edu.cn. 86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+hl.scfai.edu.cn.	86400	IN	CNAME	scfai-gallery.scfai.edu.cn.
+ipb.scfai.edu.cn.	86400	IN	CNAME	new-ipb.scfai.edu.cn.
+jwc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+jwjc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+jxjy.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+jzx.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+kaoqin.scfai.edu.cn.	86400	IN	A	172.16.128.151
+kq.scfai.edu.cn.	86400	IN	CNAME	kaoqin.scfai.edu.cn.
+laji.scfai.edu.cn.	86400	IN	CNAME	scfai-mail-laji.scfai.edu.cn.
+ltc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+lzl.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+mail.scfai.edu.cn.	86400	IN	CNAME	scfai-new-email.scfai.edu.cn.
+mail-old.scfai.edu.cn.	86400	IN	CNAME	x-mail.scfai.edu.cn.
+mjx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+sizheng.mjx.scfai.edu.cn. 86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+msg.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+msx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+net.scfai.edu.cn.	86400	IN	CNAME	scfai-net-128-56.scfai.edu.cn.
+new-ipb.scfai.edu.cn.	86400	IN	A	172.18.0.19
+nma.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+pxzx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+residence.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+rs.scfai.edu.cn.	86400	IN	CNAME	scfai-net.scfai.edu.cn.
+rsc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+scfai-asp.scfai.edu.cn.	86400	IN	A	210.41.56.24
+scfai-bak.scfai.edu.cn.	86400	IN	A	172.18.0.50
+scfai-data.scfai.edu.cn. 86400	IN	A	172.16.128.38
+scfai-gallery.scfai.edu.cn. 86400 IN	A	210.41.56.10
+scfai-mail-laji.scfai.edu.cn. 86400 IN	A	210.41.56.7
+scfai-net.scfai.edu.cn.	86400	IN	A	172.16.128.11
+scfai-net-128-56.scfai.edu.cn. 86400 IN	A	172.16.128.56
+scfai-new-email.scfai.edu.cn. 86400 IN	A	210.41.56.8
+scfai-rav.scfai.edu.cn.	86400	IN	A	172.18.0.130
+scfai-tuteng.scfai.edu.cn. 86400 IN	A	172.16.12.92
+scfai-vod.scfai.edu.cn.	86400	IN	A	172.16.128.31
+scfai-web.scfai.edu.cn.	86400	IN	A	210.41.56.5
+scfai-web-sub.scfai.edu.cn. 86400 IN	A	210.41.56.25
+scfai-xcb.scfai.edu.cn.	86400	IN	A	210.41.56.26
+scmy-qy-lj.scfai.edu.cn. 86400	IN	A	172.16.128.55
+server-lc3.scfai.edu.cn. 86400	IN	A	210.41.56.2
+server-lh3.scfai.edu.cn. 86400	IN	A	210.41.56.1
+sheke.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+sjc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+sjx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+syn-web.scfai.edu.cn.	86400	IN	A	172.16.126.251
+syzx.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+tres.scfai.edu.cn.	86400	IN	CNAME	scmy-qy-lj.scfai.edu.cn.
+tsg.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+tuteng.scfai.edu.cn.	86400	IN	CNAME	scfai-tuteng.scfai.edu.cn.
+tzb.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+virus.scfai.edu.cn.	86400	IN	CNAME	scfai-rav.scfai.edu.cn.
+vod.scfai.edu.cn.	86400	IN	CNAME	scfai-vod.scfai.edu.cn.
+www.scfai.edu.cn.	86400	IN	CNAME	scfai-web.scfai.edu.cn.
+x-mail.scfai.edu.cn.	86400	IN	A	210.41.56.6
+xcb.scfai.edu.cn.	86400	IN	CNAME	scfai-xcb.scfai.edu.cn.
+xcc.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+xnmzgy.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+xsc.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+xwyyjs.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+ygb.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+yhx.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+ysx.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+ytw.scfai.edu.cn.	86400	IN	CNAME	scfai-asp.scfai.edu.cn.
+zhb.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+zsb.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+zzb.scfai.edu.cn.	86400	IN	CNAME	scfai-web-sub.scfai.edu.cn.
+scfai.edu.cn.		86400	IN	SOA	server-lh3.scfai.edu.cn. root.server-lh3.scfai.edu.cn. 2011110401 28800 14400 3600000 86400
+;; Query time: 41 msec
+;; SERVER: 210.41.56.1#53(210.41.56.1)
+;; WHEN: Mon Feb 16 23:22:05 2015
+;; XFR size: 104 records (messages 1, bytes 2203)
+

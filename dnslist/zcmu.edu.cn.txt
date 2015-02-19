@@ -1,0 +1,112 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr zcmu.edu.cn @zcmu.zcmu.edu.cn.
+;; global options: +cmd
+zcmu.edu.cn.		10	IN	SOA	zcmu.zcmu.edu.cn. mail.zcmu.edu.cn. 1 10800 3600 604800 10
+zcmu.edu.cn.		10	IN	NS	zcmu.zcmu.edu.cn.
+zcmu.edu.cn.		256	IN	A	61.175.198.190
+zcmu.edu.cn.		256	IN	MX	10 61.175.198.190.
+jsks.zcmu.edu.cn.	10	IN	A	61.175.198.186
+rwsk.zcmu.edu.cn.	10	IN	A	183.129.215.62
+dnyy.zcmu.edu.cn.	10	IN	A	61.164.34.221
+news.zcmu.edu.cn.	10	IN	A	61.175.198.178
+sanzi.zcmu.edu.cn.	10	IN	A	183.129.215.60
+tipdoctor.zcmu.edu.cn.	10	IN	A	183.129.215.46
+binjiang.zcmu.edu.cn.	10	IN	A	218.75.108.196
+zsb.zcmu.edu.cn.	256	IN	A	61.175.198.185
+academic.zcmu.edu.cn.	10	IN	A	183.129.215.46
+lbs.zcmu.edu.cn.	10	IN	A	183.129.215.73
+xgb.zcmu.edu.cn.	10	IN	A	61.164.34.221
+ctjob.zcmu.edu.cn.	10	IN	A	218.75.108.196
+paoa.zcmu.edu.cn.	10	IN	A	61.164.34.221
+gbpr.zcmu.edu.cn.	10	IN	A	218.75.108.196
+yxjxlab.zcmu.edu.cn.	10	IN	A	183.129.215.42
+jcyxy.zcmu.edu.cn.	10	IN	A	124.160.72.52
+etedu.zcmu.edu.cn.	10	IN	A	183.129.215.46
+bb.zcmu.edu.cn.		256	IN	A	61.164.34.212
+cjxy.zcmu.edu.cn.	10	IN	A	183.129.215.62
+hlxysyjx.zcmu.edu.cn.	10	IN	A	183.129.215.52
+jpkc.zcmu.edu.cn.	10	IN	A	61.175.198.183
+mail.zcmu.edu.cn.	256	IN	A	61.175.198.190
+mail.zcmu.edu.cn.	256	IN	MX	10 61.175.198.190.
+pazyy.zcmu.edu.cn.	10	IN	A	61.164.34.221
+mzb.zcmu.edu.cn.	10	IN	A	218.75.108.196
+swytbm.zcmu.edu.cn.	256	IN	A	118.224.0.63
+swytbm.zcmu.edu.cn.	256	IN	A	118.224.0.63
+xsgy.zcmu.edu.cn.	10	IN	A	218.75.108.196
+wschu.zcmu.edu.cn.	10	IN	A	183.129.215.62
+fcrj.zcmu.edu.cn.	10	IN	A	115.236.29.230
+library.zcmu.edu.cn.	10	IN	A	218.75.108.205
+napp.zcmu.edu.cn.	10	IN	A	183.129.215.54
+weike.zcmu.edu.cn.	10	IN	A	183.129.215.46
+audiology-lab.zcmu.edu.cn. 10	IN	A	218.75.108.196
+bsdt.zcmu.edu.cn.	10	IN	A	115.236.29.233
+xxks.zcmu.edu.cn.	10	IN	A	61.175.198.186
+topdoctor.zcmu.edu.cn.	10	IN	A	183.129.215.46
+sglab.zcmu.edu.cn.	10	IN	A	61.164.34.221
+opencourse.zcmu.edu.cn.	10	IN	A	183.129.215.46
+dmt.zcmu.edu.cn.	10	IN	A	183.129.215.46
+javatest.zcmu.edu.cn.	10	IN	A	210.32.16.109
+ct.zcmu.edu.cn.		10	IN	A	183.129.215.42
+wsc.zcmu.edu.cn.	10	IN	A	183.129.215.62
+sg.zcmu.edu.cn.		10	IN	A	61.164.34.221
+bb1.zcmu.edu.cn.	256	IN	A	61.164.34.212
+sk.zcmu.edu.cn.		10	IN	A	183.129.215.62
+lib.zcmu.edu.cn.	10	IN	A	183.129.215.68
+zhs.zcmu.edu.cn.	10	IN	A	61.175.198.185
+iec.zcmu.edu.cn.	10	IN	A	183.129.215.62
+swjszx.zcmu.edu.cn.	10	IN	A	218.75.108.196
+en-nhce.zcmu.edu.cn.	10	IN	A	183.129.215.43
+bb9.zcmu.edu.cn.	10	IN	A	115.236.29.227
+portal.zcmu.edu.cn.	10	IN	A	61.175.198.179
+dayi.zcmu.edu.cn.	10	IN	A	183.129.215.59
+zbgl.zcmu.edu.cn.	10	IN	A	183.129.215.37
+zzzs.zcmu.edu.cn.	10	IN	A	124.160.72.51
+yjxnlab.zcmu.edu.cn.	10	IN	A	183.129.215.63
+tcmsep.zcmu.edu.cn.	10	IN	A	115.236.29.226
+skb.zcmu.edu.cn.	10	IN	A	61.164.34.221
+daxt.zcmu.edu.cn.	10	IN	A	61.175.198.184
+xinli.zcmu.edu.cn.	10	IN	A	115.236.29.224
+gj.zcmu.edu.cn.		10	IN	A	210.32.19.48
+xgxt.zcmu.edu.cn.	10	IN	A	183.129.215.32
+zcmu.zcmu.edu.cn.	10	IN	A	218.75.108.206
+tw.zcmu.edu.cn.		10	IN	A	183.129.215.62
+alrc.zcmu.edu.cn.	10	IN	A	115.236.29.231
+psy.zcmu.edu.cn.	10	IN	A	61.164.34.221
+yjxb.zcmu.edu.cn.	10	IN	A	115.236.29.229
+zywh.zcmu.edu.cn.	10	IN	A	183.129.215.42
+english.zcmu.edu.cn.	10	IN	A	183.129.215.47
+gydshr.zcmu.edu.cn.	10	IN	A	183.129.215.61
+cyy.zcmu.edu.cn.	10	IN	A	61.164.34.221
+zyyszl.zcmu.edu.cn.	10	IN	A	218.75.108.196
+xinfang.zcmu.edu.cn.	10	IN	A	183.129.215.45
+vpn.zcmu.edu.cn.	256	IN	A	61.164.34.218
+jsfz.zcmu.edu.cn.	10	IN	A	61.164.34.221
+yxjs.zcmu.edu.cn.	10	IN	A	183.129.215.63
+swgcxysyjx.zcmu.edu.cn.	10	IN	A	183.129.215.52
+dslcyxy.zcmu.edu.cn.	10	IN	A	218.75.108.196
+job.zcmu.edu.cn.	256	IN	A	61.175.198.185
+zcbm.zcmu.edu.cn.	10	IN	A	218.75.108.196
+xuebao.zcmu.edu.cn.	10	IN	A	183.129.215.37
+bwc.zcmu.edu.cn.	10	IN	A	183.129.215.37
+hlxg.zcmu.edu.cn.	10	IN	A	218.75.108.196
+xcb.zcmu.edu.cn.	10	IN	A	61.175.198.178
+ismrtcm.zcmu.edu.cn.	10	IN	A	61.175.198.186
+jxjy.zcmu.edu.cn.	10	IN	A	218.75.108.201
+lxxt.zcmu.edu.cn.	10	IN	A	61.164.34.222
+www.zcmu.edu.cn.	256	IN	A	61.175.198.178
+zyxsy.zcmu.edu.cn.	10	IN	A	61.164.34.221
+dslcyxy-zdxk.zcmu.edu.cn. 10	IN	A	218.75.108.196
+acm.zcmu.edu.cn.	10	IN	A	183.129.215.44
+zyyacm.zcmu.edu.cn.	10	IN	A	183.129.215.51
+xxgk.zcmu.edu.cn.	10	IN	A	61.175.198.178
+tuanwei.zcmu.edu.cn.	10	IN	A	183.129.215.62
+zadlbj.zcmu.edu.cn.	10	IN	A	183.129.215.38
+hlxy.zcmu.edu.cn.	10	IN	A	218.75.108.196
+zjgxyzdsys.zcmu.edu.cn.	10	IN	A	218.75.108.196
+jsjx.zcmu.edu.cn.	10	IN	A	183.129.215.46
+zcmu.edu.cn.		10	IN	SOA	zcmu.zcmu.edu.cn. mail.zcmu.edu.cn. 1 10800 3600 604800 10
+;; Query time: 7 msec
+;; SERVER: 218.75.108.206#53(218.75.108.206)
+;; WHEN: Mon Feb 16 23:21:54 2015
+;; XFR size: 104 records (messages 104, bytes 4734)
+

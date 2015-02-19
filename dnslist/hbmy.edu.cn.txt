@@ -1,0 +1,45 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hbmy.edu.cn @dns.hbmy.edu.cn.
+;; global options: +cmd
+hbmy.edu.cn.		86400	IN	SOA	dns.hbmy.edu.cn. root.hbmy.edu.cn. 2008050122 28800 7200 604800 86400
+hbmy.edu.cn.		86400	IN	NS	dns.hbmy.edu.cn.
+hbmy.edu.cn.		86400	IN	NS	dns2.hbmy.edu.cn.
+hbmy.edu.cn.		86400	IN	A	61.136.204.34
+hbmy.edu.cn.		86400	IN	MX	1 mail.hbmy.edu.cn.
+bg.hbmy.edu.cn.		86400	IN	A	61.136.204.48
+cas.hbmy.edu.cn.	86400	IN	A	61.136.204.46
+cc.hbmy.edu.cn.		86400	IN	A	61.136.204.50
+cx.hbmy.edu.cn.		86400	IN	A	211.67.43.251
+dns.hbmy.edu.cn.	86400	IN	A	211.67.32.32
+dns2.hbmy.edu.cn.	86400	IN	A	211.67.32.33
+dzjsxh.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+hhxy.hbmy.edu.cn.	86400	IN	A	219.138.209.72
+ie.hbmy.edu.cn.		86400	IN	A	219.138.209.73
+job.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+jpkc.hbmy.edu.cn.	86400	IN	A	61.136.204.36
+jwc.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+lib.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+life.hbmy.edu.cn.	86400	IN	A	61.136.204.37
+lxy.hbmy.edu.cn.	86400	IN	A	219.138.209.77
+lxykc.hbmy.edu.cn.	86400	IN	A	219.138.209.77
+mail.hbmy.edu.cn.	86400	IN	A	61.136.204.40
+mcp.hbmy.edu.cn.	86400	IN	A	61.136.204.49
+oa.hbmy.edu.cn.		86400	IN	A	211.67.32.35
+opac.hbmy.edu.cn.	86400	IN	A	219.138.209.78
+public.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+vod.hbmy.edu.cn.	86400	IN	A	61.136.204.38
+vote.hbmy.edu.cn.	86400	IN	A	61.136.204.36
+w.hbmy.edu.cn.		86400	IN	A	61.136.204.45
+wf1.hbmy.edu.cn.	86400	IN	A	219.138.209.72
+www.hbmy.edu.cn.	86400	IN	A	61.136.204.34
+xsgzw.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+xxxy.hbmy.edu.cn.	86400	IN	A	219.138.209.75
+yxy.hbmy.edu.cn.	86400	IN	A	61.136.204.42
+zsjyw.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+zsxx.hbmy.edu.cn.	86400	IN	A	61.136.204.35
+hbmy.edu.cn.		86400	IN	SOA	dns.hbmy.edu.cn. root.hbmy.edu.cn. 2008050122 28800 7200 604800 86400
+;; Query time: 41 msec
+;; SERVER: 211.67.32.32#53(211.67.32.32)
+;; WHEN: Mon Feb 16 23:22:03 2015
+;; XFR size: 37 records (messages 1, bytes 800)
+

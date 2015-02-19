@@ -1,0 +1,115 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr jlict.edu.cn @dns1.jlict.edu.cn.
+;; global options: +cmd
+jlict.edu.cn.		360	IN	SOA	dns1.jlict.edu.cn. root.ximo.com.cn. 2015012002 30 30 360 360
+jlict.edu.cn.		360	IN	NS	dns1.jlict.edu.cn.
+jlict.edu.cn.		360	IN	MX	5 mxbiz2.qq.com.
+jlict.edu.cn.		360	IN	MX	10 mxbiz1.qq.com.
+*.jlict.edu.cn.		360	IN	A	222.168.151.42
+50zn.jlict.edu.cn.	360	IN	A	222.168.151.42
+5th.jlict.edu.cn.	360	IN	A	222.168.151.43
+bbs.jlict.edu.cn.	360	IN	A	210.47.10.70
+bwc.jlict.edu.cn.	360	IN	A	210.47.10.4
+ceshi.jlict.edu.cn.	360	IN	A	210.47.10.2
+cj.jlict.edu.cn.	360	IN	A	222.168.151.42
+clxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+clyjzx.jlict.edu.cn.	360	IN	A	222.168.151.43
+clzx.jlict.edu.cn.	360	IN	A	222.168.151.43
+cw.jlict.edu.cn.	360	IN	A	222.168.151.43
+cy.jlict.edu.cn.	360	IN	A	222.168.151.43
+daomi.jlict.edu.cn.	360	IN	A	210.47.10.70
+dgdz.jlict.edu.cn.	360	IN	A	222.168.151.43
+dh.jlict.edu.cn.	360	IN	A	222.168.151.43
+dns1.jlict.edu.cn.	360	IN	A	210.47.10.1
+dzswcs.jlict.edu.cn.	360	IN	A	222.168.151.42
+fzg.jlict.edu.cn.	360	IN	A	222.168.151.45
+game.jlict.edu.cn.	360	IN	A	222.168.151.42
+game2012.jlict.edu.cn.	360	IN	A	222.168.151.42
+gh.jlict.edu.cn.	360	IN	A	222.168.151.45
+gjyjs.jlict.edu.cn.	360	IN	A	222.168.151.43
+gzcx.jlict.edu.cn.	360	IN	A	192.168.50.121
+hgxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+hkxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+hqc.jlict.edu.cn.	360	IN	A	222.168.151.43
+hsxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+hydh.jlict.edu.cn.	360	IN	A	222.168.151.45
+hyxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+jcsj.jlict.edu.cn.	360	IN	A	222.168.151.43
+jdxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+jgxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+jiaowu.jlict.edu.cn.	360	IN	A	192.168.50.110
+jlgh.jlict.edu.cn.	360	IN	A	222.168.151.42
+jp.jlict.edu.cn.	360	IN	A	222.168.151.43
+jsjds.jlict.edu.cn.	360	IN	A	222.168.151.42
+jwc.jlict.edu.cn.	360	IN	A	222.168.151.43
+jwxt.jlict.edu.cn.	360	IN	A	210.47.10.66
+jxpt.jlict.edu.cn.	360	IN	A	210.47.10.111
+jy.jlict.edu.cn.	360	IN	A	210.47.10.70
+jyzx.jlict.edu.cn.	360	IN	A	222.168.151.43
+kjlw.jlict.edu.cn.	360	IN	A	210.47.10.84
+kongxiangdong.jlict.edu.cn. 360	IN	A	222.168.151.42
+kyc.jlict.edu.cn.	360	IN	A	222.168.151.43
+lqcx.jlict.edu.cn.	360	IN	A	222.168.151.43
+lxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+ly.jlict.edu.cn.	360	IN	A	222.168.151.42
+lz.jlict.edu.cn.	360	IN	A	210.47.10.2
+lzf.jlict.edu.cn.	360	IN	A	222.168.151.43
+lzf2012.jlict.edu.cn.	360	IN	A	210.47.10.3
+lzfbbs.jlict.edu.cn.	360	IN	A	210.47.10.2
+lzfly.jlict.edu.cn.	360	IN	A	222.168.151.43
+mail.jlict.edu.cn.	360	IN	A	222.168.151.43
+news.jlict.edu.cn.	360	IN	A	222.168.151.42
+phone.jlict.edu.cn.	360	IN	A	210.47.10.7
+photoxz.jlict.edu.cn.	360	IN	A	222.168.151.43
+pic.jlict.edu.cn.	360	IN	A	222.168.151.43
+pj.jlict.edu.cn.	360	IN	A	222.168.151.43
+prj.jlict.edu.cn.	360	IN	A	222.168.151.42
+qcxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+rsc.jlict.edu.cn.	360	IN	A	222.168.151.43
+rtx.jlict.edu.cn.	360	IN	A	210.47.10.22
+shijia.jlict.edu.cn.	360	IN	A	222.168.151.42
+sj.jlict.edu.cn.	360	IN	A	222.168.151.42
+sjtjs.jlict.edu.cn.	360	IN	A	222.168.106.162
+skb.jlict.edu.cn.	360	IN	A	222.168.151.43
+source.jlict.edu.cn.	360	IN	A	222.168.151.45
+swsp.jlict.edu.cn.	360	IN	A	222.168.151.43
+test.jlict.edu.cn.	360	IN	A	222.168.151.45
+th.jlict.edu.cn.	360	IN	A	222.168.151.42
+tsg.jlict.edu.cn.	360	IN	A	210.47.10.87
+tw.jlict.edu.cn.	360	IN	A	222.168.151.43
+tyb.jlict.edu.cn.	360	IN	A	222.168.151.43
+webbk.jlict.edu.cn.	360	IN	A	210.47.10.120
+weiquan.jlict.edu.cn.	360	IN	A	222.168.151.43
+wgyxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+ws.jlict.edu.cn.	360	IN	A	222.168.151.42
+wsc.jlict.edu.cn.	360	IN	A	222.168.151.43
+www.jlict.edu.cn.	360	IN	A	222.168.151.42
+wwwww.jlict.edu.cn.	360	IN	A	222.168.145.227
+wx.jlict.edu.cn.	360	IN	A	210.47.10.2
+xgb.jlict.edu.cn.	360	IN	A	222.168.151.43
+xkxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+xlxt.jlict.edu.cn.	360	IN	A	210.47.10.125
+xlzx.jlict.edu.cn.	360	IN	A	210.47.10.125
+xwlw.jlict.edu.cn.	360	IN	A	210.47.10.84
+xxx.jlict.edu.cn.	360	IN	A	222.168.151.44
+xxzx.jlict.edu.cn.	360	IN	A	222.168.151.43
+xy.jlict.edu.cn.	360	IN	A	222.168.151.45
+xyh.jlict.edu.cn.	360	IN	A	222.168.151.43
+yb.jlict.edu.cn.	360	IN	A	222.168.151.43
+yhcs.jlict.edu.cn.	360	IN	A	222.168.151.45
+yhxy.jlict.edu.cn.	360	IN	A	222.168.151.43
+yjnd.jlict.edu.cn.	360	IN	A	222.168.151.42
+yjs.jlict.edu.cn.	360	IN	A	222.168.151.42
+zdh.jlict.edu.cn.	360	IN	A	222.168.145.228
+zlzx.jlict.edu.cn.	360	IN	A	222.168.151.43
+zsw.jlict.edu.cn.	360	IN	A	222.168.151.42
+zswbbs.jlict.edu.cn.	360	IN	A	222.168.151.42
+zt.jlict.edu.cn.	360	IN	A	222.168.151.43
+zyw.jlict.edu.cn.	360	IN	A	222.168.151.43
+zzb.jlict.edu.cn.	360	IN	A	222.168.151.43
+jlict.edu.cn.		360	IN	SOA	dns1.jlict.edu.cn. root.ximo.com.cn. 2015012002 30 30 360 360
+;; Query time: 59 msec
+;; SERVER: 210.47.10.1#53(210.47.10.1)
+;; WHEN: Mon Feb 16 23:21:45 2015
+;; XFR size: 107 records (messages 1, bytes 2305)
+

@@ -1,0 +1,94 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr ahtcm.edu.cn @dns1.ahtcm.edu.cn.
+;; global options: +cmd
+ahtcm.edu.cn.		3600	IN	SOA	dns1.ahtcm.edu.cn. hostmaster. 75 900 600 86400 3600
+ahtcm.edu.cn.		3600	IN	NS	dns2.ahtcm.edu.cn.
+ahtcm.edu.cn.		3600	IN	NS	dns1.ahtcm.edu.cn.
+ahtcm.edu.cn.		3600	IN	MX	10 mail.ahtcm.edu.cn.
+2011cx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+85xy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+ahzyy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+bwc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+cgj.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+chxzhy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+dhcp.ahtcm.edu.cn.	3600	IN	CNAME	node3.ahtcm.edu.cn.
+dns1.ahtcm.edu.cn.	3600	IN	CNAME	node1.ahtcm.edu.cn.
+dns2.ahtcm.edu.cn.	3600	IN	CNAME	node3.ahtcm.edu.cn.
+dxscxcy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+dycddh.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+dzb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+ftp.ahtcm.edu.cn.	3600	IN	A	210.45.16.7
+ggjxzx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+gh.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+gjjy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+gjs.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+gyt.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+gzc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+hlxy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+hqjt.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+jsfzzx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+jw.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+jwc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+jxjy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+jxxxh.ahtcm.edu.cn.	3600	IN	A	210.45.16.28
+kjc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+kysy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+lcxy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+learningfield.ahtcm.edu.cn. 3600 IN	A	210.45.16.10
+ltx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+mail.ahtcm.edu.cn.	3600	IN	A	210.45.16.2
+mrtg.ahtcm.edu.cn.	3600	IN	A	210.45.16.52
+netlog.ahtcm.edu.cn.	3600	IN	A	210.45.16.30
+node1.ahtcm.edu.cn.	3600	IN	A	210.45.16.1
+node3.ahtcm.edu.cn.	3600	IN	A	210.45.16.3
+om.ahtcm.edu.cn.	3600	IN	A	210.45.16.41
+pop3.ahtcm.edu.cn.	3600	IN	CNAME	mail.ahtcm.edu.cn.
+qzlx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+rsc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+rwxy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+school.ahtcm.edu.cn.	3600	IN	CNAME	om.ahtcm.edu.cn.
+shbd.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+shx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+sj.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+smtp.ahtcm.edu.cn.	3600	IN	CNAME	mail.ahtcm.edu.cn.
+szjy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+tsg.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+tw.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+tyb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+vod.ahtcm.edu.cn.	3600	IN	A	210.45.16.51
+vpn.ahtcm.edu.cn.	3600	IN	A	61.132.134.140
+vpnin.ahtcm.edu.cn.	3600	IN	A	192.168.201.2
+web.ahtcm.edu.cn.	3600	IN	A	210.45.16.4
+wlzx.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+wmf.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+wsb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+wsus.ahtcm.edu.cn.	3600	IN	A	210.45.16.56
+www.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xcgl.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xctzb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xfjs.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xinan.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xqjs.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xqjsh.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xsc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+xuebao.ahtcm.edu.cn.	3600	IN	A	210.45.16.8
+xxgc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+yjsb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+yxy.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+yyjjgl.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zjgs.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zjjl.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zsjy.ahtcm.edu.cn.	3600	IN	A	210.45.16.18
+zsjyw.ahtcm.edu.cn.	3600	IN	CNAME	zsjy.ahtcm.edu.cn.
+zxyjh.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zxylc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zyxycwc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zyxyzwc.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+zzb.ahtcm.edu.cn.	3600	IN	CNAME	web.ahtcm.edu.cn.
+ahtcm.edu.cn.		3600	IN	SOA	dns1.ahtcm.edu.cn. hostmaster. 75 900 600 86400 3600
+;; Query time: 35 msec
+;; SERVER: 210.45.16.1#53(210.45.16.1)
+;; WHEN: Mon Feb 16 23:21:51 2015
+;; XFR size: 86 records (messages 86, bytes 4592)
+

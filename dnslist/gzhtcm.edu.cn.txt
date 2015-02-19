@@ -1,0 +1,75 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr gzhtcm.edu.cn @gzzy420.gzhtcm.edu.cn.
+;; global options: +cmd
+gzhtcm.edu.cn.		86400	IN	SOA	gzhtcm.edu.cn. postmaster.gzhtcm.edu.cn. 30026 28800 7200 604800 86400
+gzhtcm.edu.cn.		86400	IN	NS	gzzy420.gzhtcm.edu.cn.
+gzhtcm.edu.cn.		86400	IN	TXT	"v=spf1 ip4:210.38.96.17 ip4:210.38.111.131 -all"
+gzhtcm.edu.cn.		86400	IN	MX	10 mail.gzhtcm.edu.cn.
+gzhtcm.edu.cn.		86400	IN	A	210.38.96.1
+gzzy420.gzhtcm.edu.cn.	86400	IN	A	210.38.96.1
+www1.gzhtcm.edu.cn.	86400	IN	A	210.38.111.141
+nc.gzhtcm.edu.cn.	86400	IN	A	210.38.111.33
+www2.gzhtcm.edu.cn.	86400	IN	A	61.144.26.78
+pxks.gzhtcm.edu.cn.	86400	IN	CNAME	jxjy.gzhtcm.edu.cn.
+wlzx.gzhtcm.edu.cn.	86400	IN	A	210.38.111.148
+oa.gzhtcm.edu.cn.	86400	IN	A	210.38.96.4
+pxkskd.gzhtcm.edu.cn.	86400	IN	A	210.38.96.50
+mtrx0029.gzhtcm.edu.cn.	86400	IN	A	210.38.96.17
+cloud.gzhtcm.edu.cn.	86400	IN	A	210.38.111.179
+my.gzhtcm.edu.cn.	86400	IN	A	210.38.111.164
+bb.gzhtcm.edu.cn.	86400	IN	A	210.38.111.218
+antivirus.gzhtcm.edu.cn. 86400	IN	A	210.38.111.171
+jsjks.gzhtcm.edu.cn.	86400	IN	A	210.38.111.193
+jpkc.gzhtcm.edu.cn.	86400	IN	A	210.38.111.148
+mail.gzhtcm.edu.cn.	86400	IN	MX	10 mtrx0029.gzhtcm.edu.cn.
+mail.gzhtcm.edu.cn.	86400	IN	A	210.38.111.132
+security.gzhtcm.edu.cn.	86400	IN	A	210.38.111.161
+zyypx.gzhtcm.edu.cn.	86400	IN	CNAME	jxjy.gzhtcm.edu.cn.
+gzzy450.gzhtcm.edu.cn.	86400	IN	A	210.38.96.5
+gradmis.gzhtcm.edu.cn.	86400	IN	A	210.38.111.194
+mtrxsrv.gzhtcm.edu.cn.	86400	IN	CNAME	mtrx0029.gzhtcm.edu.cn.
+library.gzhtcm.edu.cn.	86400	IN	A	210.38.102.131
+info.gzhtcm.edu.cn.	86400	IN	A	210.38.111.169
+bylw.gzhtcm.edu.cn.	86400	IN	A	210.38.111.238
+dagl.gzhtcm.edu.cn.	86400	IN	A	210.38.102.54
+jyjs.gzhtcm.edu.cn.	86400	IN	A	210.38.111.210
+traffic.gzhtcm.edu.cn.	86400	IN	A	210.38.111.30
+cwc.gzhtcm.edu.cn.	86400	IN	A	210.38.99.35
+sysfzx.gzhtcm.edu.cn.	86400	IN	CNAME	anni.gzhtcm.edu.cn.
+dns.gzhtcm.edu.cn.	86400	IN	CNAME	gzzy420.gzhtcm.edu.cn.
+bbs.gzhtcm.edu.cn.	86400	IN	A	210.38.96.39
+jxcgj.gzhtcm.edu.cn.	86400	IN	CNAME	ipbase.gzhtcm.edu.cn.
+anni.gzhtcm.edu.cn.	86400	IN	A	210.38.111.136
+account.gzhtcm.edu.cn.	86400	IN	A	210.38.96.8
+gzzy10.gzhtcm.edu.cn.	86400	IN	A	210.38.96.2
+psy.gzhtcm.edu.cn.	86400	IN	CNAME	xsc.gzhtcm.edu.cn.
+bkqs.gzhtcm.edu.cn.	86400	IN	CNAME	gzzy10.gzhtcm.edu.cn.
+zj973.gzhtcm.edu.cn.	86400	IN	CNAME	xnps.gzhtcm.edu.cn.
+netsec.gzhtcm.edu.cn.	86400	IN	A	210.38.111.40
+jxwz.gzhtcm.edu.cn.	86400	IN	A	210.38.96.104
+cms.gzhtcm.edu.cn.	86400	IN	A	210.38.111.170
+ftp1.gzhtcm.edu.cn.	86400	IN	CNAME	www1.gzhtcm.edu.cn.
+campus.gzhtcm.edu.cn.	86400	IN	CNAME	xyzx.gzhtcm.edu.cn.
+it.gzhtcm.edu.cn.	86400	IN	CNAME	ipbase.gzhtcm.edu.cn.
+jxzyk.gzhtcm.edu.cn.	86400	IN	A	210.38.96.102
+netservice.gzhtcm.edu.cn. 86400	IN	A	210.38.111.163
+cctm.gzhtcm.edu.cn.	86400	IN	A	210.38.111.237
+ipbase.gzhtcm.edu.cn.	86400	IN	A	210.38.111.191
+jxjy.gzhtcm.edu.cn.	86400	IN	A	210.38.111.233
+gdzc.gzhtcm.edu.cn.	86400	IN	A	210.38.99.36
+www.gzhtcm.edu.cn.	86400	IN	A	210.38.111.153
+jw.gzhtcm.edu.cn.	86400	IN	A	210.38.111.227
+jw.gzhtcm.edu.cn.	86400	IN	A	210.38.111.228
+search.gzhtcm.edu.cn.	86400	IN	CNAME	security.gzhtcm.edu.cn.
+xyzx.gzhtcm.edu.cn.	86400	IN	A	210.38.111.24
+973.gzhtcm.edu.cn.	86400	IN	A	210.38.111.197
+ftp.gzhtcm.edu.cn.	86400	IN	A	210.38.111.22
+xsc.gzhtcm.edu.cn.	86400	IN	A	210.38.111.236
+xnps.gzhtcm.edu.cn.	86400	IN	A	210.38.111.135
+blog.gzhtcm.edu.cn.	86400	IN	A	210.38.111.212
+gzhtcm.edu.cn.		86400	IN	SOA	gzhtcm.edu.cn. postmaster.gzhtcm.edu.cn. 30026 28800 7200 604800 86400
+;; Query time: 60 msec
+;; SERVER: 210.38.96.1#53(210.38.96.1)
+;; WHEN: Mon Feb 16 23:22:01 2015
+;; XFR size: 67 records (messages 67, bytes 3276)
+

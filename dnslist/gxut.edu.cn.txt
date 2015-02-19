@@ -1,0 +1,35 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr gxut.edu.cn @cernetdns02.gxust.edu.cn.
+;; global options: +cmd
+gxut.edu.cn.		86400	IN	SOA	cernetdns01.gxust.edu.cn. admin.gxust.edu.cn. 2015020201 604800 86400 2419200 86400
+gxut.edu.cn.		86400	IN	NS	cernetdns01.gxust.edu.cn.
+gxut.edu.cn.		86400	IN	NS	cernetdns02.gxust.edu.cn.
+gxut.edu.cn.		86400	IN	MX	10 mail.gxust.edu.cn.
+bbs.gxut.edu.cn.	86400	IN	A	202.193.177.3
+cernetdns01.gxut.edu.cn. 86400	IN	A	202.193.176.33
+cernetdns02.gxut.edu.cn. 86400	IN	A	202.193.176.34
+dns-1.gxut.edu.cn.	86400	IN	CNAME	cernetdns01.gxust.edu.cn.
+dns-2.gxut.edu.cn.	86400	IN	CNAME	cernetdns02.gxust.edu.cn.
+dns1.gxut.edu.cn.	86400	IN	CNAME	cernetdns01.gxust.edu.cn.
+dns2.gxut.edu.cn.	86400	IN	CNAME	cernetdns02.gxust.edu.cn.
+gxut-1.gxut.edu.cn.	86400	IN	CNAME	cernetdns01.gxust.edu.cn.
+gxut-2.gxut.edu.cn.	86400	IN	CNAME	cernetdns02.gxust.edu.cn.
+imap.gxut.edu.cn.	86400	IN	CNAME	mail.gxust.edu.cn.
+jwc.gxut.edu.cn.	86400	IN	A	202.193.177.7
+lzls.gxut.edu.cn.	86400	IN	MX	10 mail.lzls.gxust.edu.cn.
+mail.lzls.gxut.edu.cn.	86400	IN	A	220.173.60.36
+www.lzls.gxut.edu.cn.	86400	IN	A	220.173.60.60
+mail.gxut.edu.cn.	86400	IN	A	202.193.177.1
+nic.gxut.edu.cn.	86400	IN	A	202.193.177.5
+onlline.gxut.edu.cn.	86400	IN	CNAME	bbs.gxust.edu.cn.
+pop3.gxut.edu.cn.	86400	IN	CNAME	mail.gxust.edu.cn.
+portal.gxut.edu.cn.	86400	IN	A	202.193.177.4
+smtp.gxut.edu.cn.	86400	IN	CNAME	mail.gxust.edu.cn.
+www.gxut.edu.cn.	86400	IN	A	202.193.177.2
+www1.gxut.edu.cn.	86400	IN	A	202.193.177.7
+gxut.edu.cn.		86400	IN	SOA	cernetdns01.gxust.edu.cn. admin.gxust.edu.cn. 2015020201 604800 86400 2419200 86400
+;; Query time: 59 msec
+;; SERVER: 202.193.176.34#53(202.193.176.34)
+;; WHEN: Mon Feb 16 23:22:05 2015
+;; XFR size: 27 records (messages 1, bytes 662)
+

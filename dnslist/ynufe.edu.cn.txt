@@ -1,0 +1,83 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr ynufe.edu.cn @dns1.ynufe.edu.cn.
+;; global options: +cmd
+ynufe.edu.cn.		3600	IN	SOA	dns1.ynufe.edu.cn. root.dns1.ynufe.edu.cn. 2005121013 3600 900 68400 15
+ynufe.edu.cn.		3600	IN	NS	dns1.ynufe.edu.cn.
+ynufe.edu.cn.		3600	IN	NS	dns2.ynufe.edu.cn.
+ynufe.edu.cn.		3600	IN	A	202.203.192.33
+ynufe.edu.cn.		3600	IN	MX	5 mailgw.ynufe.edu.cn.
+ynufe.edu.cn.		3600	IN	MX	10 mailserver.ynufe.edu.cn.
+accserver.ynufe.edu.cn.	3600	IN	A	172.16.22.67
+app2.ynufe.edu.cn.	3600	IN	A	202.203.192.132
+app3.ynufe.edu.cn.	3600	IN	A	202.203.192.133
+app4.ynufe.edu.cn.	3600	IN	A	202.203.192.134
+app5.ynufe.edu.cn.	3600	IN	A	202.203.192.135
+app6.ynufe.edu.cn.	3600	IN	A	202.203.192.136
+app7.ynufe.edu.cn.	3600	IN	A	202.203.192.144
+archives.ynufe.edu.cn.	3600	IN	A	202.203.192.18
+caiwu.ynufe.edu.cn.	3600	IN	A	202.203.194.12
+capgs.ynufe.edu.cn.	3600	IN	A	106.187.96.233
+cyj.ynufe.edu.cn.	3600	IN	A	202.203.204.62
+dns1.ynufe.edu.cn.	3600	IN	A	202.203.192.33
+dns2.ynufe.edu.cn.	3600	IN	A	202.203.192.34
+dpstar.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+ebiz.ynufe.edu.cn.	3600	IN	A	202.203.192.41
+ecard.ynufe.edu.cn.	3600	IN	A	172.16.252.41
+en.ynufe.edu.cn.	3600	IN	A	106.187.96.233
+eol.ynufe.edu.cn.	3600	IN	A	202.203.192.204
+finance.ynufe.edu.cn.	3600	IN	A	202.203.192.51
+foreign.ynufe.edu.cn.	3600	IN	A	106.187.96.233
+ftp.ynufe.edu.cn.	3600	IN	A	172.16.30.251
+g.ynufe.edu.cn.		3600	IN	A	202.203.192.21
+gjc.ynufe.edu.cn.	3600	IN	A	202.203.194.38
+gjc2.ynufe.edu.cn.	3600	IN	A	202.203.194.188
+hchinesepod.ynufe.edu.cn. 3600	IN	A	202.203.194.150
+hcrsp.ynufe.edu.cn.	3600	IN	A	202.203.193.132
+hcservice.ynufe.edu.cn.	3600	IN	A	202.203.193.132
+hcsms.ynufe.edu.cn.	3600	IN	A	202.203.193.132
+hcurp.ynufe.edu.cn.	3600	IN	A	202.203.193.132
+ibs.ynufe.edu.cn.	3600	IN	A	202.203.194.46
+ids.ynufe.edu.cn.	3600	IN	A	202.203.192.140
+ids1.ynufe.edu.cn.	3600	IN	A	202.203.192.141
+ids2.ynufe.edu.cn.	3600	IN	A	202.203.192.142
+jiaowu.ynufe.edu.cn.	3600	IN	A	202.203.194.10
+job.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+jpkc.ynufe.edu.cn.	3600	IN	A	202.203.192.40
+jpkcsp.ynufe.edu.cn.	3600	IN	A	202.203.192.69
+jwc.ynufe.edu.cn.	3600	IN	A	202.203.194.11
+m.ynufe.edu.cn.		3600	IN	A	202.203.192.62
+mailgw.ynufe.edu.cn.	3600	IN	A	202.203.192.11
+mailserver.ynufe.edu.cn. 3600	IN	A	202.203.192.12
+metc.ynufe.edu.cn.	3600	IN	A	202.203.192.62
+newjob.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+oa.ynufe.edu.cn.	3600	IN	A	202.203.192.21
+oldurp.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+report.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+rs.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+rsrep.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+shenbao.ynufe.edu.cn.	3600	IN	A	202.203.192.126
+student.ynufe.edu.cn.	3600	IN	A	202.203.192.35
+student.ynufe.edu.cn.	3600	IN	MX	10 student.ynufe.edu.cn.
+th.ynufe.edu.cn.	3600	IN	A	106.187.96.233
+tour.ynufe.edu.cn.	3600	IN	A	202.203.192.71
+urp.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+vn.ynufe.edu.cn.	3600	IN	A	106.187.96.233
+vod.ynufe.edu.cn.	3600	IN	A	10.93.252.34
+vod.ynufe.edu.cn.	3600	IN	A	172.16.30.30
+vpn.ynufe.edu.cn.	3600	IN	A	116.249.5.122
+was.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+web.ynufe.edu.cn.	3600	IN	A	202.203.192.63
+welcome.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+www.ynufe.edu.cn.	3600	IN	A	202.203.192.18
+xg.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+xgrep.ynufe.edu.cn.	3600	IN	A	202.203.192.131
+xsc.ynufe.edu.cn.	3600	IN	A	202.203.192.25
+xy.ynufe.edu.cn.	3600	IN	A	202.203.194.188
+xyh.ynufe.edu.cn.	3600	IN	A	202.203.194.188
+zhzyxy.ynufe.edu.cn.	3600	IN	A	221.213.54.78
+ynufe.edu.cn.		3600	IN	SOA	dns1.ynufe.edu.cn. root.dns1.ynufe.edu.cn. 2005121013 3600 900 68400 15
+;; Query time: 60 msec
+;; SERVER: 202.203.192.33#53(202.203.192.33)
+;; WHEN: Mon Feb 16 23:22:13 2015
+;; XFR size: 75 records (messages 1, bytes 1631)
+

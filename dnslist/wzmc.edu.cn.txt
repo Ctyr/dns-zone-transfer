@@ -1,0 +1,125 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr wzmc.edu.cn @dns4.wzmc.edu.cn.
+;; global options: +cmd
+wzmc.edu.cn.		86400	IN	SOA	dns1.wzmc.edu.cn. root.wzmc.edu.cn. 2014080102 3600 900 604800 86400
+wzmc.edu.cn.		86400	IN	TXT	"v=spf1 ip4:122.228.158.101 -all"
+wzmc.edu.cn.		86400	IN	MX	10 mx.wzmc.edu.cn.
+wzmc.edu.cn.		86400	IN	NS	dns1.wzmc.edu.cn.
+wzmc.edu.cn.		86400	IN	NS	dns4.wzmc.edu.cn.
+bbs.wzmc.edu.cn.	86400	IN	A	122.228.158.112
+bncc.wzmc.edu.cn.	86400	IN	A	122.228.158.112
+bwc.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+delc.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+szsw.delc.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+dns1.wzmc.edu.cn.	86400	IN	A	59.79.168.100
+dns4.wzmc.edu.cn.	86400	IN	A	59.79.168.99
+el.wzmc.edu.cn.		86400	IN	A	122.228.158.125
+elearning.wzmc.edu.cn.	86400	IN	A	61.153.27.166
+en.wzmc.edu.cn.		86400	IN	A	114.80.116.88
+ftp.wzmc.edu.cn.	86400	IN	A	61.153.27.168
+fzghc.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+genomics.wzmc.edu.cn.	86400	IN	A	203.171.235.175
+gh.wzmc.edu.cn.		86400	IN	A	59.79.168.81
+gjs.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+grad.wzmc.edu.cn.	86400	IN	A	122.228.158.109
+gzc.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+ggzyglpt.gzc.wzmc.edu.cn. 86400	IN	A	172.18.5.70
+hjc.wzmc.edu.cn.	86400	IN	A	23.23.23.23
+hlxy.wzmc.edu.cn.	86400	IN	A	59.79.168.81
+hq.wzmc.edu.cn.		86400	IN	A	122.228.158.118
+hr.wzmc.edu.cn.		86400	IN	A	172.18.8.6
+hwxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+hzbx.wzmc.edu.cn.	86400	IN	A	114.80.116.88
+ihee.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+io.wzmc.edu.cn.		86400	IN	A	114.80.116.88
+jcyxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+hyx.jcyxy.wzmc.edu.cn.	86400	IN	A	61.153.27.182
+jiepou.jcyxy.wzmc.edu.cn. 86400	IN	A	59.79.169.22
+jnzx.jcyxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+wzblslx.jcyxy.wzmc.edu.cn. 86400 IN	A	122.228.158.116
+zzptx.jcyxy.wzmc.edu.cn. 86400	IN	A	61.153.27.182
+jjxy.wzmc.edu.cn.	86400	IN	A	61.153.27.178
+job.wzmc.edu.cn.	86400	IN	A	122.228.158.105
+jpkc.wzmc.edu.cn.	86400	IN	A	61.153.27.182
+jsfzzx.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+jsxy.wzmc.edu.cn.	86400	IN	A	59.79.170.112
+jszzzz.jsxy.wzmc.edu.cn. 86400	IN	A	59.79.170.112
+jyxx.jsxy.wzmc.edu.cn.	86400	IN	A	59.79.170.112
+txgz.jsxy.wzmc.edu.cn.	86400	IN	A	59.79.170.112
+yidongbai.jsxy.wzmc.edu.cn. 86400 IN	A	59.79.170.112
+yjs.jsxy.wzmc.edu.cn.	86400	IN	A	59.79.170.112
+jw.wzmc.edu.cn.		86400	IN	A	122.228.158.118
+jwc.wzmc.edu.cn.	86400	IN	A	61.153.27.165
+snet.jwc.wzmc.edu.cn.	86400	IN	A	61.153.27.190
+tjava.jwc.wzmc.edu.cn.	86400	IN	A	122.228.158.124
+tnet.jwc.wzmc.edu.cn.	86400	IN	A	122.228.158.116
+jwgl.wzmc.edu.cn.	86400	IN	A	61.153.27.181
+kaoshi.wzmc.edu.cn.	86400	IN	A	59.79.168.91
+kjc.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+lcjnzx.wzmc.edu.cn.	86400	IN	A	122.228.158.115
+lib.wzmc.edu.cn.	86400	IN	A	59.79.168.101
+libopac.lib.wzmc.edu.cn. 86400	IN	A	59.79.168.82
+mobile.lib.wzmc.edu.cn.	86400	IN	A	59.79.168.78
+opac.lib.wzmc.edu.cn.	86400	IN	A	59.79.168.82
+ltc.wzmc.edu.cn.	86400	IN	A	114.80.116.88
+mail.wzmc.edu.cn.	86400	IN	A	122.228.158.101
+mail2.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+mjob.wzmc.edu.cn.	86400	IN	A	122.228.158.105
+mx.wzmc.edu.cn.		86400	IN	A	122.228.158.101
+my.wzmc.edu.cn.		86400	IN	A	172.18.8.6
+net.wzmc.edu.cn.	86400	IN	A	122.228.158.104
+netmag.wzmc.edu.cn.	86400	IN	A	122.228.158.104
+news.wzmc.edu.cn.	86400	IN	A	122.228.158.112
+newspaper.news.wzmc.edu.cn. 86400 IN	A	122.228.158.112
+wmvoice.news.wzmc.edu.cn. 86400	IN	A	122.228.158.112
+oa.wzmc.edu.cn.		86400	IN	A	172.18.8.5
+oldmail.wzmc.edu.cn.	86400	IN	A	61.153.27.188
+ouyc.wzmc.edu.cn.	86400	IN	A	122.228.158.112
+pop3.wzmc.edu.cn.	86400	IN	A	122.228.158.101
+pop32.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+qk.wzmc.edu.cn.		86400	IN	A	122.228.158.118
+rjxy.wzmc.edu.cn.	86400	IN	A	122.228.158.126
+rsc.wzmc.edu.cn.	86400	IN	A	122.228.158.104
+sis.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+skb.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+skc.wzmc.edu.cn.	86400	IN	A	122.228.158.112
+smtp.wzmc.edu.cn.	86400	IN	A	122.228.158.101
+smtp2.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+swzx.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+sydwzx.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+tky.wzmc.edu.cn.	86400	IN	A	122.228.158.104
+tw.wzmc.edu.cn.		86400	IN	A	61.153.27.163
+stl.tw.wzmc.edu.cn.	86400	IN	A	61.153.27.163
+xsh.tw.wzmc.edu.cn.	86400	IN	A	61.153.27.163
+tzb.wzmc.edu.cn.	86400	IN	A	122.228.158.118
+vpn.wzmc.edu.cn.	86400	IN	A	61.153.27.177
+welcome.wzmc.edu.cn.	86400	IN	A	122.228.158.109
+wenguan.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+wgy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+www.wzmc.edu.cn.	86400	IN	A	61.153.27.176
+wwww.wzmc.edu.cn.	86400	IN	A	61.153.27.176
+xsc.wzmc.edu.cn.	86400	IN	A	122.228.158.105
+xljk.xsc.wzmc.edu.cn.	86400	IN	A	122.228.158.105
+xsgl.xsc.wzmc.edu.cn.	86400	IN	A	122.228.158.105
+xscold.wzmc.edu.cn.	86400	IN	A	122.228.158.105
+xssq.wzmc.edu.cn.	86400	IN	A	59.79.168.81
+xxgc.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+yjsy.wzmc.edu.cn.	86400	IN	A	59.79.168.27
+yxy.wzmc.edu.cn.	86400	IN	A	59.79.168.87
+bmc.yxy.wzmc.edu.cn.	86400	IN	A	122.228.158.104
+fxcszx.yxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+icgfs.yxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+imp.yxy.wzmc.edu.cn.	86400	IN	A	114.80.116.88
+medchem.yxy.wzmc.edu.cn. 86400	IN	A	122.228.158.104
+nmrlab.yxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+ywyjy.yxy.wzmc.edu.cn.	86400	IN	A	61.153.27.185
+yxlab.yxy.wzmc.edu.cn.	86400	IN	A	122.228.158.104
+zhaopin.wzmc.edu.cn.	86400	IN	A	122.228.158.100
+zhaosheng.wzmc.edu.cn.	86400	IN	A	122.228.158.115
+zzb.wzmc.edu.cn.	86400	IN	A	122.228.158.113
+wzmc.edu.cn.		86400	IN	SOA	dns1.wzmc.edu.cn. root.wzmc.edu.cn. 2014080102 3600 900 604800 86400
+;; Query time: 11 msec
+;; SERVER: 59.79.168.99#53(59.79.168.99)
+;; WHEN: Mon Feb 16 23:21:57 2015
+;; XFR size: 117 records (messages 1, bytes 2555)
+

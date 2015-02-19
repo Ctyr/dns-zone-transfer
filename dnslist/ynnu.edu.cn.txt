@@ -1,0 +1,108 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr ynnu.edu.cn @secdns.ynnu.edu.cn.
+;; global options: +cmd
+ynnu.edu.cn.		21600	IN	SOA	pridns.ynnu.edu.cn. 403362795.qq.com. 201409269 604800 86400 2419200 21600
+ynnu.edu.cn.		21600	IN	MX	10 mail.ynnu.edu.cn.
+ynnu.edu.cn.		21600	IN	MX	20 mailnginx.ynnu.edu.cn.
+ynnu.edu.cn.		21600	IN	NS	pridns.ynnu.edu.cn.
+ynnu.edu.cn.		21600	IN	NS	secdns.ynnu.edu.cn.
+*.ynnu.edu.cn.		21600	IN	A	202.203.225.46
+202.203.224.72.ynnu.edu.cn. 21600 IN	PTR	testm.ynnu.edu.cn.
+202.203.225.72.ynnu.edu.cn. 21600 IN	PTR	mail.ynnu.edu.cn.
+bbs.ynnu.edu.cn.	21600	IN	A	202.203.225.10
+bec.ynnu.edu.cn.	21600	IN	A	202.203.224.37
+calis.ynnu.edu.cn.	21600	IN	A	202.203.231.3
+cjy.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+dbw.ynnu.edu.cn.	21600	IN	A	202.203.225.147
+dhlc.ynnu.edu.cn.	21600	IN	A	202.203.225.160
+e-learning.ynnu.edu.cn.	21600	IN	A	202.203.224.221
+eecenter.ynnu.edu.cn.	21600	IN	A	202.203.225.131
+fee.ynnu.edu.cn.	21600	IN	A	202.203.224.36
+gdyjhx.ynnu.edu.cn.	21600	IN	A	202.203.225.15
+gh.ynnu.edu.cn.		21600	IN	A	202.203.224.44
+gis2009.ynnu.edu.cn.	21600	IN	A	202.203.225.161
+graduate.ynnu.edu.cn.	21600	IN	A	202.203.225.17
+ihead.ynnu.edu.cn.	21600	IN	A	202.203.225.23
+imap.ynnu.edu.cn.	21600	IN	CNAME	mail.ynnu.edu.cn.
+jjzfxsw.ynnu.edu.cn.	21600	IN	A	202.203.224.37
+jpkc.ynnu.edu.cn.	21600	IN	A	202.203.225.147
+*.jpkc.ynnu.edu.cn.	21600	IN	A	202.203.225.147
+09fxhx.jpkc.ynnu.edu.cn. 21600	IN	A	202.203.225.15
+09yjhx.jpkc.ynnu.edu.cn. 21600	IN	A	202.203.225.15
+jpkc1.ynnu.edu.cn.	21600	IN	A	202.203.225.24
+*.jpkc1.ynnu.edu.cn.	21600	IN	A	202.203.225.24
+jwmis.ynnu.edu.cn.	21600	IN	A	202.203.225.36
+jwmis.ynnu.edu.cn.	21600	IN	A	202.203.225.38
+jwmis.ynnu.edu.cn.	21600	IN	A	202.203.225.39
+jwmis.ynnu.edu.cn.	21600	IN	A	202.203.225.41
+jww.ynnu.edu.cn.	21600	IN	A	202.203.225.160
+led.ynnu.edu.cn.	21600	IN	A	202.203.225.253
+lib.ynnu.edu.cn.	21600	IN	A	202.203.231.3
+www.lib.ynnu.edu.cn.	21600	IN	A	202.203.231.2
+life.ynnu.edu.cn.	21600	IN	A	202.203.225.168
+lifelab.ynnu.edu.cn.	21600	IN	A	202.203.225.168
+localhost.ynnu.edu.cn.	21600	IN	A	127.0.0.1
+login.ynnu.edu.cn.	21600	IN	A	10.10.1.96
+mail.ynnu.edu.cn.	21600	IN	A	202.203.225.72
+mailbak.ynnu.edu.cn.	21600	IN	A	202.203.225.73
+mailnginx.ynnu.edu.cn.	21600	IN	A	202.203.225.99
+mailtest.ynnu.edu.cn.	21600	IN	A	202.203.225.250
+mba.ynnu.edu.cn.	21600	IN	A	220.165.8.69
+meeting.ynnu.edu.cn.	21600	IN	A	10.10.1.10
+mlbshfzxy.ynnu.edu.cn.	21600	IN	A	202.203.225.190
+mljxcg.ynnu.edu.cn.	21600	IN	A	202.203.225.9
+mt.ynnu.edu.cn.		21600	IN	A	202.203.225.163
+netlab.ynnu.edu.cn.	21600	IN	A	202.203.224.62
+nhce.ynnu.edu.cn.	21600	IN	A	202.203.224.41
+niipc2007.ynnu.edu.cn.	21600	IN	A	202.203.225.10
+office.ynnu.edu.cn.	21600	IN	A	202.203.224.64
+pop3.ynnu.edu.cn.	21600	IN	CNAME	mail.ynnu.edu.cn.
+pridns.ynnu.edu.cn.	21600	IN	A	202.203.224.33
+prometric.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+sbk.ynnu.edu.cn.	21600	IN	A	202.203.225.160
+sci-tech.ynnu.edu.cn.	21600	IN	A	202.203.239.215
+secdns.ynnu.edu.cn.	21600	IN	A	202.203.224.34
+sfzx.ynnu.edu.cn.	21600	IN	A	202.203.225.147
+sfzx1.ynnu.edu.cn.	21600	IN	A	202.203.225.24
+sjjxk.ynnu.edu.cn.	21600	IN	A	202.203.225.147
+smtp.ynnu.edu.cn.	21600	IN	CNAME	mail.ynnu.edu.cn.
+testm.ynnu.edu.cn.	21600	IN	A	202.203.224.72
+www.tgw.ynnu.edu.cn.	21600	IN	A	202.203.231.9
+time.ynnu.edu.cn.	21600	IN	A	10.10.0.101
+tourchina.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+www.tourchina.ynnu.edu.cn. 21600 IN	CNAME	tourchina.ynnu.edu.cn.
+tw.ynnu.edu.cn.		21600	IN	A	202.203.225.201
+tyw.ynnu.edu.cn.	21600	IN	A	202.203.225.184
+update.ynnu.edu.cn.	21600	IN	A	202.203.224.63
+user.ynnu.edu.cn.	21600	IN	A	10.10.1.95
+vip.ynnu.edu.cn.	21600	IN	MX	10 testm.ynnu.edu.cn.
+vip.ynnu.edu.cn.	21600	IN	A	202.203.225.72
+vpn.ynnu.edu.cn.	21600	IN	A	116.52.10.54
+vpn2.ynnu.edu.cn.	21600	IN	A	202.203.138.1
+vpn3.ynnu.edu.cn.	21600	IN	A	183.224.69.156
+vpn4.ynnu.edu.cn.	21600	IN	A	112.112.14.22
+vpn5.ynnu.edu.cn.	21600	IN	A	221.213.101.30
+vsite.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+wdxyjpkc.ynnu.edu.cn.	21600	IN	A	202.203.225.173
+wdxytd.ynnu.edu.cn.	21600	IN	A	202.203.225.24
+xb.ynnu.edu.cn.		21600	IN	A	202.203.224.64
+xk1.ynnu.edu.cn.	21600	IN	A	202.203.224.8
+xsh.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+xxgk.ynnu.edu.cn.	21600	IN	A	202.203.224.64
+ynaidsedu.ynnu.edu.cn.	21600	IN	A	202.203.224.37
+ynedu.ynnu.edu.cn.	21600	IN	A	202.203.224.38
+ynnucc.ynnu.edu.cn.	21600	IN	A	202.203.227.10
+ynnupec.ynnu.edu.cn.	21600	IN	A	202.203.225.172
+ynpsy.ynnu.edu.cn.	21600	IN	A	202.203.224.37
+ynsmx.ynnu.edu.cn.	21600	IN	A	202.203.225.183
+ynyy.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+ypcj.ynnu.edu.cn.	21600	IN	A	202.203.225.12
+ysw.ynnu.edu.cn.	21600	IN	A	202.203.225.10
+zjy.ynnu.edu.cn.	21600	IN	A	202.203.224.44
+zqsyjx.ynnu.edu.cn.	21600	IN	A	202.203.225.174
+ynnu.edu.cn.		21600	IN	SOA	pridns.ynnu.edu.cn. 403362795.qq.com. 201409269 604800 86400 2419200 21600
+;; Query time: 62 msec
+;; SERVER: 202.203.224.34#53(202.203.224.34)
+;; WHEN: Mon Feb 16 23:22:09 2015
+;; XFR size: 100 records (messages 1, bytes 2218)
+

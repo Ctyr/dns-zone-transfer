@@ -1,0 +1,132 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hytc.edu.cn @sfa.hytc.edu.cn.
+;; global options: +cmd
+hytc.edu.cn.		86400	IN	SOA	sfa.hytc.edu.cn. root.sfa.hytc.edu.cn. 20150118 800 1800 360000 86400
+hytc.edu.cn.		86400	IN	NS	sfa.hytc.edu.cn.
+hytc.edu.cn.		86400	IN	NS	sfb.hytc.edu.cn.
+hytc.edu.cn.		86400	IN	MX	0 emdg.hytc.edu.cn.
+abc.hytc.edu.cn.	86400	IN	A	202.195.113.130
+account.hytc.edu.cn.	86400	IN	A	202.195.112.3
+biolabc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+bwc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+chemlabc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+cmxy.hytc.edu.cn.	86400	IN	A	202.195.113.139
+cs.hytc.edu.cn.		86400	IN	A	202.195.126.166
+cszx.hytc.edu.cn.	86400	IN	A	202.195.112.12
+ctld.hytc.edu.cn.	86400	IN	A	202.195.112.198
+cxzy.hytc.edu.cn.	86400	IN	A	202.195.112.12
+dag.hytc.edu.cn.	86400	IN	A	202.195.113.139
+department.hytc.edu.cn.	86400	IN	A	202.195.112.12
+dwclhx.hytc.edu.cn.	86400	IN	A	202.195.112.12
+eaelabc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+eee.hytc.edu.cn.	86400	IN	A	202.195.112.12
+eljs.hytc.edu.cn.	86400	IN	A	202.195.112.12
+emdg.hytc.edu.cn.	86400	IN	A	202.195.112.11
+finance.hytc.edu.cn.	86400	IN	A	202.195.112.12
+ftp.hytc.edu.cn.	86400	IN	A	202.195.112.38
+geo.hytc.edu.cn.	86400	IN	A	202.195.112.12
+geolab.hytc.edu.cn.	86400	IN	A	202.195.112.42
+ggty.hytc.edu.cn.	86400	IN	A	202.195.112.12
+ggw.hytc.edu.cn.	86400	IN	A	202.195.112.12
+ghc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+gjzx.hytc.edu.cn.	86400	IN	A	202.195.113.155
+gonghui.hytc.edu.cn.	86400	IN	A	202.195.112.12
+guofang.hytc.edu.cn.	86400	IN	A	202.195.112.202
+health.hytc.edu.cn.	86400	IN	A	202.195.112.12
+hgzx.hytc.edu.cn.	86400	IN	A	202.195.112.12
+hq.hytc.edu.cn.		86400	IN	A	202.195.112.12
+hqcg.hytc.edu.cn.	86400	IN	A	202.195.113.156
+hqglc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+huaxue.hytc.edu.cn.	86400	IN	A	202.195.112.12
+hzhlab.hytc.edu.cn.	86400	IN	A	202.195.114.3
+jg.hytc.edu.cn.		86400	IN	A	202.195.112.12
+jglab.hytc.edu.cn.	86400	IN	A	202.195.112.12
+jinguan.hytc.edu.cn.	86400	IN	A	202.195.112.12
+jiwei.hytc.edu.cn.	86400	IN	A	202.195.112.42
+jstssc.hytc.edu.cn.	86400	IN	A	202.195.112.42
+jw.hytc.edu.cn.		86400	IN	A	202.195.113.148
+jwc.hytc.edu.cn.	86400	IN	A	202.195.113.152
+jxjy.hytc.edu.cn.	86400	IN	A	202.195.112.12
+jyx.hytc.edu.cn.	86400	IN	A	202.195.112.12
+khxt.hytc.edu.cn.	86400	IN	A	202.195.112.42
+kyw.hytc.edu.cn.	86400	IN	A	202.195.113.155
+law.hytc.edu.cn.	86400	IN	A	202.195.112.12
+lib.hytc.edu.cn.	86400	IN	A	202.195.112.20
+lishi.hytc.edu.cn.	86400	IN	A	202.195.112.12
+lsec.hytc.edu.cn.	86400	IN	A	202.195.112.12
+ltx.hytc.edu.cn.	86400	IN	A	202.195.112.12
+mail.hytc.edu.cn.	86400	IN	A	202.195.112.11
+maths.hytc.edu.cn.	86400	IN	A	202.195.112.12
+meishu.hytc.edu.cn.	86400	IN	A	202.195.112.12
+metc.hytc.edu.cn.	86400	IN	A	202.195.112.42
+mkszy.hytc.edu.cn.	86400	IN	A	202.195.112.12
+news.hytc.edu.cn.	86400	IN	A	202.195.113.136
+nhce.hytc.edu.cn.	86400	IN	A	202.195.113.132
+oa.hytc.edu.cn.		86400	IN	A	202.195.112.10
+oa1.hytc.edu.cn.	86400	IN	A	202.195.112.140
+office.hytc.edu.cn.	86400	IN	A	202.195.113.139
+phylabc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+pjb.hytc.edu.cn.	86400	IN	A	202.195.112.42
+plant.hytc.edu.cn.	86400	IN	A	202.195.112.12
+rccci.hytc.edu.cn.	86400	IN	A	202.195.112.42
+ris.hytc.edu.cn.	86400	IN	A	202.195.112.38
+rsc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+sbc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+sfa.hytc.edu.cn.	86400	IN	A	202.195.112.1
+sfb.hytc.edu.cn.	86400	IN	A	202.195.112.2
+shen.hytc.edu.cn.	86400	IN	A	202.195.112.12
+sjc.hytc.edu.cn.	86400	IN	A	202.195.112.12
+sjjx.hytc.edu.cn.	86400	IN	A	202.195.112.198
+skyxgw.hytc.edu.cn.	86400	IN	A	202.195.112.42
+sports.hytc.edu.cn.	86400	IN	A	202.195.112.12
+stlhh.hytc.edu.cn.	86400	IN	A	202.195.113.150
+stu.hytc.edu.cn.	86400	IN	A	202.195.112.11
+stu.hytc.edu.cn.	86400	IN	MX	5 mxbiz1.qq.com.
+stu.hytc.edu.cn.	86400	IN	MX	10 mxbiz2.qq.com.
+mail.stu.hytc.edu.cn.	86400	IN	CNAME	exmail.qq.com.
+sw.hytc.edu.cn.		86400	IN	A	202.195.112.12
+swzn.hytc.edu.cn.	86400	IN	A	202.195.112.12
+syzy.hytc.edu.cn.	86400	IN	A	202.195.112.12
+szjz.hytc.edu.cn.	86400	IN	A	202.195.112.197
+tstc.hytc.edu.cn.	86400	IN	A	202.195.112.201
+vod.hytc.edu.cn.	86400	IN	A	202.195.112.7
+waiwen.hytc.edu.cn.	86400	IN	A	202.195.112.12
+wlkc.hytc.edu.cn.	86400	IN	A	202.195.112.196
+wlrz.hytc.edu.cn.	86400	IN	A	202.195.112.42
+wsb.hytc.edu.cn.	86400	IN	A	202.195.112.12
+wt.hytc.edu.cn.		86400	IN	A	202.195.113.139
+wwet.hytc.edu.cn.	86400	IN	A	202.195.113.130
+www.hytc.edu.cn.	86400	IN	A	202.195.113.136
+www1.hytc.edu.cn.	86400	IN	CNAME	sfb.hytc.edu.cn.
+wxrz.hytc.edu.cn.	86400	IN	A	202.195.112.42
+wxxx.hytc.edu.cn.	86400	IN	A	202.195.112.197
+xgb.hytc.edu.cn.	86400	IN	A	202.195.112.202
+xkb.hytc.edu.cn.	86400	IN	A	202.195.113.139
+xlzx.hytc.edu.cn.	86400	IN	A	202.195.112.202
+xsh.hytc.edu.cn.	86400	IN	A	202.195.113.150
+xsxx.hytc.edu.cn.	86400	IN	A	202.195.112.202
+xuebao.hytc.edu.cn.	86400	IN	A	202.195.112.42
+xxgk.hytc.edu.cn.	86400	IN	A	202.195.112.12
+xyh.hytc.edu.cn.	86400	IN	A	202.195.112.12
+xyw.hytc.edu.cn.	86400	IN	A	202.195.113.150
+xyz.hytc.edu.cn.	86400	IN	A	202.195.113.150
+ybdzb.hytc.edu.cn.	86400	IN	A	202.195.112.12
+yhcy.hytc.edu.cn.	86400	IN	A	202.195.112.42
+yinyue.hytc.edu.cn.	86400	IN	A	202.195.112.12
+ysjy.hytc.edu.cn.	86400	IN	A	202.195.112.12
+yww.hytc.edu.cn.	86400	IN	A	202.195.113.152
+zelyj.hytc.edu.cn.	86400	IN	A	202.195.112.12
+zhengzhi.hytc.edu.cn.	86400	IN	A	202.195.112.12
+zhongwen.hytc.edu.cn.	86400	IN	A	202.195.112.12
+zjc.hytc.edu.cn.	86400	IN	A	202.195.113.131
+zpsc.hytc.edu.cn.	86400	IN	A	202.195.112.42
+zsjs.hytc.edu.cn.	86400	IN	A	202.195.112.42
+ztb.hytc.edu.cn.	86400	IN	A	202.195.112.12
+zyz.hytc.edu.cn.	86400	IN	A	202.195.113.150
+zzb.hytc.edu.cn.	86400	IN	A	202.195.112.12
+hytc.edu.cn.		86400	IN	SOA	sfa.hytc.edu.cn. root.sfa.hytc.edu.cn. 20150118 800 1800 360000 86400
+;; Query time: 17 msec
+;; SERVER: 202.195.112.1#53(202.195.112.1)
+;; WHEN: Mon Feb 16 23:21:49 2015
+;; XFR size: 124 records (messages 1, bytes 2690)
+

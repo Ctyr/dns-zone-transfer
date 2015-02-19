@@ -1,0 +1,101 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr usx.edu.cn @dns2.usx.edu.cn.
+;; global options: +cmd
+usx.edu.cn.		86400	IN	SOA	dns.usx.edu.cn. master.usx.edu.cn. 2015021402 10800 3600 1209600 1800
+usx.edu.cn.		86400	IN	SPF	"v=spf1 a mx mx:email.usx.edu.cn ip4:210.33.24.3 ~all"
+usx.edu.cn.		86400	IN	TXT	"v=spf1 a mx mx:email.usx.edu.cn ip4:210.33.24.3 ~all"
+usx.edu.cn.		86400	IN	MX	0 email.usx.edu.cn.
+usx.edu.cn.		86400	IN	NS	dns.usx.edu.cn.
+usx.edu.cn.		86400	IN	NS	dns2.usx.edu.cn.
+apply.usx.edu.cn.	86400	IN	A	61.174.215.231
+bbs.usx.edu.cn.		86400	IN	A	210.33.24.4
+bysj.usx.edu.cn.	86400	IN	A	61.174.215.231
+cb.usx.edu.cn.		86400	IN	A	210.33.24.46
+ces.usx.edu.cn.		86400	IN	A	210.33.27.17
+chem.usx.edu.cn.	86400	IN	A	61.174.215.231
+corpus.usx.edu.cn.	86400	IN	A	61.174.215.231
+dajiangtang.usx.edu.cn.	86400	IN	A	61.174.215.236
+dfhz.usx.edu.cn.	86400	IN	A	61.174.215.231
+dns.usx.edu.cn.		86400	IN	A	210.33.24.1
+dns2.usx.edu.cn.	86400	IN	A	210.33.24.2
+elearning.usx.edu.cn.	86400	IN	A	61.174.215.231
+email.usx.edu.cn.	86400	IN	A	210.33.24.3
+emlab.usx.edu.cn.	86400	IN	A	61.174.215.231
+english.usx.edu.cn.	86400	IN	A	61.174.215.231
+fxy.usx.edu.cn.		86400	IN	A	61.174.215.231
+fzgh.usx.edu.cn.	86400	IN	A	61.174.215.231
+www.gh.usx.edu.cn.	86400	IN	A	61.174.215.238
+gxy.usx.edu.cn.		86400	IN	A	61.174.215.231
+www.hf.usx.edu.cn.	86400	IN	A	61.174.215.236
+hqglc.usx.edu.cn.	86400	IN	A	61.174.215.231
+icourse.usx.edu.cn.	86400	IN	A	61.174.215.231
+jcc.usx.edu.cn.		86400	IN	A	61.174.215.231
+jgkc.usx.edu.cn.	86400	IN	A	61.174.215.231
+jgxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+jsjyjd.usx.edu.cn.	86400	IN	A	210.33.24.7
+jsjzx.usx.edu.cn.	86400	IN	A	61.174.215.231
+jw.usx.edu.cn.		86400	IN	A	61.174.215.231
+jwc.usx.edu.cn.		86400	IN	A	61.174.215.231
+jy.usx.edu.cn.		86400	IN	A	61.174.215.231
+lib.usx.edu.cn.		86400	IN	A	61.174.215.238
+libvip.usx.edu.cn.	86400	IN	A	61.174.215.237
+life.usx.edu.cn.	86400	IN	A	61.174.215.231
+localhost.usx.edu.cn.	86400	IN	A	127.0.0.1
+ltshufa.usx.edu.cn.	86400	IN	A	61.174.215.231
+ltxc.usx.edu.cn.	86400	IN	A	61.174.215.231
+lzw.usx.edu.cn.		86400	IN	A	61.174.215.231
+mail.usx.edu.cn.	86400	IN	CNAME	210.33.24.1.usx.edu.cn.
+mailgt.usx.edu.cn.	86400	IN	A	210.33.24.3
+match.usx.edu.cn.	86400	IN	A	61.174.215.231
+medical.usx.edu.cn.	86400	IN	A	61.174.215.231
+meishu.usx.edu.cn.	86400	IN	A	61.174.215.231
+mlib.usx.edu.cn.	86400	IN	A	61.174.215.237
+mpic.usx.edu.cn.	86400	IN	A	210.33.24.7
+oa.usx.edu.cn.		86400	IN	A	121.192.20.164
+office.usx.edu.cn.	86400	IN	A	61.174.215.231
+opac.usx.edu.cn.	86400	IN	A	61.174.215.238
+phyeie.usx.edu.cn.	86400	IN	A	210.33.24.7
+phylab.usx.edu.cn.	86400	IN	A	210.33.24.7
+rsc.usx.edu.cn.		86400	IN	A	61.174.215.231
+rwxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+sfjxcg.usx.edu.cn.	86400	IN	A	61.174.215.231
+sso.usx.edu.cn.		86400	IN	A	121.192.20.131
+ste.usx.edu.cn.		86400	IN	A	61.174.215.231
+sxwlxh.usx.edu.cn.	86400	IN	A	61.174.215.231
+tfc.usx.edu.cn.		86400	IN	A	61.174.215.231
+tg.usx.edu.cn.		86400	IN	A	210.33.24.46
+tmgcxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+txgzcx.usx.edu.cn.	86400	IN	A	61.174.215.231
+tyxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+usxchem.usx.edu.cn.	86400	IN	A	210.33.24.7
+vpn.usx.edu.cn.		86400	IN	A	61.174.215.229
+wenku.usx.edu.cn.	86400	IN	A	61.174.215.238
+wgyxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+wlhq.usx.edu.cn.	86400	IN	A	61.174.215.233
+wlxb.usx.edu.cn.	86400	IN	A	210.33.24.46
+www.ws.usx.edu.cn.	86400	IN	A	61.174.215.236
+wsc.usx.edu.cn.		86400	IN	A	61.174.215.231
+www.usx.edu.cn.		86400	IN	A	61.174.215.231
+xgb.usx.edu.cn.		86400	IN	A	61.174.215.231
+xny.usx.edu.cn.		86400	IN	A	61.174.215.231
+xyh.usx.edu.cn.		86400	IN	A	61.174.215.231
+yingxin.usx.edu.cn.	86400	IN	A	61.174.215.234
+yjsc.usx.edu.cn.	86400	IN	A	61.174.215.231
+youth.usx.edu.cn.	86400	IN	A	61.174.215.231
+ypcol.usx.edu.cn.	86400	IN	A	61.174.215.232
+yplib.usx.edu.cn.	86400	IN	A	61.174.215.231
+ytgc.usx.edu.cn.	86400	IN	A	210.33.24.7
+yyxy.usx.edu.cn.	86400	IN	A	61.174.215.231
+yzw.usx.edu.cn.		86400	IN	A	61.174.215.231
+zcsb.usx.edu.cn.	86400	IN	A	61.174.215.231
+zlgc.usx.edu.cn.	86400	IN	A	61.174.215.231
+zs.usx.edu.cn.		86400	IN	A	61.174.215.231
+zsgl.usx.edu.cn.	86400	IN	A	61.174.215.234
+zwc.usx.edu.cn.		86400	IN	A	61.174.215.236
+zzb.usx.edu.cn.		86400	IN	A	61.174.215.236
+usx.edu.cn.		86400	IN	SOA	dns.usx.edu.cn. master.usx.edu.cn. 2015021402 10800 3600 1209600 1800
+;; Query time: 6 msec
+;; SERVER: 210.33.24.2#53(210.33.24.2)
+;; WHEN: Mon Feb 16 23:21:57 2015
+;; XFR size: 93 records (messages 1, bytes 2139)
+

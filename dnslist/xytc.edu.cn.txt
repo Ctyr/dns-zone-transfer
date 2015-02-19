@@ -1,0 +1,39 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr xytc.edu.cn @dns.xytc.edu.cn.
+;; global options: +cmd
+xytc.edu.cn.		86400	IN	SOA	xytc.edu.cn. root.xytc.edu.cn. 2014121110 28800 14400 3600000 86400
+xytc.edu.cn.		86400	IN	NS	dns.xytc.edu.cn.
+xytc.edu.cn.		86400	IN	NS	dns2.xytc.edu.cn.
+xytc.edu.cn.		86400	IN	MX	10 mail.xytc.edu.cn.
+xytc.edu.cn.		86400	IN	MX	20 mail2.xytc.edu.cn.
+cwc.xytc.edu.cn.	86400	IN	A	210.43.27.44
+dns.xytc.edu.cn.	86400	IN	A	210.43.24.2
+ecard.xytc.edu.cn.	86400	IN	A	210.43.24.162
+englishonline.xytc.edu.cn. 86400 IN	A	210.43.25.30
+ftp.xytc.edu.cn.	86400	IN	A	210.43.24.48
+ghc.xytc.edu.cn.	86400	IN	A	210.43.24.226
+jmw.xytc.edu.cn.	86400	IN	A	218.28.229.54
+job.xytc.edu.cn.	86400	IN	A	210.43.24.226
+journal.xytc.edu.cn.	86400	IN	CNAME	xb.xytc.edu.cn.
+jwc.xytc.edu.cn.	86400	IN	A	218.28.229.53
+kyc.xytc.edu.cn.	86400	IN	A	210.43.27.206
+mail.xytc.edu.cn.	86400	IN	A	210.43.24.63
+music.xytc.edu.cn.	86400	IN	A	210.43.24.17
+portal.xytc.edu.cn.	86400	IN	A	210.43.24.171
+tsg.xytc.edu.cn.	86400	IN	A	222.21.62.169
+vod.xytc.edu.cn.	86400	IN	A	210.43.24.16
+www.xytc.edu.cn.	86400	IN	A	218.28.229.51
+www2.xytc.edu.cn.	86400	IN	A	218.28.229.52
+xb.xytc.edu.cn.		86400	IN	A	210.43.24.58
+xy.xytc.edu.cn.		86400	IN	A	210.43.24.226
+zc.xytc.edu.cn.		86400	IN	A	210.43.24.226
+zcc.xytc.edu.cn.	86400	IN	A	210.43.27.110
+znzg.xytc.edu.cn.	86400	IN	A	210.43.24.225
+zs.xytc.edu.cn.		86400	IN	A	210.43.24.226
+zsjy.xytc.edu.cn.	86400	IN	A	210.43.24.226
+xytc.edu.cn.		86400	IN	SOA	xytc.edu.cn. root.xytc.edu.cn. 2014121110 28800 14400 3600000 86400
+;; Query time: 43 msec
+;; SERVER: 210.43.24.2#53(210.43.24.2)
+;; WHEN: Mon Feb 16 23:22:02 2015
+;; XFR size: 31 records (messages 1, bytes 696)
+

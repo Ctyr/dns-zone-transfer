@@ -1,0 +1,63 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr cwu.edu.cn @dns.cwu.edu.cn.
+;; global options: +cmd
+cwu.edu.cn.		3600	IN	SOA	dns.cwu.edu.cn. root.cwu.edu.cn. 2014110602 30 30 360 3600
+cwu.edu.cn.		3600	IN	NS	dns.cwu.edu.cn.
+cwu.edu.cn.		3600	IN	NS	dns1.cwu.edu.cn.
+cwu.edu.cn.		3600	IN	MX	10 mail.cwu.edu.cn.
+antiv.cwu.edu.cn.	3600	IN	A	114.247.92.178
+chyjy.cwu.edu.cn.	3600	IN	A	219.242.24.24
+cxzy.cwu.edu.cn.	3600	IN	A	114.247.92.179
+da.cwu.edu.cn.		3600	IN	A	219.242.30.140
+dns.cwu.edu.cn.		3600	IN	A	114.247.92.136
+dns.cwu.edu.cn.		3600	IN	A	219.242.28.136
+dns1.cwu.edu.cn.	3600	IN	A	114.247.92.136
+f5.cwu.edu.cn.		3600	IN	NS	f5cnc.cwu.edu.cn.
+f5cnc.cwu.edu.cn.	3600	IN	A	61.148.56.122
+f5dxt.cwu.edu.cn.	3600	IN	A	124.193.108.66
+f5edu.cwu.edu.cn.	3600	IN	A	219.242.31.2
+ftp.cwu.edu.cn.		3600	IN	A	219.242.28.54
+fyyy.cwu.edu.cn.	3600	IN	A	219.242.28.27
+jsj.cwu.edu.cn.		3600	IN	A	219.242.24.208
+jw.cwu.edu.cn.		3600	IN	A	219.242.28.144
+jx.cwu.edu.cn.		3600	IN	A	219.242.28.145
+jy.cwu.edu.cn.		3600	IN	A	114.247.92.203
+kms.cwu.edu.cn.		3600	IN	A	114.247.92.195
+lotus.cwu.edu.cn.	3600	IN	A	114.247.92.164
+mail.cwu.edu.cn.	3600	IN	A	114.247.92.132
+moodle.cwu.edu.cn.	3600	IN	A	114.247.92.176
+nhce.cwu.edu.cn.	3600	IN	A	219.242.28.141
+portal.cwu.edu.cn.	3600	IN	A	219.242.28.130
+px.cwu.edu.cn.		3600	IN	A	114.247.92.191
+rd.cwu.edu.cn.		3600	IN	A	114.247.92.180
+sj.cwu.edu.cn.		3600	IN	A	219.242.28.153
+soft.cwu.edu.cn.	3600	IN	A	114.247.92.194
+sqls.cwu.edu.cn.	3600	IN	A	219.242.28.134
+sslvpn.cwu.edu.cn.	3600	IN	A	114.247.92.160
+stu.cwu.edu.cn.		3600	IN	A	114.247.92.167
+szwy.cwu.edu.cn.	3600	IN	A	114.247.92.174
+topvpn.cwu.edu.cn.	3600	IN	A	114.247.92.160
+tv.cwu.edu.cn.		3600	IN	A	114.247.92.186
+urp-data.cwu.edu.cn.	3600	IN	A	219.242.28.28
+vpn.cwu.edu.cn.		3600	IN	A	219.242.28.152
+wlfw.cwu.edu.cn.	3600	IN	A	114.247.92.200
+wlxt.cwu.edu.cn.	3600	IN	A	219.242.28.140
+wsus.cwu.edu.cn.	3600	IN	A	114.247.92.196
+www.cwu.edu.cn.		3600	IN	A	114.247.92.133
+wyera.cwu.edu.cn.	3600	IN	A	219.242.28.142
+wyzyk.cwu.edu.cn.	3600	IN	A	219.242.28.40
+xl.cwu.edu.cn.		3600	IN	A	114.247.92.192
+xlxt.cwu.edu.cn.	3600	IN	A	219.242.28.146
+xy.cwu.edu.cn.		3600	IN	A	114.247.92.175
+xymis.cwu.edu.cn.	3600	IN	A	114.247.92.176
+yjs.cwu.edu.cn.		3600	IN	A	219.242.28.163
+yjsmis.cwu.edu.cn.	3600	IN	AAAA	2001:da8:25f:283::138
+yjsmis.cwu.edu.cn.	3600	IN	A	219.242.28.138
+yx.cwu.edu.cn.		3600	IN	A	114.247.92.167
+zhaosheng.cwu.edu.cn.	3600	IN	A	114.247.92.167
+cwu.edu.cn.		3600	IN	SOA	dns.cwu.edu.cn. root.cwu.edu.cn. 2014110602 30 30 360 3600
+;; Query time: 53 msec
+;; SERVER: 219.242.28.136#53(219.242.28.136)
+;; WHEN: Mon Feb 16 23:21:42 2015
+;; XFR size: 55 records (messages 1, bytes 1195)
+

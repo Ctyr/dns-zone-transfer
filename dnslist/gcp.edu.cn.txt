@@ -1,0 +1,149 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr gcp.edu.cn @dns2.gcp.edu.cn.
+;; global options: +cmd
+gcp.edu.cn.		3600	IN	SOA	dns1.gcp.edu.cn. root.gcp.edu.cn. 2015012602 30 30 360 3600
+gcp.edu.cn.		3600	IN	NS	dns1.gcp.edu.cn.
+gcp.edu.cn.		3600	IN	NS	dns2.gcp.edu.cn.
+gcp.edu.cn.		3600	IN	MX	5 mxbiz1.qq.com.
+gcp.edu.cn.		3600	IN	MX	10 mxbiz2.qq.com.
+ad.gcp.edu.cn.		3600	IN	A	219.222.224.180
+asp.gcp.edu.cn.		3600	IN	A	219.222.224.124
+bb.gcp.edu.cn.		3600	IN	A	219.222.224.63
+BE01.gcp.edu.cn.	3600	IN	A	219.222.244.233
+BE02.gcp.edu.cn.	3600	IN	A	219.222.244.234
+bill.gcp.edu.cn.	3600	IN	A	219.222.224.53
+bnb.gcp.edu.cn.		3600	IN	A	219.222.224.195
+card.gcp.edu.cn.	3600	IN	A	218.192.32.11
+cms.gcp.edu.cn.		3600	IN	A	219.222.224.4
+course.gcp.edu.cn.	3600	IN	A	219.222.224.17
+cs.gcp.edu.cn.		3600	IN	CNAME	hust.gcp.edu.cn.
+cwc.gcp.edu.cn.		3600	IN	A	219.222.224.52
+datacenter.gcp.edu.cn.	3600	IN	A	219.222.224.4
+db.gcp.edu.cn.		3600	IN	A	219.222.238.210
+dep.gcp.edu.cn.		3600	IN	A	219.222.224.22
+dj.gcp.edu.cn.		3600	IN	A	219.222.224.84
+dns1.gcp.edu.cn.	3600	IN	A	219.222.224.1
+dns2.gcp.edu.cn.	3600	IN	A	219.222.224.2
+dr.gcp.edu.cn.		3600	IN	A	219.222.224.96
+exmail.gcp.edu.cn.	3600	IN	A	219.222.224.89
+gailun.gcp.edu.cn.	3600	IN	CNAME	asp.gcp.edu.cn.
+guoxue.gcp.edu.cn.	3600	IN	A	219.222.224.124
+gzlearn.gcp.edu.cn.	3600	IN	A	219.222.244.64
+gzsj.gcp.edu.cn.	3600	IN	CNAME	hust.gcp.edu.cn.
+hqc.gcp.edu.cn.		3600	IN	A	219.222.224.60
+hrm.gcp.edu.cn.		3600	IN	A	219.222.224.4
+hust.gcp.edu.cn.	3600	IN	A	219.222.238.11
+ibm3650-1.gcp.edu.cn.	3600	IN	A	218.192.32.225
+ibm3650-2.gcp.edu.cn.	3600	IN	A	218.192.32.226
+ibmdp1.gcp.edu.cn.	3600	IN	A	219.222.244.1
+ibmdp10.gcp.edu.cn.	3600	IN	A	219.222.244.19
+ibmdp11.gcp.edu.cn.	3600	IN	A	219.222.244.21
+ibmdp12.gcp.edu.cn.	3600	IN	A	219.222.244.23
+ibmdp13.gcp.edu.cn.	3600	IN	A	219.222.244.25
+ibmdp14.gcp.edu.cn.	3600	IN	A	219.222.244.27
+ibmdp3.gcp.edu.cn.	3600	IN	A	219.222.244.5
+ibmdp4.gcp.edu.cn.	3600	IN	A	219.222.244.7
+ibmdp5.gcp.edu.cn.	3600	IN	A	219.222.244.9
+ibmdp6.gcp.edu.cn.	3600	IN	A	219.222.244.11
+ibmdp7.gcp.edu.cn.	3600	IN	A	219.222.244.13
+ibmdp8.gcp.edu.cn.	3600	IN	A	219.222.244.15
+ibmdp9.gcp.edu.cn.	3600	IN	A	219.222.244.17
+imap.gcp.edu.cn.	3600	IN	CNAME	imap.exmail.qq.com.
+info.gcp.edu.cn.	3600	IN	A	219.222.224.41
+insidedns.gcp.edu.cn.	3600	IN	A	59.41.108.131
+ism.gcp.edu.cn.		3600	IN	A	219.222.224.3
+jmx.gcp.edu.cn.		3600	IN	A	219.222.224.46
+jpkc.gcp.edu.cn.	3600	IN	A	219.222.224.55
+jpkc2.gcp.edu.cn.	3600	IN	A	219.222.224.55
+jpkca.gcp.edu.cn.	3600	IN	A	219.222.224.40
+jwb.gcp.edu.cn.		3600	IN	A	219.222.224.44
+jwc.gcp.edu.cn.		3600	IN	A	219.222.224.51
+jwcdgsx.gcp.edu.cn.	3600	IN	A	219.222.224.45
+jwcjw.gcp.edu.cn.	3600	IN	A	219.222.224.32
+jy.gcp.edu.cn.		3600	IN	A	219.222.224.4
+jy2.gcp.edu.cn.		3600	IN	A	219.222.224.10
+jyht.gcp.edu.cn.	3600	IN	A	219.222.224.10
+kav.gcp.edu.cn.		3600	IN	A	219.222.224.37
+kjzx.gcp.edu.cn.	3600	IN	A	219.222.224.47
+ldap1.gcp.edu.cn.	3600	IN	A	219.222.224.5
+lib.gcp.edu.cn.		3600	IN	A	219.222.225.37
+wap.lib.gcp.edu.cn.	3600	IN	A	219.222.225.8
+lyg.gcp.edu.cn.		3600	IN	A	219.222.224.57
+m.gcp.edu.cn.		3600	IN	A	219.222.224.8
+mail.gcp.edu.cn.	3600	IN	CNAME	exmail.qq.com.
+m.mail.gcp.edu.cn.	3600	IN	CNAME	exmail.gcp.edu.cn.
+matrix.gcp.edu.cn.	3600	IN	A	219.222.224.7
+my.gcp.edu.cn.		3600	IN	A	219.222.224.4
+my2.gcp.edu.cn.		3600	IN	A	219.222.224.4
+ndisk.gcp.edu.cn.	3600	IN	A	219.222.224.23
+net.gcp.edu.cn.		3600	IN	A	219.222.224.53
+netdisk.gcp.edu.cn.	3600	IN	A	219.222.224.23
+netkuu.gcp.edu.cn.	3600	IN	A	219.222.244.53
+oa.gcp.edu.cn.		3600	IN	A	219.222.224.21
+oa2.gcp.edu.cn.		3600	IN	A	219.222.224.33
+pg.gcp.edu.cn.		3600	IN	A	219.222.224.11
+pg2.gcp.edu.cn.		3600	IN	A	219.222.224.11
+pop.gcp.edu.cn.		3600	IN	CNAME	pop.exmail.qq.com.
+project.gcp.edu.cn.	3600	IN	A	219.222.244.237
+publish.gcp.edu.cn.	3600	IN	A	219.222.224.4
+rsc.gcp.edu.cn.		3600	IN	A	219.222.224.42
+rtx.gcp.edu.cn.		3600	IN	A	219.222.224.38
+rwst.gcp.edu.cn.	3600	IN	A	219.222.224.18
+s.gcp.edu.cn.		3600	IN	MX	5 mxbiz1.qq.com.
+s.gcp.edu.cn.		3600	IN	MX	10 mxbiz2.qq.com.
+imap.s.gcp.edu.cn.	3600	IN	CNAME	imap.exmail.qq.com.
+mail.s.gcp.edu.cn.	3600	IN	CNAME	exmail.qq.com.
+pop.s.gcp.edu.cn.	3600	IN	CNAME	pop.exmail.qq.com.
+smtp.s.gcp.edu.cn.	3600	IN	CNAME	smtp.exmail.qq.com.
+sam.gcp.edu.cn.		3600	IN	A	10.1.129.253
+scedu.gcp.edu.cn.	3600	IN	A	219.222.244.64
+security.gcp.edu.cn.	3600	IN	A	219.222.224.3
+shekebu.gcp.edu.cn.	3600	IN	A	219.222.224.61
+shipin.gcp.edu.cn.	3600	IN	CNAME	www.gcp.edu.cn.
+siteview.gcp.edu.cn.	3600	IN	A	219.222.224.14
+sms.gcp.edu.cn.		3600	IN	A	219.222.224.4
+smtp.gcp.edu.cn.	3600	IN	CNAME	smtp.exmail.qq.com.
+smx.gcp.edu.cn.		3600	IN	A	219.222.224.71
+spx.gcp.edu.cn.		3600	IN	A	219.222.224.43
+sq.gcp.edu.cn.		3600	IN	A	219.222.224.86
+student.gcp.edu.cn.	3600	IN	A	219.222.224.5
+study.gcp.edu.cn.	3600	IN	A	219.222.224.30
+svr.gcp.edu.cn.		3600	IN	A	219.222.224.87
+svr2.gcp.edu.cn.	3600	IN	A	219.222.224.89
+tv.gcp.edu.cn.		3600	IN	A	219.222.224.101
+tw.gcp.edu.cn.		3600	IN	A	219.222.224.49
+ucenter.gcp.edu.cn.	3600	IN	A	219.222.224.4
+v.gcp.edu.cn.		3600	IN	MX	5 mxbiz1.qq.com.
+v.gcp.edu.cn.		3600	IN	MX	10 mxbiz2.qq.com.
+imap.v.gcp.edu.cn.	3600	IN	CNAME	imap.exmail.qq.com.
+mail.v.gcp.edu.cn.	3600	IN	CNAME	exmail.qq.com.
+pop.v.gcp.edu.cn.	3600	IN	CNAME	pop.exmail.qq.com.
+smtp.v.gcp.edu.cn.	3600	IN	CNAME	smtp.exmail.qq.com.
+vcenter.gcp.edu.cn.	3600	IN	A	219.222.244.1
+vm1.gcp.edu.cn.		3600	IN	A	219.222.224.110
+vm2.gcp.edu.cn.		3600	IN	A	219.222.224.112
+vm4.gcp.edu.cn.		3600	IN	A	219.222.224.25
+vm5.gcp.edu.cn.		3600	IN	A	219.222.224.67
+vm6.gcp.edu.cn.		3600	IN	A	219.222.224.68
+vm7.gcp.edu.cn.		3600	IN	A	219.222.224.29
+vod.gcp.edu.cn.		3600	IN	A	219.222.224.54
+weixin.gcp.edu.cn.	3600	IN	A	219.222.224.9
+wsapp.gcp.edu.cn.	3600	IN	A	219.222.244.72
+wsim.gcp.edu.cn.	3600	IN	A	219.222.244.71
+wsms.gcp.edu.cn.	3600	IN	A	219.222.244.70
+www.gcp.edu.cn.		3600	IN	A	219.222.224.66
+xiaoyou.gcp.edu.cn.	3600	IN	A	219.222.224.94
+xinli.gcp.edu.cn.	3600	IN	A	219.222.224.62
+xs.gcp.edu.cn.		3600	IN	CNAME	jyht.gcp.edu.cn.
+xsht.gcp.edu.cn.	3600	IN	CNAME	jyht.gcp.edu.cn.
+yb.gcp.edu.cn.		3600	IN	A	219.222.224.50
+ypw.gcp.edu.cn.		3600	IN	A	219.222.224.69
+yx.gcp.edu.cn.		3600	IN	A	219.222.224.83
+zs.gcp.edu.cn.		3600	IN	A	219.222.224.59
+zsbm.gcp.edu.cn.	3600	IN	A	219.222.224.94
+gcp.edu.cn.		3600	IN	SOA	dns1.gcp.edu.cn. root.gcp.edu.cn. 2015012602 30 30 360 3600
+;; Query time: 59 msec
+;; SERVER: 219.222.224.2#53(219.222.224.2)
+;; WHEN: Mon Feb 16 23:22:04 2015
+;; XFR size: 141 records (messages 1, bytes 3023)
+

@@ -1,0 +1,80 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hdc.edu.cn @dns1.hdc.edu.cn.
+;; global options: +cmd
+hdc.edu.cn.		3600	IN	SOA	dns1.hdc.edu.cn. hostmaster. 103 900 600 86400 3600
+hdc.edu.cn.		3600	IN	NS	dns1.hdc.edu.cn.
+hdc.edu.cn.		3600	IN	MX	5 mxbiz1.qq.com.
+hdc.edu.cn.		3600	IN	MX	10 mxbiz2.qq.com.
+*.hdc.edu.cn.		3600	IN	A	211.82.200.5
+bgs.hdc.edu.cn.		3600	IN	A	211.82.200.22
+bwc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+cmxy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+cwc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+dfyjy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+dlly.hdc.edu.cn.	3600	IN	A	211.82.200.22
+dns1.hdc.edu.cn.	3600	IN	A	211.82.200.60
+elearning.hdc.edu.cn.	3600	IN	A	211.82.207.155
+email.hdc.edu.cn.	3600	IN	MX	5 mxbiz1.qq.com.
+email.hdc.edu.cn.	3600	IN	MX	10 mxbiz2.qq.com.
+mail.email.hdc.edu.cn.	3600	IN	CNAME	exmail.qq.com.
+fgc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+fzx.hdc.edu.cn.		3600	IN	A	211.82.200.22
+gate.hdc.edu.cn.	3600	IN	A	211.82.200.22
+gh.hdc.edu.cn.		3600	IN	A	211.82.200.22
+gqt.hdc.edu.cn.		3600	IN	A	211.82.200.22
+gzc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+hdxyxb.hdc.edu.cn.	3600	IN	A	211.82.200.22
+hqc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+hqm.hdc.edu.cn.		3600	IN	A	211.82.200.22
+hxxy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jkzd.hdc.edu.cn.	3600	IN	A	211.82.200.23
+jlzx.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jpk.hdc.edu.cn.		3600	IN	A	211.82.200.7
+jw.hdc.edu.cn.		3600	IN	A	211.82.200.22
+jwc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+jxcg.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jxjy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jysj.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jyxx.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jyxy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+jyyjs.hdc.edu.cn.	3600	IN	A	211.82.200.22
+keshuocollege.hdc.edu.cn. 3600	IN	A	211.82.200.22
+kfzx.hdc.edu.cn.	3600	IN	A	211.82.200.22
+kj.hdc.edu.cn.		3600	IN	A	221.193.217.56
+kyc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+lsx.hdc.edu.cn.		3600	IN	A	211.82.200.22
+mail.hdc.edu.cn.	3600	IN	CNAME	exmail.qq.com.
+mao.hdc.edu.cn.		3600	IN	A	211.82.200.22
+portal.hdc.edu.cn.	3600	IN	A	211.82.207.26
+rjxy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+rsc.hdc.edu.cn.		3600	IN	A	211.82.200.22
+skb.hdc.edu.cn.		3600	IN	A	211.82.200.22
+soft.hdc.edu.cn.	3600	IN	A	211.82.200.215
+swkx.hdc.edu.cn.	3600	IN	A	211.82.200.22
+sxx.hdc.edu.cn.		3600	IN	A	211.82.200.22
+sxzx.hdc.edu.cn.	3600	IN	A	211.82.200.22
+sycenter.hdc.edu.cn.	3600	IN	A	211.82.201.118
+taiji.hdc.edu.cn.	3600	IN	A	211.82.200.25
+tsg.hdc.edu.cn.		3600	IN	A	211.82.200.22
+tyxy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+vod.hdc.edu.cn.		3600	IN	A	211.82.200.63
+wgy.hdc.edu.cn.		3600	IN	A	211.82.200.22
+wldq.hdc.edu.cn.	3600	IN	A	211.82.200.22
+wsxy.hdc.edu.cn.	3600	IN	A	211.82.200.22
+www.hdc.edu.cn.		3600	IN	A	211.82.200.5
+xb.hdc.edu.cn.		3600	IN	A	211.82.200.22
+xbgl.hdc.edu.cn.	3600	IN	A	211.82.200.6
+xcb.hdc.edu.cn.		3600	IN	A	211.82.200.22
+xgb.hdc.edu.cn.		3600	IN	A	211.82.200.22
+xxgc.hdc.edu.cn.	3600	IN	A	211.82.200.22
+yanyi.hdc.edu.cn.	3600	IN	A	211.82.200.22
+yscm.hdc.edu.cn.	3600	IN	A	211.82.200.22
+zljk.hdc.edu.cn.	3600	IN	A	211.82.200.22
+zsxx.hdc.edu.cn.	3600	IN	A	211.82.200.22
+zzb.hdc.edu.cn.		3600	IN	A	211.82.200.22
+hdc.edu.cn.		3600	IN	SOA	dns1.hdc.edu.cn. hostmaster. 103 900 600 86400 3600
+;; Query time: 45 msec
+;; SERVER: 211.82.200.60#53(211.82.200.60)
+;; WHEN: Mon Feb 16 23:21:42 2015
+;; XFR size: 72 records (messages 1, bytes 1573)
+

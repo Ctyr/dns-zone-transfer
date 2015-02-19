@@ -1,0 +1,81 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr tjut.edu.cn @dns1.tjut.edu.cn.
+;; global options: +cmd
+tjut.edu.cn.		3600	IN	SOA	dns1.tjut.edu.cn. hostmaster. 179 900 600 86400 3600
+tjut.edu.cn.		3600	IN	NS	dns1.tjut.edu.cn.
+tjut.edu.cn.		3600	IN	NS	dns.tjut.edu.cn.
+tjut.edu.cn.		3600	IN	MX	10 mail.tjut.edu.cn.
+acm.tjut.edu.cn.	3600	IN	A	59.67.152.15
+ccs.tjut.edu.cn.	3600	IN	A	59.67.148.197
+ccs.tjut.edu.cn.	3600	IN	A	59.67.148.196
+chinasecedu2012.tjut.edu.cn. 3600 IN	A	59.67.152.66
+cs.tjut.edu.cn.		3600	IN	A	59.67.152.3
+dns.tjut.edu.cn.	3600	IN	A	202.113.64.3
+dns1.tjut.edu.cn.	3600	IN	A	59.67.148.5
+dpstar.tjut.edu.cn.	3600	IN	A	59.67.148.196
+dpstar.tjut.edu.cn.	3600	IN	A	59.67.148.197
+eie.tjut.edu.cn.	3600	IN	A	202.113.64.27
+gaw.gw.tjut.edu.cn.	1200	IN	A	221.238.82.213
+gzc.tjut.edu.cn.	3600	IN	A	202.113.66.35
+hr.tjut.edu.cn.		3600	IN	A	59.67.148.196
+huagong.tjut.edu.cn.	3600	IN	A	202.113.64.27
+ids1.tjut.edu.cn.	3600	IN	A	59.67.148.197
+ids1.tjut.edu.cn.	3600	IN	A	59.67.148.196
+ids2.tjut.edu.cn.	3600	IN	A	59.67.148.196
+ids2.tjut.edu.cn.	3600	IN	A	59.67.148.197
+imp.tjut.edu.cn.	3600	IN	A	59.67.148.196
+imp.tjut.edu.cn.	3600	IN	A	59.67.148.197
+it.tjut.edu.cn.		3600	IN	A	59.67.148.10
+itil.tjut.edu.cn.	3600	IN	A	59.67.148.197
+itil.tjut.edu.cn.	3600	IN	A	59.67.148.196
+jijian.tjut.edu.cn.	3600	IN	A	202.113.64.27
+tjut-8stj0hmo93.jsj505.tjut.edu.cn. 1200 IN A	59.67.152.63
+jw.tjut.edu.cn.		3600	IN	A	202.113.64.27
+jwgl.tjut.edu.cn.	3600	IN	A	59.67.148.201
+jwgl.tjut.edu.cn.	3600	IN	A	59.67.148.202
+jwgl.tjut.edu.cn.	3600	IN	A	59.67.148.195
+jyzx.tjut.edu.cn.	3600	IN	A	59.67.148.65
+kczx.tjut.edu.cn.	3600	IN	A	59.67.148.86
+lib.tjut.edu.cn.	3600	IN	A	202.113.68.3
+lxy.tjut.edu.cn.	3600	IN	A	202.113.64.27
+mail.tjut.edu.cn.	3600	IN	A	59.67.148.8
+ms.tjut.edu.cn.		3600	IN	A	59.67.157.162
+my.tjut.edu.cn.		3600	IN	A	59.67.148.196
+my.tjut.edu.cn.		3600	IN	A	59.67.148.197
+news.tjut.edu.cn.	3600	IN	A	202.113.64.27
+org.tjut.edu.cn.	3600	IN	A	202.113.65.230
+*.org.tjut.edu.cn.	3600	IN	A	202.113.65.230
+pay.tjut.edu.cn.	3600	IN	A	59.67.148.196
+pay.tjut.edu.cn.	3600	IN	A	59.67.148.197
+portal.tjut.edu.cn.	3600	IN	A	59.67.148.196
+portal.tjut.edu.cn.	3600	IN	A	59.67.148.197
+rzjf.tjut.edu.cn.	3600	IN	A	192.168.9.2
+shadu.tjut.edu.cn.	3600	IN	A	59.67.148.6
+ssfw.tjut.edu.cn.	3600	IN	A	59.67.148.201
+ssfw.tjut.edu.cn.	3600	IN	A	59.67.148.195
+study.tjut.edu.cn.	3600	IN	A	59.67.152.62
+wlrz.tjut.edu.cn.	3600	IN	A	192.168.9.2
+www.tjut.edu.cn.	3600	IN	A	202.113.64.2
+www1.tjut.edu.cn.	3600	IN	A	202.113.64.27
+xg.tjut.edu.cn.		3600	IN	A	59.67.148.196
+xg.tjut.edu.cn.		3600	IN	A	59.67.148.197
+xgb.tjut.edu.cn.	3600	IN	A	59.67.157.80
+xk.tjut.edu.cn.		3600	IN	A	59.67.148.201
+xk.tjut.edu.cn.		3600	IN	A	59.67.148.200
+xk.tjut.edu.cn.		3600	IN	A	59.67.148.202
+xk.tjut.edu.cn.		3600	IN	A	59.67.148.195
+xxs.tjut.edu.cn.	3600	IN	A	202.113.64.27
+yjs.tjut.edu.cn.	3600	IN	A	202.113.64.27
+yktcx.tjut.edu.cn.	3600	IN	A	59.67.148.40
+yktcz.tjut.edu.cn.	3600	IN	A	59.67.148.73
+zdh.tjut.edu.cn.	3600	IN	A	202.113.64.27
+zsb.tjut.edu.cn.	3600	IN	A	202.113.64.27
+zxzf.tjut.edu.cn.	3600	IN	A	202.113.66.34
+zzdy.tjut.edu.cn.	3600	IN	A	59.67.148.202
+zzdy.tjut.edu.cn.	3600	IN	A	59.67.148.200
+tjut.edu.cn.		3600	IN	SOA	dns1.tjut.edu.cn. hostmaster. 179 900 600 86400 3600
+;; Query time: 70 msec
+;; SERVER: 59.67.148.5#53(59.67.148.5)
+;; WHEN: Mon Feb 16 23:21:42 2015
+;; XFR size: 73 records (messages 73, bytes 3709)
+

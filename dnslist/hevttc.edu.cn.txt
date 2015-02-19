@@ -1,0 +1,57 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr hevttc.edu.cn @dns.hevttc.edu.cn.
+;; global options: +cmd
+hevttc.edu.cn.		86400	IN	SOA	dns1.hevttc.edu.cn. dns.hevttc.edu.cn. 42 10800 900 604800 86400
+hevttc.edu.cn.		86400	IN	NS	dns.hevttc.edu.cn.
+hevttc.edu.cn.		86400	IN	NS	dns1.hevttc.edu.cn.
+25.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+3w.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+bhm.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+card.hevttc.edu.cn.	86400	IN	A	121.22.25.45
+cgzx.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+cie.hevttc.edu.cn.	86400	IN	A	121.22.25.10
+cjxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+cs31.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+cuc.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+cwc.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+dkxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+dns.hevttc.edu.cn.	86400	IN	A	210.31.200.25
+dns1.hevttc.edu.cn.	86400	IN	A	210.31.200.25
+ecc.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+gsxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+hgxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+hqbx.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+hqny.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+jiuye.hevttc.edu.cn.	86400	IN	A	121.22.25.32
+jpkedu.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+jwc.hevttc.edu.cn.	86400	IN	A	121.22.25.5
+kjsyoa.hevttc.edu.cn.	86400	IN	A	121.22.25.30
+kyc.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+managers.hevttc.edu.cn.	86400	IN	A	121.22.25.10
+physics.hevttc.edu.cn.	86400	IN	A	121.22.25.10
+pinggu.hevttc.edu.cn.	86400	IN	A	121.22.25.13
+qhdedu.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+spxy.hevttc.edu.cn.	86400	IN	A	121.22.25.10
+sxxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+test.hevttc.edu.cn.	86400	IN	A	121.22.25.9
+tyxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+vpn2.hevttc.edu.cn.	86400	IN	A	121.22.25.18
+w2.hevttc.edu.cn.	86400	IN	A	121.22.25.8
+w3.hevttc.edu.cn.	86400	IN	A	121.22.25.10
+w4.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+wfxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+wine.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+wlx.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+wlzx.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+www.hevttc.edu.cn.	86400	IN	A	121.22.25.10
+www2.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+wyxy.hevttc.edu.cn.	86400	IN	A	121.22.25.7
+xctzb.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+yfzdsys.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+yjsc.hevttc.edu.cn.	86400	IN	A	121.22.25.21
+hevttc.edu.cn.		86400	IN	SOA	dns1.hevttc.edu.cn. dns.hevttc.edu.cn. 42 10800 900 604800 86400
+;; Query time: 39 msec
+;; SERVER: 210.31.200.25#53(210.31.200.25)
+;; WHEN: Mon Feb 16 23:21:43 2015
+;; XFR size: 49 records (messages 1, bytes 1076)
+

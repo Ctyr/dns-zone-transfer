@@ -1,0 +1,61 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr sandau.edu.cn @sdns1.sandau.edu.cn.
+;; global options: +cmd
+sandau.edu.cn.		38400	IN	SOA	sdns1.sandau.edu.cn. lee_qi.163.com. 1279179837 10800 3600 604800 38400
+sandau.edu.cn.		38400	IN	TXT	"v=spf1 a mx ptr ip4:202.121.168.0/24 all"
+sandau.edu.cn.		38400	IN	NS	sdns1.sandau.edu.cn.
+sandau.edu.cn.		38400	IN	MX	10 rass.sandau.edu.cn.
+anliku.sandau.edu.cn.	38400	IN	A	112.65.178.199
+biz.sandau.edu.cn.	38400	IN	A	202.121.168.5
+career.sandau.edu.cn.	38400	IN	A	202.121.174.100
+cs.sandau.edu.cn.	38400	IN	A	202.121.175.110
+dangan.sandau.edu.cn.	38400	IN	A	202.121.168.30
+dangan.sandau.edu.cn.	38400	IN	A	202.121.174.89
+dns.sandau.edu.cn.	38400	IN	CNAME	sdns1.sandau.edu.cn.
+dpstar.sandau.edu.cn.	38400	IN	A	112.65.178.200
+ecampus.sandau.edu.cn.	38400	IN	A	202.121.174.85
+edu.sandau.edu.cn.	38400	IN	A	202.121.168.25
+el.sandau.edu.cn.	38400	IN	A	202.121.175.120
+elib.sandau.edu.cn.	38400	IN	A	202.121.168.16
+ftp.sandau.edu.cn.	38400	IN	A	202.121.174.81
+grad.sandau.edu.cn.	38400	IN	A	202.121.174.98
+idp.sandau.edu.cn.	38400	IN	A	202.121.168.45
+ids.sandau.edu.cn.	38400	IN	A	202.121.174.26
+ids1.sandau.edu.cn.	38400	IN	A	202.121.174.25
+ids2.sandau.edu.cn.	38400	IN	A	202.121.174.26
+imp.sandau.edu.cn.	38400	IN	A	112.65.178.200
+jw.sandau.edu.cn.	38400	IN	A	202.121.174.91
+jwgl.sandau.edu.cn.	38400	IN	A	202.121.168.25
+ldap.sandau.edu.cn.	38400	IN	A	202.121.168.46
+lib.sandau.edu.cn.	38400	IN	A	202.121.170.254
+log.sandau.edu.cn.	38400	IN	A	192.168.200.5
+mail.sandau.edu.cn.	38400	IN	A	202.121.168.19
+Mcp.sandau.edu.cn.	38400	IN	A	202.121.174.85
+Mcpf.sandau.edu.cn.	38400	IN	A	202.121.174.85
+Mcpm.sandau.edu.cn.	38400	IN	A	202.121.174.85
+message.sandau.edu.cn.	38400	IN	A	112.65.178.212
+metc.sandau.edu.cn.	38400	IN	A	202.121.168.10
+moodle.sandau.edu.cn.	38400	IN	A	202.121.168.30
+my.sandau.edu.cn.	38400	IN	A	112.65.178.200
+my.sandau.edu.cn.	38400	IN	A	202.121.174.21
+newoa.sandau.edu.cn.	38400	IN	A	202.121.174.22
+rass.sandau.edu.cn.	38400	IN	A	202.121.168.19
+sdns1.sandau.edu.cn.	38400	IN	A	202.121.168.1
+sdspsd.sandau.edu.cn.	38400	IN	A	172.16.2.10
+sducc.sandau.edu.cn.	38400	IN	A	112.65.178.202
+service.sandau.edu.cn.	38400	IN	A	202.121.168.50
+soezlms.sandau.edu.cn.	38400	IN	A	192.168.52.210
+web.sandau.edu.cn.	38400	IN	A	202.121.175.110
+webplus.sandau.edu.cn.	38400	IN	A	202.121.168.9
+welcome.sandau.edu.cn.	38400	IN	A	202.107.232.163
+www.sandau.edu.cn.	38400	IN	A	112.65.178.196
+www.sandau.edu.cn.	38400	IN	A	202.121.174.82
+xsc.sandau.edu.cn.	38400	IN	A	202.121.174.97
+ykt.sandau.edu.cn.	38400	IN	A	202.121.168.29
+zf.sandau.edu.cn.	38400	IN	A	202.121.168.38
+sandau.edu.cn.		38400	IN	SOA	sdns1.sandau.edu.cn. lee_qi.163.com. 1279179837 10800 3600 604800 38400
+;; Query time: 38 msec
+;; SERVER: 202.121.168.1#53(202.121.168.1)
+;; WHEN: Mon Feb 16 23:21:53 2015
+;; XFR size: 53 records (messages 1, bytes 1200)
+

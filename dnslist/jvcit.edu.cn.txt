@@ -1,0 +1,42 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr jvcit.edu.cn @dns1.jvcit.edu.cn.
+;; global options: +cmd
+jvcit.edu.cn.		86400	IN	SOA	dns1.jvcit.edu.cn. root.jvcit.edu.cn. 2015010702 150 200 4000 86400
+jvcit.edu.cn.		86400	IN	NS	dns1.jvcit.edu.cn.
+bgs.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+bwc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+cjxy.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+dns1.jvcit.edu.cn.	86400	IN	A	222.27.7.35
+gh.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+gjyjs.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+hgjxx.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+hqyzcglc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jcb.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jhcwc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jiuye.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jwbgs.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jwc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jxzlpgzx.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+kyc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+rsc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+sxy.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+szb.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+tsg.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+tw.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+www.jvcit.edu.cn.	86400	IN	A	222.168.145.228
+xcb.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+xqhzb.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+xsc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+xxzx.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+yyhg.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+yzfw.jvcit.edu.cn.	86400	IN	A	124.205.132.23
+zdh.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+zlaqx.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+zsjyc.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+zzb.jvcit.edu.cn.	86400	IN	A	222.168.145.227
+jvcit.edu.cn.		86400	IN	SOA	dns1.jvcit.edu.cn. root.jvcit.edu.cn. 2015010702 150 200 4000 86400
+;; Query time: 60 msec
+;; SERVER: 222.27.7.35#53(222.27.7.35)
+;; WHEN: Mon Feb 16 23:21:45 2015
+;; XFR size: 34 records (messages 1, bytes 770)
+

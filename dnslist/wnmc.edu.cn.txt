@@ -1,0 +1,78 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr wnmc.edu.cn @ljx.wnmc.edu.cn.
+;; global options: +cmd
+wnmc.edu.cn.		86400	IN	SOA	ljx.wnmc.edu.cn.wnmc.edu.cn. root.wnmc.edu.cn. 42 10800 900 604800 86400
+wnmc.edu.cn.		86400	IN	NS	ljx.wnmc.edu.cn.
+wnmc.edu.cn.		86400	IN	MX	0 mail.wnmc.edu.cn.
+125.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+90year.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+bgs.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+bwc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+chaxun.wnmc.edu.cn.	86400	IN	A	218.22.81.115
+cjy.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+dangan.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+data.wnmc.edu.cn.	86400	IN	A	192.168.5.95
+data.wnmc.edu.cn.	86400	IN	A	192.168.5.96
+data.wnmc.edu.cn.	86400	IN	A	192.168.5.97
+freshman.wnmc.edu.cn.	86400	IN	A	218.22.81.124
+fyxy.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+gonghui.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+gongkai.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+gzc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+hqc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+hrr.wnmc.edu.cn.	86400	IN	A	172.18.42.41
+hulixue.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+i.wnmc.edu.cn.		86400	IN	A	192.168.5.71
+jcb.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+jcxy.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+jiaowu.wnmc.edu.cn.	86400	IN	A	218.22.81.119
+jiuye.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+jpkc.wnmc.edu.cn.	86400	IN	A	218.22.81.118
+jw.wnmc.edu.cn.		86400	IN	A	218.22.81.117
+jwc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+kqyxy.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+kyc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+lib.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+ljx.wnmc.edu.cn.	86400	IN	A	210.45.48.55
+ltx.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+mail.wnmc.edu.cn.	86400	IN	A	218.22.81.113
+mzxy.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+nic.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+oa.wnmc.edu.cn.		86400	IN	A	192.168.5.140
+ph.wnmc.edu.cn.		86400	IN	A	218.22.81.117
+plat.wnmc.edu.cn.	86400	IN	A	218.22.81.121
+pop3.wnmc.edu.cn.	86400	IN	A	210.45.48.77
+rgx.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+rsc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+sjc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+skb.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+smtp.wnmc.edu.cn.	86400	IN	A	210.45.48.77
+tiaozhanbei.wnmc.edu.cn. 86400	IN	A	218.22.81.117
+tuanwei.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+volunteer.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+vpn.wnmc.edu.cn.	86400	IN	A	210.45.48.200
+waishi.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+web.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+www.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+www1.wnmc.edu.cn.	86400	IN	A	218.22.81.126
+www2.wnmc.edu.cn.	86400	IN	A	218.22.81.114
+wyeoa.wnmc.edu.cn.	86400	IN	A	210.45.48.245
+xcb.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+xsc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+yjs.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+yjxy.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+ytjx.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+yx2x.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+yxsx.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+yxx.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+yxyx.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+zhaopin.wnmc.edu.cn.	86400	IN	A	218.22.81.114
+zlgc.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+zsb.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+zzb.wnmc.edu.cn.	86400	IN	A	218.22.81.117
+wnmc.edu.cn.		86400	IN	SOA	ljx.wnmc.edu.cn.wnmc.edu.cn. root.wnmc.edu.cn. 42 10800 900 604800 86400
+;; Query time: 30 msec
+;; SERVER: 210.45.48.55#53(210.45.48.55)
+;; WHEN: Mon Feb 16 23:21:50 2015
+;; XFR size: 70 records (messages 1, bytes 1536)
+

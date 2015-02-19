@@ -1,0 +1,110 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr sxufe.edu.cn @dns.sxufe.edu.cn.
+;; global options: +cmd
+sxufe.edu.cn.		86400	IN	SOA	dns.sxufe.edu.cn. root.sxufe.edu.cn. 20030221 10800 3600 604800 86400
+sxufe.edu.cn.		86400	IN	NS	dns.sxufe.edu.cn.
+sxufe.edu.cn.		86400	IN	MX	5 mxbiz1.qq.com.
+sxufe.edu.cn.		86400	IN	MX	10 mxbiz2.qq.com.
+wgjjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+zyzx.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+gcgl.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+glx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+kyc.sxufe.edu.cn.	86400	IN	A	210.31.120.5
+yjs.sxufe.edu.cn.	86400	IN	A	210.31.120.29
+wlzx.sxufe.edu.cn.	86400	IN	A	218.26.35.37
+localhost.sxufe.edu.cn.	86400	IN	A	210.31.120.10
+paper.sxufe.edu.cn.	86400	IN	A	210.31.120.42
+tjfxsyzx.sxufe.edu.cn.	86400	IN	A	210.31.122.153
+gsgl.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+glkxkc.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+edoas.sxufe.edu.cn.	86400	IN	A	210.31.120.35
+dxsfw.sxufe.edu.cn.	86400	IN	A	218.26.35.42
+lygl.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+kjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+czjr.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+gjjl.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+mail.sxufe.edu.cn.	86400	IN	CNAME	dns.sxufe.edu.cn.
+jckjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+tjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+gljc.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+glkjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+info.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+gggl.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+hgjjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+syzx.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+jwc.sxufe.edu.cn.	86400	IN	A	210.31.120.31
+lgc.sxufe.edu.cn.	86400	IN	A	218.26.35.39
+cwc.sxufe.edu.cn.	86400	IN	A	210.31.114.125
+gjmyx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+web.sxufe.edu.cn.	86400	IN	A	210.31.120.9
+jjc.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+dag.sxufe.edu.cn.	86400	IN	A	218.26.35.37
+jjglsyzx.sxufe.edu.cn.	86400	IN	A	210.31.122.152
+dns.sxufe.edu.cn.	86400	IN	A	210.31.120.10
+jljjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+lib.sxufe.edu.cn.	86400	IN	A	210.31.115.211
+cwbbfx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+sjc.sxufe.edu.cn.	86400	IN	A	218.26.35.39
+kjxxxt.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+mpa.sxufe.edu.cn.	86400	IN	A	218.26.35.42
+tj.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+glkx.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+zjcwkj.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+mba.sxufe.edu.cn.	86400	IN	A	210.31.120.32
+jmwy.sxufe.edu.cn.	86400	IN	A	218.26.35.39
+gjmy.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+ghc.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+gh.sxufe.edu.cn.	86400	IN	A	218.26.35.39
+rsc.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+jjw.sxufe.edu.cn.	86400	IN	A	218.26.35.37
+zzb.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+tw.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+dbserver.sxufe.edu.cn.	86400	IN	A	210.31.120.10
+xygz.sxufe.edu.cn.	86400	IN	A	218.26.35.37
+ty.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+scdcyfx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+jsyjy.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+english.sxufe.edu.cn.	86400	IN	A	210.31.114.49
+sjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+sxdssme.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+zizhu.sxufe.edu.cn.	86400	IN	A	210.31.112.250
+hjjj.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+xb.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+hq.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+jgdw.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+office.sxufe.edu.cn.	86400	IN	A	210.31.122.129
+bwc.sxufe.edu.cn.	86400	IN	A	218.26.35.39
+bgs.sxufe.edu.cn.	86400	IN	A	210.31.120.28
+jj.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+xcb.sxufe.edu.cn.	86400	IN	A	218.26.35.39
+jxjy.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+zzjjx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+zyjs.sxufe.edu.cn.	86400	IN	A	218.26.35.37
+cpa.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+xkjs.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+jwglpub.sxufe.edu.cn.	86400	IN	A	210.31.122.189
+myjj.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+www.sxufe.edu.cn.	86400	IN	A	218.26.164.165
+kj.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+sxidd.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+gzg.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+sxph.sxufe.edu.cn.	86400	IN	A	210.31.115.129
+mkszy.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+jwgl.sxufe.edu.cn.	86400	IN	A	192.168.45.1
+ftp.sxufe.edu.cn.	86400	IN	A	210.31.120.10
+xsc.sxufe.edu.cn.	86400	IN	A	218.26.35.42
+zcc.sxufe.edu.cn.	86400	IN	A	218.26.35.41
+dwjl.sxufe.edu.cn.	86400	IN	A	218.26.35.40
+gjmysw.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+jiuye.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+xqgl.sxufe.edu.cn.	86400	IN	A	218.26.35.42
+whcb.sxufe.edu.cn.	86400	IN	A	218.26.35.36
+wygl.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+cwglx.sxufe.edu.cn.	86400	IN	A	210.31.120.33
+yysx.sxufe.edu.cn.	86400	IN	A	218.26.35.38
+sxufe.edu.cn.		86400	IN	SOA	dns.sxufe.edu.cn. root.sxufe.edu.cn. 20030221 10800 3600 604800 86400
+;; Query time: 84 msec
+;; SERVER: 210.31.120.10#53(210.31.120.10)
+;; WHEN: Mon Feb 16 23:21:43 2015
+;; XFR size: 102 records (messages 102, bytes 4664)
+

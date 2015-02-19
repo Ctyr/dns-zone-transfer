@@ -1,0 +1,17 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr sdngy.edu.cn @dns1.sdngy.edu.cn.
+;; global options: +cmd
+sdngy.edu.cn.		600	IN	SOA	dns1.sdaeu.edu.cn. root.sdaeu.edu.cn. 2014092831 30 30 360 600
+sdngy.edu.cn.		600	IN	A	211.64.116.11
+sdngy.edu.cn.		600	IN	NS	dns1.sdngy.edu.cn.
+dns1.sdngy.edu.cn.	600	IN	A	211.64.116.10
+ftp.sdngy.edu.cn.	600	IN	A	211.64.116.11
+oa.sdngy.edu.cn.	600	IN	A	211.64.116.11
+www.sdngy.edu.cn.	600	IN	A	211.64.116.11
+xsc.sdngy.edu.cn.	600	IN	A	211.64.116.11
+sdngy.edu.cn.		600	IN	SOA	dns1.sdaeu.edu.cn. root.sdaeu.edu.cn. 2014092831 30 30 360 600
+;; Query time: 25 msec
+;; SERVER: 211.64.116.10#53(211.64.116.10)
+;; WHEN: Mon Feb 16 23:21:52 2015
+;; XFR size: 9 records (messages 1, bytes 248)
+

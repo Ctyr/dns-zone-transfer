@@ -1,0 +1,55 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr gdei.edu.cn @ultra10a.gdei.edu.cn.
+;; global options: +cmd
+gdei.edu.cn.		86400	IN	SOA	ultra10a.gdei.edu.cn. localhost.gdei.edu.cn. 2014032200 10800 900 604800 86400
+gdei.edu.cn.		86400	IN	NS	ns2.gdei.edu.cn.
+gdei.edu.cn.		86400	IN	NS	ultra10a.gdei.edu.cn.
+gdei.edu.cn.		86400	IN	MX	5 mailgate.gdei.edu.cn.
+gdei.edu.cn.		86400	IN	MX	10 mail.gdei.edu.cn.
+alumni.gdei.edu.cn.	86400	IN	A	210.38.64.188
+btec.gdei.edu.cn.	86400	IN	A	218.192.57.241
+card.gdei.edu.cn.	86400	IN	A	210.38.64.140
+cas.gdei.edu.cn.	86400	IN	CNAME	security.gdei.edu.cn.
+cms.gdei.edu.cn.	86400	IN	A	210.38.64.55
+cw.gdei.edu.cn.		86400	IN	A	210.38.64.151
+e250.gdei.edu.cn.	86400	IN	CNAME	mail.gdei.edu.cn.
+ecard.gdei.edu.cn.	86400	IN	A	210.38.64.94
+epay.gdei.edu.cn.	86400	IN	A	210.38.64.96
+gdlab.gdei.edu.cn.	86400	IN	A	210.38.64.133
+inetel.gdei.edu.cn.	86400	IN	A	210.38.66.234
+ism.gdei.edu.cn.	86400	IN	A	210.38.64.43
+job.gdei.edu.cn.	86400	IN	A	210.38.64.161
+jsjtest.gdei.edu.cn.	86400	IN	A	210.38.66.235
+jsjx-db.gdei.edu.cn.	86400	IN	A	210.38.66.239
+jsjx-js.gdei.edu.cn.	86400	IN	A	210.38.66.236
+jsjx-xs.gdei.edu.cn.	86400	IN	A	210.38.66.237
+jwgl.gdei.edu.cn.	86400	IN	A	210.38.64.104
+lib.gdei.edu.cn.	86400	IN	A	210.38.64.145
+www.lib.gdei.edu.cn.	86400	IN	CNAME	lib.gdei.edu.cn.
+localhost.gdei.edu.cn.	86400	IN	A	127.0.0.1
+m.gdei.edu.cn.		86400	IN	A	210.38.64.38
+mail.gdei.edu.cn.	86400	IN	A	210.38.64.25
+mailgate.gdei.edu.cn.	86400	IN	CNAME	mail.gdei.edu.cn.
+mec.gdei.edu.cn.	86400	IN	A	210.38.64.122
+my.gdei.edu.cn.		86400	IN	CNAME	portal.gdei.edu.cn.
+ns2.gdei.edu.cn.	86400	IN	A	210.38.64.45
+pop.gdei.edu.cn.	86400	IN	CNAME	mail.gdei.edu.cn.
+pop3.gdei.edu.cn.	86400	IN	CNAME	mail.gdei.edu.cn.
+portal.gdei.edu.cn.	86400	IN	A	210.38.64.54
+security.gdei.edu.cn.	86400	IN	A	210.38.64.57
+smtp.gdei.edu.cn.	86400	IN	CNAME	mail.gdei.edu.cn.
+ultra10a.gdei.edu.cn.	86400	IN	A	210.38.64.33
+vod.gdei.edu.cn.	86400	IN	A	210.38.64.246
+vpn.gdei.edu.cn.	86400	IN	A	210.38.79.2
+web.gdei.edu.cn.	86400	IN	A	210.38.64.59
+www.gdei.edu.cn.	86400	IN	A	210.38.64.37
+www1.gdei.edu.cn.	86400	IN	A	210.38.64.103
+xyw.gdei.edu.cn.	86400	IN	A	210.38.64.143
+zlgc.gdei.edu.cn.	86400	IN	A	210.38.64.105
+zzxx.gdei.edu.cn.	86400	IN	A	210.38.66.251
+gdei.edu.cn.		86400	IN	SOA	ultra10a.gdei.edu.cn. localhost.gdei.edu.cn. 2014032200 10800 900 604800 86400
+;; Query time: 30 msec
+;; SERVER: 210.38.64.33#53(210.38.64.33)
+;; WHEN: Mon Feb 16 23:22:03 2015
+;; XFR size: 47 records (messages 1, bytes 1022)
+

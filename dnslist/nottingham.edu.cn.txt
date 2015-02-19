@@ -1,0 +1,106 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr nottingham.edu.cn @dns2.nottingham.edu.cn.
+;; global options: +cmd
+nottingham.edu.cn.	3600	IN	SOA	dns2.nottingham.edu.cn. root.nottingham.edu.cn. 2008080758 1200 120 1209600 3600
+nottingham.edu.cn.	3600	IN	NS	dns1.nottingham.edu.cn.
+nottingham.edu.cn.	3600	IN	NS	dns2.nottingham.edu.cn.
+nottingham.edu.cn.	3600	IN	MX	10 mx.nottingham.edu.cn.
+nottingham.edu.cn.	3600	IN	MX	20 mail.nottingham.edu.cn.
+nottingham.edu.cn.	3600	IN	TXT	"v=spf1 a ip4:220.191.168.2/27 ip4:121.192.0.19/23 mx -all"
+_sip._tcp.nottingham.edu.cn. 3600 IN	SRV	0 0 5061 cnae.nottingham.edu.cn.
+_sipfederationtls._tcp.nottingham.edu.cn. 3600 IN SRV 1 1 5061 cnae.nottingham.edu.cn.
+_sip._tls.nottingham.edu.cn. 3600 IN	SRV	1 1 443 cnae.nottingham.edu.cn.
+adfs.nottingham.edu.cn.	3600	IN	A	125.111.163.211
+admissions.nottingham.edu.cn. 3600 IN	CNAME	www.entry.nottingham.edu.cn.
+aleph.nottingham.edu.cn. 3600	IN	A	220.191.168.27
+alumni.nottingham.edu.cn. 3600	IN	MX	10 mail.alumni.nottingham.edu.cn.
+alumni.nottingham.edu.cn. 3600	IN	MX	10 mx.alumni.nottingham.edu.cn.
+mail.alumni.nottingham.edu.cn. 3600 IN	A	220.191.168.2
+mx.alumni.nottingham.edu.cn. 3600 IN	A	121.192.0.19
+apply.nottingham.edu.cn. 3600	IN	A	125.111.163.206
+apps.nottingham.edu.cn.	3600	IN	A	125.111.163.202
+autodiscover.nottingham.edu.cn.	3600 IN	A	220.191.168.4
+bidding.nottingham.edu.cn. 3600	IN	A	220.191.168.21
+blogs.nottingham.edu.cn. 3600	IN	CNAME	gus.nottingham.edu.cn.
+career.nottingham.edu.cn. 3600	IN	A	220.191.168.22
+cet-reg.nottingham.edu.cn. 3600	IN	A	125.111.163.206
+cmswip.nottingham.edu.cn. 3600	IN	A	220.191.168.14
+cnae.nottingham.edu.cn.	3600	IN	A	125.111.163.248
+ctl.nottingham.edu.cn.	3600	IN	A	112.124.50.122
+dialin.nottingham.edu.cn. 3600	IN	A	125.111.163.247
+dns1.nottingham.edu.cn.	3600	IN	A	121.192.0.11
+dns2.nottingham.edu.cn.	3600	IN	A	220.191.168.9
+dtl.nottingham.edu.cn.	3600	IN	A	125.111.163.237
+www.dtl.nottingham.edu.cn. 3600	IN	CNAME	dtl.nottingham.edu.cn.
+echo360.nottingham.edu.cn. 3600	IN	A	121.192.0.101
+chat.entry.nottingham.edu.cn. 3600 IN	A	125.111.163.206
+cx.entry.nottingham.edu.cn. 3600 IN	A	125.111.163.206
+www.entry.nottingham.edu.cn. 3600 IN	A	220.191.168.22
+equella.nottingham.edu.cn. 3600	IN	A	125.111.163.230
+test.equella.nottingham.edu.cn.	3600 IN	A	125.111.163.229
+equella1.nottingham.edu.cn. 3600 IN	A	125.111.163.230
+test.equella1.nottingham.edu.cn. 3600 IN A	125.111.163.229
+exad.nottingham.edu.cn.	3600	IN	A	121.192.0.21
+fileway.nottingham.edu.cn. 3600	IN	A	125.111.163.213
+finance-claim.nottingham.edu.cn. 3600 IN A	220.191.168.12
+folders.nottingham.edu.cn. 3600	IN	A	220.191.168.22
+gfc.nottingham.edu.cn.	3600	IN	A	220.191.168.12
+gimmel.nottingham.edu.cn. 3600	IN	CNAME	aleph.nottingham.edu.cn.
+gus.nottingham.edu.cn.	3600	IN	A	220.191.168.7
+gus.nottingham.edu.cn.	3600	IN	MX	10 gus.nottingham.edu.cn.
+icinga.nottingham.edu.cn. 3600	IN	A	125.111.163.221
+idic.nottingham.edu.cn.	3600	IN	A	125.111.163.237
+www.idic.nottingham.edu.cn. 3600 IN	CNAME	idic.nottingham.edu.cn.
+idic-energy.nottingham.edu.cn. 3600 IN	A	125.111.163.237
+www.idic-energy.nottingham.edu.cn. 3600	IN CNAME idic-energy.nottingham.edu.cn.
+idp.nottingham.edu.cn.	3600	IN	A	220.191.168.19
+ioms.nottingham.edu.cn.	3600	IN	A	125.111.163.206
+labinfo.nottingham.edu.cn. 3600	IN	A	220.191.168.26
+ldap.nottingham.edu.cn.	3600	IN	A	220.191.168.5
+legacy.nottingham.edu.cn. 3600	IN	A	125.111.163.210
+libdb1.nottingham.edu.cn. 3600	IN	A	125.111.163.234
+libdb2.nottingham.edu.cn. 3600	IN	A	125.111.163.235
+live.nottingham.edu.cn.	3600	IN	A	125.111.163.207
+lyncdiscover.nottingham.edu.cn.	3600 IN	CNAME	lyncrp.nottingham.edu.cn.
+lyncrp.nottingham.edu.cn. 3600	IN	A	125.111.163.247
+mail.nottingham.edu.cn.	3600	IN	A	220.191.168.2
+media.nottingham.edu.cn. 3600	IN	A	125.111.163.228
+test.media.nottingham.edu.cn. 3600 IN	A	125.111.163.227
+meet.nottingham.edu.cn.	3600	IN	A	125.111.163.247
+metalib.nottingham.edu.cn. 3600	IN	A	220.191.168.28
+mx.nottingham.edu.cn.	3600	IN	A	121.192.0.19
+my.nottingham.edu.cn.	3600	IN	CNAME	my.nottingham.ac.uk.
+nagios.nottingham.edu.cn. 3600	IN	A	220.191.168.11
+officewebapps.nottingham.edu.cn. 3600 IN A	125.111.163.242
+old_aleph.nottingham.edu.cn. 3600 IN	A	125.111.163.231
+old_metalib.nottingham.edu.cn. 3600 IN	A	125.111.163.232
+old_sfx.nottingham.edu.cn. 3600	IN	A	125.111.163.233
+owa.nottingham.edu.cn.	3600	IN	A	220.191.168.4
+pay.nottingham.edu.cn.	3600	IN	A	125.111.163.246
+readinglists.nottingham.edu.cn.	3600 IN	CNAME	list-app.rl.talis.com.
+rl.nottingham.edu.cn.	3600	IN	A	220.191.168.15
+sams.nottingham.edu.cn.	3600	IN	A	125.111.163.206
+saoms.nottingham.edu.cn. 3600	IN	CNAME	sams.nottingham.edu.cn.
+sftp.nottingham.edu.cn.	3600	IN	A	220.191.168.1
+sfx.nottingham.edu.cn.	3600	IN	A	220.191.168.29
+share.nottingham.edu.cn. 3600	IN	A	125.111.163.212
+sharepoint.nottingham.edu.cn. 3600 IN	A	220.191.168.25
+sharepoint2013.nottingham.edu.cn. 3600 IN A	125.111.163.212
+smartcab.nottingham.edu.cn. 3600 IN	A	220.191.168.8
+sophos.nottingham.edu.cn. 3600	IN	A	125.111.163.206
+spdpo.nottingham.edu.cn. 3600	IN	A	125.111.163.206
+sports.nottingham.edu.cn. 3600	IN	A	125.111.163.206
+status.nottingham.edu.cn. 3600	IN	A	128.243.44.17
+test.status.nottingham.edu.cn. 3600 IN	A	128.243.42.123
+streaming.nottingham.edu.cn. 3600 IN	A	220.191.168.16
+weboa.nottingham.edu.cn. 3600	IN	CNAME	finance-claim.nottingham.edu.cn.
+webprint.nottingham.edu.cn. 3600 IN	A	220.191.168.8
+webvpn.nottingham.edu.cn. 3600	IN	A	220.191.168.30
+webwifi.nottingham.edu.cn. 3600	IN	A	2.2.2.2
+www.nottingham.edu.cn.	3600	IN	A	220.191.168.18
+nottingham.edu.cn.	3600	IN	SOA	dns2.nottingham.edu.cn. root.nottingham.edu.cn. 2008080758 1200 120 1209600 3600
+;; Query time: 74 msec
+;; SERVER: 220.191.168.9#53(220.191.168.9)
+;; WHEN: Mon Feb 16 23:21:55 2015
+;; XFR size: 98 records (messages 98, bytes 6027)
+

@@ -1,0 +1,22 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr ntac.edu.cn @green.ntac.edu.cn.
+;; global options: +cmd
+ntac.edu.cn.		86400	IN	SOA	green.ntac.edu.cn. root.green.ntac.edu.cn. 20050640 10800 900 604800 86400
+ntac.edu.cn.		86400	IN	NS	green.ntac.edu.cn.
+ad.ntac.edu.cn.		86400	IN	A	210.29.176.254
+green.ntac.edu.cn.	86400	IN	A	210.29.176.1
+lib.ntac.edu.cn.	86400	IN	A	210.29.176.130
+mail.ntac.edu.cn.	86400	IN	A	210.29.176.102
+nssp.ntac.edu.cn.	86400	IN	A	210.29.180.242
+nysj.ntac.edu.cn.	86400	IN	A	210.29.180.242
+www.ntac.edu.cn.	86400	IN	NS	ad.ntac.edu.cn.
+www.ntac.edu.cn.	86400	IN	A	210.29.176.104
+xn.ntac.edu.cn.		86400	IN	A	210.29.176.61
+xnzsjy.ntac.edu.cn.	86400	IN	A	210.29.176.61
+zsjy.ntac.edu.cn.	86400	IN	A	210.29.176.104
+ntac.edu.cn.		86400	IN	SOA	green.ntac.edu.cn. root.green.ntac.edu.cn. 20050640 10800 900 604800 86400
+;; Query time: 18 msec
+;; SERVER: 210.29.176.1#53(210.29.176.1)
+;; WHEN: Mon Feb 16 23:21:48 2015
+;; XFR size: 14 records (messages 1, bytes 341)
+

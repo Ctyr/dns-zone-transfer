@@ -1,0 +1,116 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr yau.edu.cn @yddns.yau.edu.cn.
+;; global options: +cmd
+yau.edu.cn.		86400	IN	SOA	yddns.yau.edu.cn. root.yddns.yau.edu.cn. 947299390 10800 3600 604800 86400
+yau.edu.cn.		86400	IN	NS	yddns.yau.edu.cn.
+yau.edu.cn.		86400	IN	MX	10 mail.yau.edu.cn.
+2015botxins.yau.edu.cn.	86400	IN	A	219.244.0.21
+blx.yau.edu.cn.		86400	IN	A	219.244.0.23
+bwchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+curbr.yau.edu.cn.	86400	IN	A	219.244.0.21
+cwchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+cyzhb.yau.edu.cn.	86400	IN	A	219.244.0.21
+dag.yau.edu.cn.		86400	IN	A	219.244.0.21
+dbxb.yau.edu.cn.	86400	IN	A	219.244.0.21
+dcffysw.yau.edu.cn.	86400	IN	A	219.244.0.23
+dnywhgl.yau.edu.cn.	86400	IN	A	219.244.0.23
+dwxcb.yau.edu.cn.	86400	IN	A	219.244.0.21
+dxty.yau.edu.cn.	86400	IN	A	219.244.0.23
+dxwl.yau.edu.cn.	86400	IN	A	219.244.0.23
+ftp.yau.edu.cn.		86400	IN	A	219.244.0.252
+fxhx.yau.edu.cn.	86400	IN	A	219.244.0.23
+fyllysj.yau.edu.cn.	86400	IN	A	219.244.0.23
+ggxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+ghchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+gjxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+gjyjs.yau.edu.cn.	86400	IN	A	219.244.0.21
+glx.yau.edu.cn.		86400	IN	A	219.244.0.23
+gonghui.yau.edu.cn.	86400	IN	A	219.244.0.21
+gxllmsh.yau.edu.cn.	86400	IN	A	219.244.0.23
+gzchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+hgxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+hqchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+hqfwjt.yau.edu.cn.	86400	IN	A	219.244.0.21
+hsjdysjyw.yau.edu.cn.	86400	IN	A	219.244.0.21
+hsjdyszpsx.yau.edu.cn.	86400	IN	A	219.244.0.23
+hzsys.yau.edu.cn.	86400	IN	A	219.244.0.21
+jcjyzx.yau.edu.cn.	86400	IN	A	219.244.0.21
+jgdw.yau.edu.cn.	86400	IN	A	219.244.0.21
+jglx.yau.edu.cn.	86400	IN	A	219.244.0.23
+jgxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+jjchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+jky.yau.edu.cn.		86400	IN	A	219.244.0.21
+job.yau.edu.cn.		86400	IN	A	219.244.0.21
+jpkcw.yau.edu.cn.	86400	IN	A	219.244.0.23
+jsjxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+jspx.yau.edu.cn.	86400	IN	A	219.244.0.21
+jsyj.yau.edu.cn.	86400	IN	A	219.244.0.23
+jw.yau.edu.cn.		86400	IN	A	219.244.0.21
+jwc.yau.edu.cn.		86400	IN	A	219.244.0.21
+jxjyxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+jxw.yau.edu.cn.		86400	IN	A	219.244.0.21
+jyjsx.yau.edu.cn.	86400	IN	A	219.244.0.23
+jzxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+kjc.yau.edu.cn.		86400	IN	A	219.244.0.21
+localhost.yau.edu.cn.	86400	IN	A	127.0.0.1
+lswhxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+ltchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+lyxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+mail.yau.edu.cn.	86400	IN	A	219.244.0.20
+mkszyjbyl.yau.edu.cn.	86400	IN	A	219.244.0.23
+mlxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+mndzjs.yau.edu.cn.	86400	IN	A	219.244.0.23
+mxjsysh.yau.edu.cn.	86400	IN	A	219.244.0.23
+mzdgl.yau.edu.cn.	86400	IN	A	219.244.0.23
+nyxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+qzlx.yau.edu.cn.	86400	IN	A	219.244.0.21
+rschu.yau.edu.cn.	86400	IN	A	219.244.0.21
+sakai.yau.edu.cn.	86400	IN	A	219.244.0.15
+sbssh.yau.edu.cn.	86400	IN	A	219.244.0.23
+sdhw.yau.edu.cn.	86400	IN	A	219.244.0.21
+shtjx.yau.edu.cn.	86400	IN	A	219.244.0.23
+sjchu.yau.edu.cn.	86400	IN	A	219.244.0.21
+slx.yau.edu.cn.		86400	IN	A	219.244.0.23
+smkxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+swhx.yau.edu.cn.	86400	IN	A	219.244.0.23
+tdh.yau.edu.cn.		86400	IN	A	219.244.0.21
+tuanwei.yau.edu.cn.	86400	IN	A	219.244.0.21
+tyxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+wdxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+weike.yau.edu.cn.	86400	IN	A	219.244.0.23
+wgyxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+wlhx.yau.edu.cn.	86400	IN	A	219.244.0.23
+wlzx.yau.edu.cn.	86400	IN	A	219.244.0.21
+www.yau.edu.cn.		86400	IN	A	219.244.0.21
+wxy.yau.edu.cn.		86400	IN	A	219.244.0.21
+wyzzjcjc.yau.edu.cn.	86400	IN	A	219.244.0.23
+xdyxdl.yau.edu.cn.	86400	IN	A	219.244.0.23
+xlxyrs.yau.edu.cn.	86400	IN	A	219.244.0.23
+xlzx.yau.edu.cn.	86400	IN	A	219.244.0.21
+xschu.yau.edu.cn.	86400	IN	A	219.244.0.21
+xsyjw.yau.edu.cn.	86400	IN	A	219.244.0.21
+xuebao.yau.edu.cn.	86400	IN	A	219.244.0.21
+xyzh.yau.edu.cn.	86400	IN	A	219.244.0.21
+yajs.yau.edu.cn.	86400	IN	A	219.244.0.21
+yddns.yau.edu.cn.	86400	IN	A	219.244.0.19
+ydfz.yau.edu.cn.	86400	IN	A	219.244.0.21
+yjsc.yau.edu.cn.	86400	IN	A	219.244.0.21
+yxy.yau.edu.cn.		86400	IN	A	219.244.0.21
+yydysx.yau.edu.cn.	86400	IN	A	219.244.0.23
+yyjsh.yau.edu.cn.	86400	IN	A	219.244.0.23
+yyx.yau.edu.cn.		86400	IN	A	219.244.0.23
+zdgbxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+zfxy.yau.edu.cn.	86400	IN	A	219.244.0.21
+zgddwx.yau.edu.cn.	86400	IN	A	219.244.0.23
+zgds.yau.edu.cn.	86400	IN	A	219.244.0.21
+zggcdls.yau.edu.cn.	86400	IN	A	219.244.0.23
+zggdwx.yau.edu.cn.	86400	IN	A	219.244.0.23
+zgxdwx.yau.edu.cn.	86400	IN	A	219.244.0.23
+zsw.yau.edu.cn.		86400	IN	A	219.244.0.21
+zzb.yau.edu.cn.		86400	IN	A	219.244.0.21
+yau.edu.cn.		86400	IN	SOA	yddns.yau.edu.cn. root.yddns.yau.edu.cn. 947299390 10800 3600 604800 86400
+;; Query time: 68 msec
+;; SERVER: 219.244.0.19#53(219.244.0.19)
+;; WHEN: Mon Feb 16 23:22:09 2015
+;; XFR size: 108 records (messages 1, bytes 2410)
+

@@ -1,0 +1,16 @@
+
+; <<>> DiG 9.8.4-rpz2+rl005.12-P1 <<>> +time=1 axfr xyac.edu.cn @dns.xyac.edu.cn.
+;; global options: +cmd
+xyac.edu.cn.		86400	IN	SOA	dns.xyac.edu.cn. root.xyac.edu.cn. 2014090402 150 200 4000 86400
+xyac.edu.cn.		86400	IN	NS	dns.xyac.edu.cn.
+dns.xyac.edu.cn.	86400	IN	A	211.67.160.8
+jpkc.xyac.edu.cn.	86400	IN	A	218.28.228.164
+jwgl.xyac.edu.cn.	86400	IN	A	218.28.228.165
+www.xyac.edu.cn.	86400	IN	A	218.28.228.163
+www1.xyac.edu.cn.	86400	IN	A	218.28.228.167
+xyac.edu.cn.		86400	IN	SOA	dns.xyac.edu.cn. root.xyac.edu.cn. 2014090402 150 200 4000 86400
+;; Query time: 57 msec
+;; SERVER: 211.67.160.8#53(211.67.160.8)
+;; WHEN: Mon Feb 16 23:22:00 2015
+;; XFR size: 8 records (messages 1, bytes 223)
+
